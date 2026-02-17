@@ -1,0 +1,70 @@
+---
+const pages = [
+    {
+        name: 'Politikk',
+        path: '/politikk'
+    },
+    {
+        name: 'Krambua',
+        path: '/krambua'
+    },
+    {
+        name: 'Om NMU',
+        path: '/omnmu'
+    },
+]
+
+const { currentPage } = Astro.props;
+---
+
+<div class='outerContainer'>
+    <div class='imgContainer'>
+        <a href='/'><img src='logo.png' height=60px></a>
+    </div>
+    <div class='pagesContainer'>
+        {pages.map((page) => <a  href={page.path} class:list={['link', {'activepage': currentPage == page.path}]}>{page.name}</a>)}
+    </div>
+</div>
+
+<style>
+    body {
+        margin: 0;
+    }
+
+    .outerContainer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        background-color: #6496a5;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .imgContainer {
+        padding-left: 50px;
+    }
+
+    .pagesContainer {
+        display: flex;
+        align-items: right;
+        justify-content: center;
+        gap: 30px;
+        padding-right: 50px;
+    }
+
+    .link {
+        color: #eee;
+        font-family: 'Source Serif 4';
+        font-size: 25px;
+        text-decoration: none;
+    }
+
+    .link:hover {
+        color: #ddd;
+    }
+
+    .activepage {
+        font-weight: bold;
+    }
+</style>
