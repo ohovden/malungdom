@@ -12,17 +12,22 @@ const pages = [
         name: 'Om NMU',
         path: '/omnmu'
     },
-]
+];
 
-const { currentPage } = Astro.props;
+const { pagePath } = Astro.props;
+import '../../styles/globals.css';
+import Button from './button.astro'
 ---
 
 <div class='outerContainer'>
     <div class='imgContainer'>
-        <a href='/'><img src='logo.png' height=60px></a>
+        <a href='/'><img src='nmu-logo.svg'></a>
     </div>
     <div class='pagesContainer'>
-        {pages.map((page) => <a  href={page.path} class:list={['link', {'activepage': currentPage == page.path}]}>{page.name}</a>)}
+        {pages.map((page) => <a href={page.path} data-text={page.name} class:list={['link', {'activepage': pagePath == page.path}]}>{page.name}</a>)}
+        <Button path='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar' 
+                colorVar ='main-lav' 
+                text='Meld deg inn!' />
     </div>
 </div>
 
@@ -36,27 +41,39 @@ const { currentPage } = Astro.props;
         align-items: center;
         justify-content: space-between;
         width: 100%;
-        background-color: #6496a5;
-        padding-top: 10px;
-        padding-bottom: 10px;
+        height: 6rem;
+        background-color: var(--main-blue);
+        padding-top: 5px;
+        padding-bottom: 5px;
+        box-shadow: 0 15px 24px rgba(0, 0, 0, 0.14);
+        z-index: 100;
     }
 
     .imgContainer {
-        padding-left: 50px;
+        padding-left: 30px;
+        box-sizing: border-box;
+        height: 100%;
+    }
+
+    .imgContainer a img {
+        height: 100%;
+        width: auto;
+        display: block;
     }
 
     .pagesContainer {
         display: flex;
-        align-items: right;
-        justify-content: center;
-        gap: 30px;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 2.5rem;
         padding-right: 50px;
     }
 
     .link {
-        color: #eee;
-        font-family: 'Source Serif 4';
-        font-size: 25px;
+        color: #fff;
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        font-size: 1.7rem;
+        font-weight: 500;
         text-decoration: none;
     }
 
@@ -64,7 +81,13 @@ const { currentPage } = Astro.props;
         color: #ddd;
     }
 
+    .activecont {
+    }
+
     .activepage {
-        font-weight: bold;
+        color: #fff;
+        -webkit-text-stroke: 0.2px #fff;
+        border-bottom: 2px solid #eee ;
+        margin-bottom: -2px;
     }
 </style>

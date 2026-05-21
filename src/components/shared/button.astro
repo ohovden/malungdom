@@ -1,0 +1,35 @@
+---
+const { colorVar, path, text } = Astro.props;
+---
+
+<a href={path}>
+<div class='button' style={`--button-color: var(--${colorVar})`}>
+    <p>
+        { text }
+    </p>
+</div>
+</a>
+
+<style>
+    .button {
+        background-color: var(--button-color);
+        width: fit-content;
+        padding-left: 18px;
+        padding-right: 18px;
+        padding-bottom: 12px;
+        padding-top: 12px;
+        border-radius: 4px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+    .button:hover {
+        transform: scale(1.04);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .button p {
+        color: #fff;
+        font-weight: 600;
+        font-size: 1.7rem;
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+</style>

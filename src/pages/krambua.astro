@@ -1,15 +1,17 @@
 ---
+import Layout from '../layouts/Layout.astro';
 import Banner from '../components/shared/banner.astro';
-import '../styles/global.css'
 ---
 
 
 <html>
 	<body>
-		<div>
-			<main>
-				<Banner currentPage='/krambua'/>
-			</main>
-		</div>
+		<Layout currentPage = '/krambua'>
+				<div class='twoColumn'>
+					<div class='textCardGreen'>
+						<p>Det politiske programmet legg grunnlaget for organisasjonen</p>
+					</div>
+				</div>
+		</Layout>
 	</body>
 </html>

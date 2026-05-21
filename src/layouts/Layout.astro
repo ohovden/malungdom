@@ -1,3 +1,10 @@
+---
+import '../styles/globals.css'
+
+const { currentPage } = Astro.props;
+import Banner from '../components/shared/banner.astro'
+---
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -6,9 +13,10 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<title>(dev) Norsk Målungdom</title>
 	</head>
 	<body>
+		<Banner pagePath={currentPage} />
 		<slot />
 	</body>
 </html>
@@ -20,4 +28,5 @@
 		width: 100%;
 		height: 100%;
 	}
+
 </style>

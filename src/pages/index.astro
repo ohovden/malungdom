@@ -1,18 +1,74 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
-import Banner from '../components/shared/banner.astro';
-import '../styles/global.css'
+import Button from '../components/shared/button.astro';
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 <html>
 	<body>
+	<Layout currentPage='/'/>
 		<div>
 			<main>
-				<Banner currentPage='/'/>
+				<div class='picandtext'>
+					<div class='mainText'>
+						<h1 class='headline'>Ver med og kjemp for språket vårt!</h1>
+						<p>
+						Norsk Målungdom er eit landsdekkjande mållag med over 1200 elevar og studentar som kjempar for nynorsk, dialekt og språkmangfald i Noreg. 
+						</p>
+						<br/><br/>
+						<div class="grid grid-cols-3">
+							<Button text="Kvifor nynorsk?" colorVar='main-dgray'/>
+							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/omnmu'/>
+							<Button text="Finn ditt lokallag" colorVar='main-dgray'/>
+						</div>
+					</div>
+					<img src='../../public/smib.JPG'>
+				</div>
+				<div class="grid grid-cols-2 py-12">
+					<div>
+						<p class="flex items-center justify-center font-['IBM_Plex_Serif'] italic font-light text-4xl px-32 leading-snug tracking-wide">
+							«Det språklege mangfaldet i verda er umisteleg, av di kvart språk har sin unike måte å tolka røynda på. Norske dialektar, skriftspråk og mindretalsspråk er Noregs bidrag til det globale språkmangfaldet. Det er vår oppgåve å tryggja og byggja vidare på dette bidraget.»
+						</p>
+						<h1 class="flex items-center justify-center font-['Gloock'] text-5xl py-12">
+							<span class="-translate-x-15">—Tufta til Norsk Målungdom</span>
+							
+						</h1>
+					</div>
+				</div>
 			</main>
 		</div>
+	</Layout>
 	</body>
 </html>
+
+<style>
+	.picandtext {
+		display: grid;
+    	grid-template-columns: 1fr 1fr;
+		gap: 1px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.mainText {
+		text-align: justify;
+		background-color: #f3f9fa;
+		padding-left: 5rem;
+		padding-right: 5rem;
+		align-content: center;
+	}
+	.headline {
+		font-family: 'Gloock';
+		text-align: center;
+		padding-bottom: 2rem;
+		font-size: 5rem;
+		width: 100%;
+	}
+	.mainText p {
+		font-family: 'IBM Plex Serif', serif;
+		font-weight: 400;
+		font-style: italic;
+		font-size: 1.5rem;
+	}
+
+</style>

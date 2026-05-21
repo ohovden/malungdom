@@ -2,17 +2,27 @@
 import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
 import Banner from '../components/shared/banner.astro';
-import '../styles/global.css'
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 <html>
 	<body>
+		<Layout currentPage='/politikk'/>
 		<div>
 			<main>
-				<Banner currentPage='/politikk'/>
+				<div class='twoColumn'>
+					<div class='textCardGreen'>
+						<h1>Politisk program</h1>
+						<p>Det politiske programmet legg grunnlaget for organisasjonen. Programma seier noko om kva me meiner i ulike politiske spørsmål.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+					</div>
+					<div class='textCardGreen'>
+						<p>Vi har også mange fråsegner du kan lesa!</p>
+					</div>
+				</div>
 			</main>
 		</div>
+		</Layout>
 	</body>
 </html>
