@@ -21,7 +21,7 @@ import Button from './button.astro'
 
 <div class='outerContainer'>
     <div class='imgContainer'>
-        <a href='/'><img src='nmu-logo.svg'></a>
+        <a href='/'><img src='nmu-logo.svg' alt='Logo til Norsk Målungdom'></a>
     </div>
     <div class='pagesContainer'>
         {pages.map((page) => <a href={page.path} data-text={page.name} class:list={['link', {'activepage': pagePath == page.path}]}>{page.name}</a>)}

@@ -5,8 +5,17 @@
   :root {
     --main-blue: theme('colors.blue.300');
     --main-blue-dark: theme('colors.blue.300');
+    --main-blue: #b4cef2;
+    --main-blue: #00637d;
+
     --main-green: #86cb92;
+    --main-green: #b4d3a7;
+    --main-green: theme('colors.green.300');
+
+    --main-lav: #d4badd;
+    --main-lav: theme('colors.purple.300');
     --main-lav: #d982c9;
+
     --main-dgray: #6ba978;
   }
 

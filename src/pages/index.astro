@@ -10,22 +10,28 @@ import Button from '../components/shared/button.astro';
 	<Layout currentPage='/'/>
 		<div>
 			<main>
-				<div class='picandtext'>
-					<div class='mainText'>
+				<div class='grid grid-cols-1 md:grid-cols-2'>
+					<div class='mainText order-2 md:order-1'>
 						<h1 class='headline'>Ver med og kjemp for språket vårt!</h1>
 						<p>
 						Norsk Målungdom er eit landsdekkjande mållag med over 1200 elevar og studentar som kjempar for nynorsk, dialekt og språkmangfald i Noreg. 
 						</p>
 						<br/><br/>
 						<div class="grid grid-cols-3">
-							<Button text="Kvifor nynorsk?" colorVar='main-dgray'/>
-							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/omnmu'/>
-							<Button text="Finn ditt lokallag" colorVar='main-dgray'/>
+							<Button text="Kvifor nynorsk?" colorVar='main-dgray' width='15rem'/>
+							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/politikk' width='15rem'/>
+							<Button text="Lokallaga våre" colorVar='main-dgray' width='15rem' />
 						</div>
 					</div>
-					<img src='../../public/smib.JPG'>
+					<img src='../../public/smib.JPG' class='order-1 md:order-2' alt=''>
 				</div>
 				<div class="grid grid-cols-2 py-12">
+					<div class='textCardGreen mx-25'>
+						<h1 class='flex items-center justify-center font-["Gloock"] text-5xl'>Arrangement</h1>
+						<p class=''>
+							5.-7. juni: Landsstyremøte
+						</p>
+					</div>
 					<div>
 						<p class="flex items-center justify-center font-['IBM_Plex_Serif'] italic font-light text-4xl px-32 leading-snug tracking-wide">
 							«Det språklege mangfaldet i verda er umisteleg, av di kvart språk har sin unike måte å tolka røynda på. Norske dialektar, skriftspråk og mindretalsspråk er Noregs bidrag til det globale språkmangfaldet. Det er vår oppgåve å tryggja og byggja vidare på dette bidraget.»
@@ -36,6 +42,14 @@ import Button from '../components/shared/button.astro';
 						</h1>
 					</div>
 				</div>
+				<div class='grid grid-cols-2 py-12'>
+				<a href='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/m%C3%A5lg%C3%A5ve' class='hover:scale-105 transition-transform duration-150 block'>
+					<div class='textCardGreen mx-25'>
+						<h1 class='flex items-center justify-center font-["Gloock"] text-5xl py-8'>Gi ei målgåve i dag!</h1>
+						<img src='../../public/maalgaave.jpg' class='' />
+					</div>
+				</a>
+				</div>
 			</main>
 		</div>
 	</Layout>
@@ -44,9 +58,6 @@ import Button from '../components/shared/button.astro';
 
 <style>
 	.picandtext {
-		display: grid;
-    	grid-template-columns: 1fr 1fr;
-		gap: 1px;
 		margin-left: 0px;
 		margin-right: 0px;
 	}
@@ -66,7 +77,7 @@ import Button from '../components/shared/button.astro';
 	}
 	.mainText p {
 		font-family: 'IBM Plex Serif', serif;
-		font-weight: 400;
+		font-weight: 300;
 		font-style: italic;
 		font-size: 1.5rem;
 	}
