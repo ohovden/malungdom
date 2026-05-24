@@ -1,0 +1,32 @@
+
+.fraasegnCard {
+  background-color: #fafafa;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  align-items: center;
+  max-width: 1000px;
+  margin: auto;
+  height: fit-content;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 15px;
+  border: 0.20rem solid var(--main-green);
+  text-align: justify;
+}
+.fraasegnCard p {
+  color: #333;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+}
+.fraasegnCard h1 {
+  font-size: 3rem;
+  padding-bottom: 1.5rem;
+}
+
+@media(max-width: 768px) {
+  .fraasegnCard {
+    top: 55dvh
+  }
+}

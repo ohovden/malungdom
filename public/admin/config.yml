@@ -1,0 +1,43 @@
+media_folder: "src/assets/images" # Location where files will be stored in the repo
+public_folder: "src/assets/images" # The src attribute for uploaded media
+
+collections: 
+  - name: "fraasegn"
+    label: "Fråsegn"
+    folder: "src/content/fraasegner"
+    create: true
+    fields:
+      - {label: "Tittel", name: "title", widget: "string"}
+      - {label: "Dato", name: "date", widget: "datetime", time_format: false}
+      - {label: "Vedteke av", name: "signatory", widget: "string"}
+      - {label: "Bilete", name: "image", widget: "image"}
+      - {label: "Brødtekst", name: body, widget: "markdown"}
+
+  - name: "artikkel"
+    label: "Artikkel"
+    folder: "src/content/artiklar"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Tittel", name: "title", widget: "string"}
+      - {label: "Dato", name: "date", widget: "datetime", time_format: false}
+      - {label: "Lenkje", name: "slug", widget: "string", required: true}
+      - {label: "Bilete", name: "image", widget: "image"}
+      - {label: "Brødtekst", name: body, widget: "markdown"}
+
+  - name: "event"
+    label: "Hending"
+    folder: "src/content/hendingar"
+    create: true
+    fields:
+      - {label: "Tittel", name: "title", widget: "string"}
+      - {label: "Dato", name: "date", widget: "datetime", time_format: false}
+      - {label: "Stad", name: "place", widget: "string"}
+      - {label: "Bilete", name: "image", widget: "image"}
+      - {label: "Brødtekst", name: body, widget: "markdown"}
+
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: main

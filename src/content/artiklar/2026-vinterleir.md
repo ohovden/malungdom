@@ -1,0 +1,73 @@
+---
+title: "Vinterleir i Ål 2026"
+date: 
+slug: 2026/vinterleir
+image: src/assets/images/vl20ski.jpg
+---
+Praktisk
+
+=======
+
+**Kvar**: Hallingdal Leirsted i Ål i Hallingdal <br/>
+
+**Når**: 23. til 25. januar 2026 <br/>
+
+**Pris**: 200 kr ved påmelding før 25. desember, 300 kr etter 25. desember<br/>
+
+**Reise**: Me kostar reisa for alle som kjem på leiren.<br/>
+
+
+
+**Påmeldingsfrist**: 5. januar 2026
+
+
+
+**Pakkeliste**:
+
+- toalettsaker
+
+- handkle
+
+- varme klede
+
+- uteklede og gode sko
+
+- akebrett (valfritt)
+
+- ski og skisko (valfritt)
+
+- spel, handarbeid eller andre aktivitetar du vil ha med
+
+
+
+----------
+
+
+
+Reiseruter
+
+=====
+
+Merk: Me dekkjer i utgangspunktet berre billegaste reisemåte. Om du vil nytte noko anna, må du avtale det med skrivarstova.
+
+
+
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Mari Kaslegard på e-post [norsk@malungdom.no](mailto:norsk@malungdom.no) eller telefon 97342864. 
+
+
+
+-------------
+
+Informasjon til føresette
+
+=========================
+
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+
+Difor har me laga eit [informasjonsskriv til
+
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+
+dei kan kjenne seg tryggare.
+
+----

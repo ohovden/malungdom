@@ -1,0 +1,287 @@
+---
+title: "Reiseruter"
+date: 
+slug: 2017/haustkonferanse/reiseruter
+image: 
+---
+Generelt om reise
+
+=================
+
+I år skal haustkonferansen vere i Drammen. 
+
+
+
+**Val av transportmiddel:** Det enklaste og billegaste for dei som bur i nærleiken av ei togline, er å ta toget. For folk som bur verkeleg langt vekke frå Drammen (Nord-Noreg, til dømes), kan det henda fly er einaste fornuftige reisemåte mtp. tidsbruk og reisebelastning. Ved bruk av fly tilrår me å kryssjekka prisar på Widerøe, SAS og Norwegian. For Widerøe/SAS er det lurt å sjekka både ungdomspris og billegaste vaksenpris. Det varierer frå avgang til avgang kva for ein av desse som er billegast (hja Norwegian kan du nytte koda UNDER26 for å få ungdomsbillett). Merk: Me dekkjer i utgangspunktet ikkje fly frå andre stader i Sør-Noreg – det må i så fall avtalast med oss på førehand. Du kan eventuelt få refundert tilsvarande billegaste reisemåte, og ta mellomlegget sjølv. Tek du buss, tilrår me å kjøpa tur-retur-billett – då får du ofte betre pris.
+
+
+
+**OBS!** Nedst på sida finn du rutetider for ein del av dei store tog- og busslinene. Mange av dei opplista avgangane gjer at du kjem fram på eit fjollete tidspunkt, anten veldig tidleg, eller så seint at du går glipp av delar av programmet. Dersom du vil reisa på eit fornuftig tidspunkt, som gjer at du unngår å mista delar av programmet, så bør du reisa med ein avgang som er oppførd med utheva skrift. 
+
+
+
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller anna, ta kontakt med praktisk ansvarleg Fredrik Hope på telefon 954 04 115 eller e-post fredrik.hope@nynorsk.no.
+
+
+
+
+
+Reiseruter
+
+=================
+
+**Fredag 29. september**
+
+
+
+*Direkte til Drammen*
+
+
+
+<dt>Frå Trondheim til Drammen (tog)
+
+<dd>0545-1402
+
+<dd>**0818-1554**
+
+<dd>0945-1802
+
+<dd>1320-2054
+
+<dd>1530-2254
+
+<dd>2320-0742
+
+<dt>Frå Bergen til Drammen (tog)
+
+<dd>**0757-1407**
+
+<dd>1159-1833
+
+<dd>1559-2157
+
+<dd>2259-0551
+
+<dt>Frå Stavanger til Drammen (tog)
+
+<dd>0422-1151
+
+<dd>0648-1350
+
+<dd>**0849-1551**
+
+<dd>1015-1751
+
+<dd>1246-1951
+
+<dd>1533-2251
+
+<dd>2237-0650
+
+<dt>Frå Kristiansand til Drammen (tog)
+
+<dd>0445-0851
+
+<dd>0754-1151
+
+<dd>0956-1350
+
+<dd>1155-1551
+
+<dd>**1350-1551**
+
+<dd>1350-1751
+
+<dd>1603-1951
+
+<dd>1853-2251	 	 	 	
+
+<dt>Frå Sandane til Drammen (buss)
+
+<dd>**0805/0930-1730**
+
+<dt>Frå Førde til Drammen (buss)
+
+<dd>**0930-1730**
+
+<dt>Frå Haugesund til Drammen (buss)
+
+<dd>**0930-1735**
+
+<dd>1300-2055
+
+<dd>2220-0625	 	
+
+<dt>Frå Odda til Drammen (buss)
+
+<dd>**0010-0625**
+
+<dd>**1120-1735**
+
+<dd>1500-2055
+
+
+
+*Via Oslo:*
+
+
+
+<dt>Dei som reiser via Oslo, tek bussen (Timeekspressen TE) vidare derfrå.
+
+<dt>Frå Oslo bussterminal til Drammen (Vårveien, haldeplassen nærast Åssiden skole)
+
+<dd>Kvar time klokka 00 frå klokka 0600 til 2000
+
+<dd>klokka 2200 (tek rundt 55 min)	
+
+<dd>*Det er òg mogleg å take andre bussar til Åssiden/Drammen, sjekk [ruter.no](https://ruter.no/)*	 	
+
+<dt>Frå Molde (buss) til Oslo
+
+<dd>**0755-1509**
+
+<dd>1300-2010
+
+<dd>1440-2210
+
+<dt>Frå Ålesund (buss) til Oslo
+
+<dd>**0705-1509**
+
+<dd>1215-2010
+
+<dd>1400-2210
+
+<dt>Frå Volda (buss) til Oslo
+
+<dd>**0550-1509**
+
+<dd>1120-2010/2030
+
+<dd>1250-2210
+
+
+
+*Flytog*
+
+
+
+<dt>Flytoget går kvart 10. minutt frå Oslo S, og annankvart tog går direkte frå Drammen. Kjøp ungdomsbillett!
+
+
+
+**Sundag 21. oktober**
+
+
+
+*Direkte frå Drammen*
+
+
+
+<dt>Til Trondheim frå Drammen (tog)
+
+<dd>0655-1445
+
+<dd>0853-1855
+
+<dd>1253-2100
+
+<dd>1341-2205
+
+<dd>**1353-2205**
+
+<dd>**1515-2243**
+
+<dd>2215-0700
+
+<dt>Til Bergen frå Drammen (tog)
+
+<dd>0846-1452
+
+<dd>1115-1752
+
+<dd>1303-1945
+
+<dd>**1645-2235**
+
+<dd>2351-0656
+
+<dt>Til Stavanger frå Drammen (tog)
+
+<dd>1146-1918
+
+<dd>**1543-2248**
+
+<dd>1746-0101
+
+<dd>2339-0733
+
+<dt>Til Kristiansand frå Drammen (tog)
+
+<dd>0800-11.53
+
+<dd>12.00-1601
+
+<dd>**1500-1903**
+
+<dd>1700-2108
+
+<dd>1900-2309
+
+<dt>Til Skei frå Drammen (buss)
+
+<dd>**1540-2255**
+
+<dt>Til Førde frå Drammen (buss)
+
+<dd>0920-1805
+
+<dd>**1450-2340**
+
+<dt>Til Haugesund frå Drammen (buss)
+
+<dd>1010-1820
+
+<dd>**1410-2220**
+
+<dd>2310-0720
+
+<dt>Til Odda frå Drammen (buss)
+
+<dd>0945-1645
+
+<dd>**1340-2030**
+
+
+
+*Via Oslo*
+
+
+
+<dt>Frå Åssiden vgs til Oslo bussterminal*
+
+<dd>Avgang 0911, 1011, 1111, 1152, 1211, 1311, **1352**, **1411**, **1511**, 1552, 1611, 1711, 1752, 1811, 1911, 1952, 2011, 2111, 2211 (tek ca. 55 min)
+
+<dt>Til Nordfjordeid / Volda frå Oslo
+
+<dd>0930-1910/2055
+
+<dd>**1530-0030**/- (går ikkje til Volda)
+
+<dd>**2200-0655/0800**
+
+<dt>Til Molde frå Oslo (buss)
+
+<dd>**2200-1015**
+
+<dt>Til Ålesund frå Oslo (buss)
+
+<dd>**2200-0845**
+
+
+
+*Flytog*
+
+
+
+<dt>Flytoget går kvart 10. minutt til Oslo S, og annankvart tog går heilt til Drammen. Kjøp ungdomsbillett!

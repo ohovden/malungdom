@@ -2,12 +2,27 @@
 import '../styles/globals.css'
 
 const { currentPage } = Astro.props;
-import Banner from '../components/shared/banner.astro'
+import Banner from '../components/banner/banner.astro'
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="no">
 	<head>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+    	<style>
+        	body {
+        		visibility: hidden;
+        	}
+    	</style>
+    	<script>
+        	document.fonts.ready.then(() => {
+            	document.body.style.visibility = 'visible';
+
+				document.querySelectorAll('.slide-up').forEach(el => {
+            		(el as HTMLElement).style.animationPlayState = 'running'
+        		})
+			})
+    	</script>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />

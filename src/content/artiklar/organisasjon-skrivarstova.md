@@ -1,0 +1,51 @@
+---
+title: ""
+date: 
+slug: organisasjon/skrivarstova
+image: 
+---
+Om skrivarstova
+
+====
+
+Skrivarstova er sett saman av skrivar og kontormedarbeidar, i tillegg til leiaren. Her kan du [kontakte skrivarstova](/kontakt).
+
+
+
+**Skrivaren** har hovudansvar for dagleg drift, økonomiarbeid, rekneskap, medlemsregister og organisatorisk arbeid, i tillegg til å vere skrivar for sentralstyret og landsstyret. Dette er den same rolla andre organisasjonar kallar «dagleg leiar» eller «generalsekretær».
+
+
+
+**Leiaren** i sentralstyret er frikjøpt i full stilling for å arbeide med politikk og oppfølging av styre og lokallag. 
+
+
+
+Kontakt
+
+====
+
+**Norsk Målungdom**<br>
+
+Dronningens gate 22, 0154 Oslo<br>
+
+E-post: [norsk@malungdom.no](mailto:norsk@malungdom.no)<br>
+
+Telefon: [97 34 28 64](tel:+4797342864)
+
+Dei tilsette
+
+====
+
+Leiar – **Sebastian Vinsent Natvik** (*Frå Alver, fødd 2003*)<br>
+
+E-post: [sebastian@malungdom.no](mailto:sebastian@malungdom.no)<br> 
+
+Telefon: [99 50 80 11](tel:+4799508011)
+
+
+
+Skrivar - **Mari Kaslegard** <br>
+
+E-post: [mari@malungdom.no](mailto:mari@malungdom.no)<br>
+
+Telefon: [41 66 26 80](tel:+4741662680)

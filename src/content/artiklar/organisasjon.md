@@ -1,0 +1,85 @@
+---
+title: ""
+date: 
+slug: organisasjon
+image: 
+---
+NMU er partipolitisk uavhengig, og er ungdomsorganisasjonen til
+
+Noregs Mållag. Me arbeider for at alle skal ha høve og rett til
+
+å skrive nynorsk, for å take vare på det språklege mangfaldet og
+
+å styrkje dei språklege rettane.
+
+
+
+Dette inneber at nynorskbrukarar får bli møtt av språket sitt i media,
+
+skulekvardagen og elles i samfunnet og at ein skal kunne bruke dialekten sin
+
+der ein vil. Me meiner òg at det norske samfunnet har eit ansvar for at
+
+brukarar av kvensk, dei samiske språka og andre minoritetsspråk skal
+
+respekterast og bli støtta opp om.
+
+
+
+Kvart år vitjar NMU skular over heile landet, og arbeider særleg med dei
+
+språklege rettane til elevar både med nynorsk som hovudmål og som sidemål. Me
+
+passar på at mållova og andre språkrettar vert følgde. Andre saker me arbeider
+
+for er nynorskundervising for framandspråklege, nynorsk i media, innføring av
+
+nynorsk på nye område og meir nynorsk i næringslivet.
+
+
+
+Det eldste lokallaget vart skipa alt i 1877 (Maalvinarlaget), og NMU kom til
+
+som samlande organisasjon i 1961, under namnet Noregs Student- og Elevmållag
+
+(NSEM).
+
+
+
+Informasjon
+
+-----------
+
+
+
+<dl>
+
+<dt>Postadresse:
+
+<dd>Norsk Målungdom<br>
+
+<dd>Dronningens gate 22<br>
+
+    0154 Oslo<br>
+
+    <a href="https://maps.app.goo.gl/b88wC4GuMCqU7CW57">kart</a>
+
+<dt>E-post:
+
+<dd><a href="mailto:norsk@malungdom.no">norsk@malungdom.no</a>
+
+<dt>Telefon:
+
+<dd><a href="tel:+4797342864">97 34 28 64</a>
+
+<dt>Organisasjonsnummer:
+
+<dd><tt>959 358 451</tt><br>
+
+    <a href="https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=959358451">brreg</a>
+
+<dt>Kontonummer (medlemspengar):
+
+<dd><tt>3450.65.48618</tt>
+
+</dl>

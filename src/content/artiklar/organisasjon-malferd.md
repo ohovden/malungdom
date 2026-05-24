@@ -1,0 +1,29 @@
+---
+title: ""
+date: 
+slug: organisasjon/malferd
+image: 
+---
+Målferdopplegget går til vanleg over to skuletimar for éin klasse av gongen, og
+
+me tilpassar stoffet etter nivået til elevane. Me vitjar både vidaregåande
+
+skular og ungdomsskular. Me tek opp emne som språkhistorie, dialektar i Noreg, språkmangfald og språkleg toleranse.
+
+Føredraget inneheld to bolkar: ein bolk der vi tek føre oss språkhaldningar og språkvalsmekanismar, og ein bolk der vi tek føre oss den norske språksoga frå gamalnorsk tid til i dag.
+
+
+
+Om det er spesielle emne elevane interesserer seg ekstra mykje for, snakkar me
+
+gjerne meir om det. Det kan til dømes vera stor skilnad på kva elevar
+
+i nynorskområde og bokmålsområde synest er spanande å snakka om. Kva kunnskapar
+
+og haldningar elevane har til språk og nynorsk på førehand har ikkje noko
+
+å seia. Om du vil vita meir kan du lesa [målferdbrevet
+
+vårt](standard-malfararbrev), og om du vil ha målferd på skulen din, kan du
+
+[kontakta skrivarstova](/organisasjon/skrivarstova/).

@@ -1,28 +1,46 @@
 ---
 import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
-import Banner from '../components/shared/banner.astro';
+import Button from '../components/shared/button.astro'
+import Card from '../components/shared/card.astro';
+import FraasegnModal from '../components/politikk/fraasegner';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import { getCollection } from 'astro:content';
+
+const fraasegner = await getCollection('fraasegner');
+
 ---
 <html>
 	<body>
 		<Layout currentPage='/politikk'/>
 		<div>
 			<main>
-				<div class='twoColumn'>
-					<div class='textCardGreen'>
+				<FraasegnModal fraasegner = {fraasegner} client:load/>
+				<div class='grid grid-cols-1 md:grid-cols-2 slide-up delay-2'>
+					<Card> <div class='m-4'>
 						<h1>Politisk program</h1>
 						<p>Det politiske programmet legg grunnlaget for organisasjonen. Programma seier noko om kva me meiner i ulike politiske spørsmål.</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-					</div>
-					<div class='textCardGreen'>
-						<p>Vi har også mange fråsegner du kan lesa!</p>
-					</div>
+					</div></Card>
+					<Card> <div class='m-4'>
+						<h1>Les fråsegnene våre</h1>
+						<p> Landsmøta og landsstyret vedtek kvart år fråsegner om aktuelle målpolitiske tema. Me legg dei ut på nettsida etter kvart som dei blir reinskrivne.</p>
+						<br/>
+							{fraasegner.map((post, i) => (
+								<div id=`stmt-${i}` class="my-4 rounded-md bg-[var(--main-lgrey)] border-1 border-[var(--main-lav)]">
+									<p class='p-2 text-2xl inline-block transition-all duration-150 hover:translate-x-1 w-full'>
+										{post.data.title} >
+									</p>
+								</div>
+							))}
+					</div></Card>
 				</div>
 			</main>
 		</div>
 		</Layout>
 	</body>
 </html>
+
+<script>
+
+</script>

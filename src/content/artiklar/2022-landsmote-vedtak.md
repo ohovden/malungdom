@@ -1,0 +1,121 @@
+---
+title: "Vedtak frå landsmøtet 2021"
+date: 
+slug: 2022/landsmote/vedtak
+image: 
+---
+Val
+
+======
+
+**Sentralstyret**<br>
+
+Leiar: Frida Pernille Mikkelsen <br>
+
+Nestleiar: Ådne Reidar Nes Kleppe<br>
+
+Styremedlem: Dordi Boksasp Lerum<br>
+
+Styremedlem: Tobias Christensen Eikeland<br>
+
+Styremedlem: Marit Voldsund Fjeldvær<br>
+
+
+
+1.vara: Rasmus Tennø Loe<br>
+
+2.vara: Anna Lovise Rekdal<br>
+
+3.vara: Erling Løklingholm Leivestad<br>
+
+
+
+**Skrivar**<br>
+
+Rebekka Hugøy Hovland
+
+
+
+**Landsstyret**<br>
+
+Emil Nordvik<br>
+
+Ingvild Maria Utne Nese<br>
+
+Ole August Iversen<br>
+
+Jonas Økland<br>
+
+Noa Sebastian Skaare Gjerseth<br>
+
+Steinar Voldsund Fjeldvær<br>
+
+Julie Garmo<br>
+
+Synne Solberg<br>
+
+Stine Fjellkårstad<br>
+
+Magnus Vesterøy Bryne<br>
+
+
+
+1.vara: Iselin Sande Bakke<br>
+
+2.vara: Kristina Bjørnereim<br>
+
+3.vara: Ingrid Mølmen Gråsletten<br>
+
+4.vara: Jens Håkon Birkeland<br>
+
+5.vara: Simen Rønnekleiv Eriksen<br>
+
+
+
+**Valnemnda**<br>
+
+Bjørg Karin Dysjaland<br>
+
+Svein Soldal Eggerud<br>
+
+Henrik Hageland<br>
+
+
+
+1.vara: Signe Margarete Krüger Birks<br>
+
+2.vara: Edel-Marie Haukland<br>
+
+
+
+**Andre verv**
+
+
+
+Representant i styret til Noregs Mållag: Frida Pernille Mikkelsen<br>
+
+1.vara: Ådne Reidar Nes Kleppe<br>
+
+2.vara: Dordi Boksasp Lerum
+
+
+
+Representant i landsrådet til Noregs Mållag: Erling Løklingholm Leivestad<br>
+
+1.vara: Ingrid Mølmen Gråsletten<br>
+
+2.vara: Elise Tørring
+
+
+
+Ettersynsfolk: Arild Breivold v/Unic Revisjon
+
+
+
+Fråsegner
+
+======
+
+Landsmøtet vedtok tre fråsegner:
+
+- [Hegn om stadnamna våre](/politikk/fraasegner/2021-hegn-om-stadnamna-vare)

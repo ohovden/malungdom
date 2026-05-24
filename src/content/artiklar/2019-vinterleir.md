@@ -1,0 +1,179 @@
+---
+title: "Vinterleiren 2019"
+date: 
+slug: 2019/vinterleir
+image: src/assets/images/vlski1.jpg
+---
+Program
+
+=====
+
+Vinterleiren 2019 har dialekttema! 
+
+Sjå programmet i fullversjon [her](https://drive.google.com/a/malungdom.no/file/d/1PF8xuTY2tDIS572tGZKMZobJsvhNO3A3/view?usp=sharing)
+
+
+
+[<img src="VL19p.png" alt="Program for vinterleiren">](https://drive.google.com/a/malungdom.no/file/d/1PF8xuTY2tDIS572tGZKMZobJsvhNO3A3/view?usp=sharing)
+
+
+
+Det er innsjekk og brødmat frå 16.00 fredag. Programmet startar tidlegast 17.00. 
+
+Programmet er ferdig sundag klokka 14.00. 
+
+Det er lagt inn pause mellom kvart programpunkt, i tillegg til godt med matpausar. 
+
+
+
+Her er nokre smakebitar frå programmet: 
+
+
+
+- Professor i nordisk språkvitskap Brit Mæhlum innleiar om dialektvariasjon og dialektutvikling på flatbygdene rundt Mjøsa
+
+- Leiar i Numedal Mållag, Sigrun Heimdal, innleiar om arbeidet dei har gjort for å samle og berge numedalsmålet, og om nettsida [numedalsmal.no](https://www.numedalsmal.no/)
+
+- Professor emeritus Rolf Theil fortel om dialekt i verda. Tru korleis det er med dialekter i Asia? 
+
+- Jakkemerkeverkstad der vi lagar jakkemerke med dialektord 
+
+- Margit Fausko frå Hallingdal fortel om dialektprosjektet [Hått Halling](https://www.facebook.com/Hatthalling/)
+
+- Sjølve [Daskebandet](https://tv.ukm.no/festivalen/2017/11193-Daskebandet/) har konsert for oss! 
+
+
+
+----
+
+
+
+Påmelding
+
+=========
+
+
+
+Vinterleiren har vore, så du kan ikkje lenger melde deg på. 
+
+
+
+----
+
+
+
+Praktisk
+
+=======
+
+Tørre fakta
+
+-----------
+
+**Kvar**: Skogstad leirstad på Eina på Toten 
+
+
+
+**Når**: 18. til 20. januar
+
+
+
+**Pris**: 500 kr. viss du betaler før 18. januar, 700 kr. viss du betaler etter
+
+
+
+**Reisedekking**: Vi kostar reisa for alle som kjem på leiren.
+
+
+
+**Pakkeliste**:
+
+- sovepose
+
+- toalettsaker
+
+- handkle
+
+- varme klede
+
+- ski, viss du vil gå på ski
+
+
+
+Reiseruter
+
+=====
+
+I år skal vinterleiren vere på Eina på Toten. 
+
+
+
+Leirstaden ligg 500 meter frå togstasjonen, så det enklaste og billegaste for dei som bur i nærleiken av ei togline, er å ta toget. Ting billettar så tidleg som mogleg, og kjøp miniprisbillettar viss det er.  
+
+
+
+For folk som bur verkeleg langt vekke frå Eina (Nord-Noreg, til dømes), kan det henda fly er einaste fornuftige reisemåte mtp. tidsbruk og reisebelastning.  Ved bruk av fly tilrår me å kryssjekka prisar på Widerøe, SAS og Norwegian. 
+
+
+
+Merk: Me dekkjer i utgangspunktet ikkje fly frå andre stader i Sør-Noreg – det må i så fall avtalast med oss på førehand. Du kan eventuelt få refundert tilsvarande billegaste reisemåte, og ta mellomlegget sjølv.
+
+
+
+Her er nokre framlegg til reiseruter: 
+
+
+
+**Frå Gardermoen** 
+
+
+
+Den raskaste måten er å taka bussen til Gran stasjon, og tog vidare til Eina. Bussen går 16:00, 17:20, 18:40. Toga går 17:16, 18:14, 20:09.
+
+
+
+Du kan óg taka toget til Oslo, og gjøvikbana til Eina. Ho går omlag annankvar time, 15:02, 16:12, 17:02, 19:02, og tek halvannan time.
+
+
+
+**Frå Oslo**
+
+
+
+Tak toget mot Gjøvik til du kjem til Eina. Det går omlag annankvar time, 15:02, 16:12, 17.02, 19:02.
+
+
+
+**Med tog frå Trondheim, Åndalsnes eller Gudbrandsdalen** 
+
+
+
+Det går buss frå Lillehammer til både Eina og Gjøvik. Det tek mindre tid enn å toga via Oslo.
+
+
+
+Det går buss til Gjøvik 15:45 og kvart over kvar time: 16:15, 17:15, 18:15, 19:15, 20:15. Frå Gjøvik går det buss 16:30, og tog 17:29, 19:32 og 21:31.
+
+
+
+
+
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med praktisk ansvarleg Åsmund Kvifte på e-post aasmund@malungdom.no. 
+
+
+
+
+
+Informasjon til føresette
+
+=========================
+
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+
+Difor har me laga eit [informasjonsskriv til
+
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+
+dei kan kjenne seg tryggare.
+
+----

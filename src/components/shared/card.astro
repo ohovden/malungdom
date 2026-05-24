@@ -1,0 +1,45 @@
+---
+const { borderColor = 'main-green', class: className = "" } = Astro.props;
+//<div class={`textCard ${className} `} style={`--border-color: var(--${borderColor})`}>
+---
+
+<div class={`textCard ${className}`} style={`--border-color: var(--${borderColor})`}>
+    <slot />
+</div>
+
+<style>
+  .textCard {
+    background-color: #fafafa;
+    height: fit-content;
+    padding: 2.5rem;
+    border-radius: 15px;
+    border: 0.20rem solid var(--border-color);
+    text-align: justify;
+    margin: 3rem 3rem 3rem 3rem;
+  }
+
+  .textCard :global(p) {
+    color: #333;
+    font-size: 1.3rem;
+  }
+  .textCard :global(h1) {
+    font-size: 3rem;
+    padding-bottom: 1.5rem;
+  }
+
+  @media(max-width: 768px) {
+    .textCard {
+      text-align: left;
+      margin: 1.5rem 1.5rem 1.5rem 1.5rem;
+    }
+
+    .textCard :global(p) {
+      font-size: 1.2rem;
+    }
+    .textCard :global(h1) {
+      text-align: center;
+      font-size: 3rem;
+      padding-bottom: 1.5rem;
+    }
+  }
+</style>

@@ -1,0 +1,301 @@
+---
+title: "Salsvilkår"
+date: 
+slug: organisasjon/salsvilkaar
+image: src/assets/images/none
+---
+Standard salsvilkår
+
+=========
+
+
+
+###Innleiing
+
+Dette kjøpet er regulert av dei følgjande standard salgsvilkåra for forbrukarkjøp av varer over internett. Forbrukarkjøp over internett blir hovudsakleg regulert av avtalelova, forbrukarkjøpslova, marknadsføringslova, angrerettlova og ehandelslova. Desse lovene gir forbrukaren ufråvikelege rettar, og lovene er tilgjengelege på lovdata.no. Vilkåra i denne avtalen skal ikkje forståast som nokon avgrensing i dei lovbestemte rettane, men set opp dei viktigaste rettane og pliktene til partane i handelen.
+
+
+
+Salsvilkåra er utarbeidde og tilrådde av Forbrukartilsynet. For ei betre forståing av desse salsvilkåra, sjå Forbrukartilsynet si rettleiar.
+
+
+
+###1. Avtalen
+
+Avtalen består av desse tilrådde, opplysningar gitt i bestillingsløysinga og eventuelt særskilt avtalte vilkår. Ved eventuell motstrid mellom opplysningane, går det som særskilt er avtalt mellom partane føre, så framt det ikkje strir mot ufråvikeleg lovgiving.
+
+
+
+Avtalen vil i tillegg bli utfylt av relevante lovbestemmelser som regulerer kjøp av varer mellom næringsdrivande og forbrukarar.
+
+
+
+###2. Partane
+
+Seljar er Norsk Målungdom, Dronningens gate 22, 0154 Oslo, norsk@malungdom.no, tlf. 97342864, org.nr. 959 358 451, og blir omtala som seljar/seljaren.
+
+
+
+Kjøpar er den forbrukaren som gjer bestillinga, og blir omtala som kjøpar/kjøparen.
+
+
+
+###3. Pris
+
+Den oppgitte prisen for vara og tenester er den totale prisen kjøparen skal betale. Denne prisen inkluderer alle avgifter og tilleggskostnader. Ytterlegare kostnader som seljar før kjøpet ikkje har informert om, skal kjøparen ikkje bera.
+
+
+
+###4. Avtaleinngåing
+
+Avtalen er bindande for begge partar når kjøparen har sendt si bestilling til seljaren.
+
+
+
+Avtalen er likevel ikkje bindande viss det har skjedd skrive- eller tastefeil i tilbodet frå seljaren i bestillingsløysinga i nettbutikken eller i kjøparens bestilling, og den andre parten innsåg eller burde ha innsåg at det låg ei slik feil føre.
+
+
+
+###5. Betaling
+
+Seljaren kan krevje betaling for vara frå det tidspunktet den blir sendt frå seljaren til kjøparen.
+
+
+
+Dersom kjøparen brukar kredittkort eller debetkort ved betaling, kan seljaren reservere kjøpesummen på kortet ved bestilling. Kortet blir belasta same dagen som vara blir sendt.
+
+
+
+Ved betaling med faktura, blir fakturaen til kjøparen utstedd ved forsendelse av vara. Betalingsfristen framgår av fakturaen og er på minimum 14 dagar frå mottak.
+
+
+
+Kjøparar under 18 år kan ikkje betale med etterfølgjande faktura.
+
+
+
+###6. Levering
+
+Levering er skjedd når kjøparen, eller hans representant, har overtatt tingen.
+
+
+
+Viss ikkje leveringstidspunkt framgår av bestillingsløysinga, skal seljaren levere vara til kjøparen utan unødig opphald og seinast 30 dagar etter bestillinga frå kunden. Vara skal leverast hjå kjøparen med mindre anna er særskilt avtalt mellom partane.
+
+
+
+###7. Risikoen for var
+
+Risikoen for vara går over på kjøparen når han, eller hans representant, har fått varene levert i samsvar med punkt 6.
+
+
+
+###8. Angrerett
+
+Med mindre avtalen er unntatt frå angrerett, kan kjøparen angre kjøpet av vara i samsvar med angrerettlova.
+
+
+
+Kjøparen må gi seljaren melding om bruk av angreretten innan 14 dagar frå fristen byrjar å løype. I fristen inkluderast alle kalenderdagar. Dersom fristen endar på ein laurdag, heilagdag eller høgtidsdag, forlengjast fristen til næraste arbeidsdag.
+
+
+
+Angrefristen anses som overhalden dersom melding er sendt før utløpet av fristen. Kjøpar har bevisbyrda for at angreretten er blitt gjort gjeldande, og meldinga bør difor skje skriftleg (angrerettskjema, e-post eller brev).
+
+
+
+Angrefristen byrjar å løype:
+
+
+
+- Ved kjøp av enkeltståande varer vil angrefristen løype frå dagen etter vara/-ene er motteken.
+
+- Selges eit abonnement, eller inneber avtalen regelmessig levering av identiske varer, løyper fristen frå dagen etter første forsendelse er motteken.
+
+- Består kjøpet av fleire leveransar, vil angrefristen løype frå dagen etter siste leveranse er motteken.
+
+
+
+Angrefristen blir utvida til 12 månader etter utløpet av den opphavlege fristen dersom seljaren ikkje før avtaleinngåinga opplyser om at det ligg føre angrerett og standardisert angraskjema. Tilsvarande gjeld ved manglande opplysningar om vilkår, fristar og framgangsmåte for å nytte angreretten. Sørgjer den næringsdrivande for å gi opplysningane i løpet av desse 12 månadene, utløper angrefristen likevel 14 dagar etter den dagen kjøparen mottok opplysningane.
+
+
+
+Ved bruk av angreretten må vara leverast tilbake til seljaren utan unødig opphald og seinast 14 dagar frå melding om bruk av angreretten er gitt. Kjøparen dekkjer dei direkte kostnadene ved å returnere vara, med mindre anna er avtalt eller seljaren har unnlate å opplyse om at kjøparen skal dekkje returkostnadene. Seljaren kan ikkje fastsetje gebyr for kjøparen si bruk av angreretten.
+
+
+
+Kjøparen kan prøve eller teste vara på ein forsvarleg måte for å fastslå arten, eigenskapane og funksjonen til vara, utan at angreretten fell bort. Dersom prøving eller testing av vara går utover det som er forsvarleg og nødvendig, kan kjøparen bli ansvarleg for eventuell redusert verdi på vara.
+
+
+
+Seljaren er forplikta til å tilbakebetale kjøpesummen til kjøparen utan unødig opphald, og seinast 14 dagar frå seljaren fekk melding om kjøparen si avgjerd om å nytte angreretten. Seljaren har rett til å halde tilbake betalinga til han har mottatt varene frå kjøparen, eller til kjøparen har lagt fram dokumentasjon for at varene er sendt tilbake.
+
+
+
+###9. Forsinking og manglande levering - kjøparane sine rettar og frist for å melde krav
+
+Dersom seljaren ikkje leverer vara eller leverer ho for seint i samsvar med avtalen mellom partane, og dette ikkje skyldast kjøparen eller forhold på kjøparen si side, kan kjøparen i samsvar med reglane i forbrukarkjøpslova kapittel 5 etter omstenda halde kjøpesummen tilbake, krevje oppfylling, heve avtalen og/eller krevje erstatning frå seljaren.
+
+
+
+Ved krav om mislighaldsretter bør meldinga av bevishensyn vere skriftleg (til dømes e-post).
+
+
+
+####Oppfylling
+
+Kjøparen kan halde fast ved kjøpet og krevje oppfylling frå seljaren. Kjøparen kan likevel ikkje krevje oppfylling dersom det ligg føre ei hindring som seljaren ikkje kan overvinne, eller dersom oppfylling vil medføre ei så stor ulempe eller kostnad for seljaren at det står i vesentleg misforhold til kjøparen si interesse i at seljaren oppfyller. Skulle vanskar falla bort innan rimeleg tid, kan kjøparen likevel krevje oppfylling.
+
+
+
+Kjøparen taper sin rett til å krevje oppfylling om han eller ho ventar urimeleg lenge med å fremje kravet.
+
+
+
+####Heving
+
+Dersom seljaren ikkje leverer vara på leveringstidspunktet, skal kjøparen oppmode seljaren til å levere innan ein rimeleg tilleggsfrist for oppfylling. Dersom seljaren ikkje leverer vara innan tilleggsfristen, kan kjøparen heve kjøpet.
+
+
+
+Kjøparen kan likevel heve kjøpet umiddelbart viss seljaren nektar å levere vara. Tilsvarande gjeld dersom levering til avtalt tid var avgjerande for inngåinga av avtalen, eller dersom kjøparen har underretta seljaren om at leveringstidspunktet er avgjerande.
+
+
+
+Leveres tingen etter tilleggsfristen for forbrukaren har sett eller etter leveringstidspunktet som var avgjerande for inngåinga av avtalen, må krav om heving gjerast gjeldande innan rimeleg tid etter at kjøparen fekk vite om leveringa.
+
+
+
+####Erstatning
+
+Kjøparen kan krevje erstatning for lidd tap som følgje av forsinkelsen. Dette gjeld likevel ikkje dersom seljaren godtgjer at forsinkelsen skyldast hindring utanfor seljaren si kontroll som ikkje med rimelegheit kunne blitt teken i betraktning på avtaletida, unngått, eller overvunne følgjene av.
+
+
+
+###10. Mangel ved vara - kjøparane sine rettar og reklamasjonsfrist
+
+Viss det ligg føre ein mangel ved vara, må kjøparen innan rimeleg tid etter at den vart oppdaga eller burde ha blitt oppdaga, gi seljaren melding om at han eller ho vil pårope seg mangelen. Kjøparen har alltid reklamert tidsnok viss det skjer innan 2 månader frå mangelen vart oppdaga eller burde ha blitt oppdaga. Reklamasjon kan skje seinast to år etter at kjøparen overtok vara. Dersom vara eller delar av ho er meint å vare vesentleg lenger enn to år, er reklamasjonsfristen fem år.
+
+
+
+Dersom vara har ein mangel og dette ikkje skyldast kjøparen eller forhold på kjøparen si side, kan kjøparen i samsvar med reglane i forbrukarkjøpslova kapittel 6 etter omstenda halde kjøpesummen tilbake, velje mellom retting og omlevering, krevje prisavslag, krevje avtalen heva og/eller krevje erstatning frå seljaren.
+
+
+
+Reklamasjon til seljaren bør skje skriftleg.
+
+
+
+####Retting eller omlevering
+
+Kjøparen kan velje mellom å krevje mangelen retta eller levering av tilsvarande ting. Seljaren kan likevel motsetje seg kjøparen sitt krav dersom gjennomføringa av kravet er umogleg eller volder seljaren urimelege kostnader. Retting eller omlevering skal skje innan rimeleg tid. Seljaren har i utgangspunktet ikkje rett til å foreta meir enn to avhjelpsforsøk for same mangel.
+
+
+
+####Prisavslag
+
+Kjøparen kan krevje eit passande prisavslag viss vara ikkje blir retta eller omlevert. Dette inneber at forholdet mellom nedsett og avtalt pris svarer til forholdet mellom tings verd i mangelfull og kontraktsmessig stand. Dersom særlege grunnar talar for det, kan prisavslaget i staden setjast lik mangelen si betyding for kjøparen.
+
+
+
+####Heving
+
+Dersom vara ikkje blir retta eller omlevert, kan kjøparen også heve kjøpet når mangelen ikkje er vesentleg.
+
+
+
+###11. Seljaren sine rettar ved kjøparen sitt mislighald
+
+Dersom kjøparen ikkje betalar eller oppfyller dei øvrige pliktene etter avtalen eller lova, og dette ikkje skyldast seljaren eller forhold på seljaren si side, kan seljaren i samsvar med reglane i forbrukarkjøpslova kapittel 9 etter omstenda halde vara tilbake, krevje oppfylling av avtalen, krevje avtalen heva samt krevje erstatning frå kjøparen. Seljaren vil også etter omstenda kunne krevje renter ved forseinking i betalinga, inkassogebyr og eit rimeleg gebyr ved ikkje-avhenta varer.
+
+
+
+####Oppfylling
+
+Seljaren kan halde fast ved kjøpet og krevje at kjøparen betalar kjøpesummen. Er vara ikkje levert, taper seljaren sin rett dersom han ventar urimeleg lenge med å fremje kravet.
+
+
+
+####Heving
+
+Seljaren kan heve avtalen dersom det ligg føre vesentleg betalingsmislighald eller anna vesentleg mislighald frå kjøparen si side. Seljaren kan likevel ikkje heve dersom heile kjøpesummen er betalt. Fastset seljaren ei rimeleg tilleggsfrist for oppfylling og kjøparen betalar ikkje innan denne fristen, kan seljaren heve kjøpet.
+
+
+
+####Renter ved forseinka betaling/inkassogebyr
+
+Dersom kjøparen ikkje betalar kjøpesummen i samsvar med avtalen, kan seljaren krevje renter av kjøpesummen etter forseinkelsesrentelova. Ved manglande betaling kan kravet, etter førevarsel, bli sendt til kjøparen. Kjøparen kan då bli halden ansvarleg for gebyr etter inkassolova.
+
+
+
+####Gebyr ved ikkje-avhenta ikkje-forskotbetalte varer
+
+Dersom kjøparen unnlèt å hente ubetalte varer, kan seljaren belaste kjøparen med eit gebyr. Gebyret skal maksimalt dekkje seljaren sine faktiske utlegg for å levere vara til kjøparen. Eit slikt gebyr kan ikkje belastast kjøparar under 18 år.
+
+
+
+###12. Garanti
+
+Garanti som blir gjeven av seljaren eller produsenten, gir kjøparen rettar i tillegg til dei kjøparen allereie har etter ufråvikeleg lovgiving. Ein garanti inneber dermed ingen avgrensingar i kjøparen sine rettar til reklamasjon og krav ved forseinking eller manglar etter punkt 9 og 10.
+
+
+
+###13. Personopplysningar
+
+Behandlingsansvarleg for innsamla personopplysningar er seljaren. Med mindre kjøparen samtykkjer til noko anna, kan seljaren, i samsvar med personopplysningslova, berre innhente og lagre dei personopplysningane som er naudsynte for at seljaren skal kunne gjennomføre forpliktingane etter avtalen. Kjøparen sine personopplysningar vil berre bli utleverte til andre dersom det er naudsynt for at seljaren skal få gjennomført avtalen med kjøparen, eller i lovbestemte tilfelle.
+
+
+
+###14. Konfliktløysing
+
+Klager skal rettast til seljaren innan rimeleg tid, sjå punkt 9 og 10. Partane skal forsøke å løyse eventuelle tvistar i minnelegheit. Dersom dette ikkje lukkast, kan kjøparen ta kontakt med Forbrukarrådet for mekling. Forbrukarrådet er tilgjengeleg på telefon 23 400 500 eller forbrukerradet.no.
+
+
+
+Europakommisjonen si klageportal kan òg nyttast dersom du ønskjer å leggje inn ein klage. Det er særleg relevant, dersom du er forbrukar busett i eit anna EU-land. Klagen blir lagt inn her: http://ec.europa.eu/odr.
+
+----
+
+
+
+Kontakt oss
+
+=========
+
+
+
+Du kan krevja innsyn i kva personopplysningar vi har lagra om deg. Du kan krevja å flytta dei, du kan krevja at vi slettar dei, og du kan krevja at vi rettar på opplysningane viss dei er feil.
+
+Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi skal sletta personopplysningane om deg frå registera våre. 
+
+
+
+<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
+
+  data-type="kontakt" data-success="Innsendt!">
+
+  <label>
+
+    Fritt felt <small>(hugs namn/anna informasjon)</small>
+
+    <textarea name="fritekst" rows=3 required></textarea>
+
+  </label>
+
+  <label>
+
+    Eposten din
+
+    <input type="email" name="epost">
+
+  </label>
+
+  <input type="submit" value="Send inn">
+
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
+
+</form>
+
+----

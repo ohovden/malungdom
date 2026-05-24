@@ -1,0 +1,103 @@
+---
+title: ""
+date: 
+slug: nynorsk/sidemal
+image: 
+---
+Heilt sidan ordninga med obligatorisk sidemål vart innførd for snart hundre år
+
+sidan, har ho vore til irritasjon for nokon, og til glede for andre. Ideen bak
+
+innføringa av sidemålet var enkel, men òg på eit vis genial. For å hindra at
+
+landet skulle verta språkleg kløyvd, so vart sidemålsundervisninga innførd for
+
+at alle skulle kunna lesa og skriva både nynorsk og bokmål. Ei slik ordning er
+
+med på å auka språkkunnskapane til folk, samstundes som ho tryggjer det
+
+språklege mangfaldet.
+
+
+
+Noreg er ikkje åleine om å vera fleirspråkleg. For å tryggja språkmangfaldet ynskjer no
+
+forskarar i fleire andre land å innføra sidemålsordningar. Forskning frå
+
+Finland syner at finskspråklege elevar som i ung alder får sidemålsundervisning
+
+i svensk etter språkbadmetoden faktisk vert flinkare i hovudmålet sitt og
+
+lettare lærer framandspråk enn dei som ikkje har hatt slik sidemålsundervisning.
+
+
+
+
+
+For å tryggja norsk språkmangfald er det viktig at me held fram med, og ikkje
+
+minst betrar sidemålsundervisninga. Her har målrørsla vore aktive for å vera
+
+med og spreia og utvikla ein ny sidemålspedagogikk tufta på språkbad-metoden.
+
+
+
+Er du bokmålselev? Vil du ha betre nynorskundervisning? Her finn du eit lite
+
+informasjonshefte du kan skriva ut og gje til norsklæraren din.
+
+
+
+Sidemål gjev oss ikkje mindre, men meir språkkunnskap!
+
+
+
+
+
+Kva er sidemål?
+
+---------------
+
+
+
+Sidemål er det norske språket me lærer frå ungdomsskulen. Det er bokmål for dei
+
+elevane som har nynorsk som hovudmål, og nynorsk for dei elevane som har bokmål
+
+som hovudmål. Kvar elev kan sjølv velja kva han vil ha som sidemål og hovudmål
+
+uavhengig av kvar i landet eller kva skule han går på.
+
+
+
+Læreplanen i Norsk legg vekt på at elevane skal meistra lesing og skriving
+
+i ulike sjangrar både på nynorsk og bokmål når dei går ut av skulen. I 2020 vart det vedteke nye læreplanar.
+
+Læreplanen i norsk gjer no skilnad på hovudmål og sidemål. I sidemål skal ein bli vurdert snillare, 
+
+med bakgrunnen i at ein har færre år med opplæring i sidemålet.
+
+
+
+1: https://www.udir.no/lk20/nor01-06
+
+
+
+Elevar som av ulike årsaker har spesielle språklege utfordringar kan få fritak
+
+frå sidemål. Dette gjeld spesielt elevar med eit anna morsmål enn norsk, og
+
+elevar med dysleksi eller konsentrasjonsvanskar. Denne ordninga har dei siste åra vorte skjerpa inn.
+
+
+
+2: https://lovdata.no/dokument/SF/forskrift/2006-06-23-724/KAPITTEL_5-4#%C2%A73-19
+
+
+
+I samiske område gjeld spesielle reglar for at sidemålsordninga ikkje skal koma
+
+i vegen for samisk opplæring. Samiskspråklege elevar kan til dømes ha
+
+nordsamisk som hovudmål og nynorsk eller bokmål som sidemål.

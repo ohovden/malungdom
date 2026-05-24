@@ -1,0 +1,79 @@
+---
+title: ""
+date: 
+slug: organisasjon/malferd/standard-malfararbrev
+image: 
+---
+Tilbod om målferd
+
+======
+
+
+
+Gode norsklærarar!
+
+
+
+Kvart år reiser Norsk Målungdom (NMU) på føredragsturné – målferd – til skular over heile landet. No skal vi ut på ein ny runde, og i samband med det lurer vi på om de er interesserte i å ha vitjing av oss. Vi kan tilby målferd til dykk (dato). Vi skal nå over mange skular, og vonar difor denne datoen høver.
+
+
+
+Kva er målferd? 
+
+---------
+
+Ein målfarartime er eit opplegg der utgangspunktet er den språkstoda vi har her i landet. Målet med timen er å skape ordskifte og refleksjon kring språk, då særskilt språkmangfald og språkleg toleranse. Føredraget inneheld to bolkar: ein bolk der vi tek føre oss språkhaldningar og språkvalsmekanismar, og ein bolk der vi tek føre oss den norske språksoga frå gamalnorsk tid til i dag. Målfarartimen passar både for studiespesialiserande og yrkesfagleg liner. 
+
+
+
+Organisering
+
+---------
+
+Opplegget er tilpassa ein dobbelttime (90 min), med høve for spørsmål og kommentarar undervegs. Det er som regel mest optimalt å ha éi klasse om gongen, men vi kan vere fleksible både på tid og klassestorleik. Det vi bør ha, er ei tavle å skrive og teikne på, gjerne så stor som mogeleg.
+
+
+
+Kven er vi?
+
+---------
+
+NMU er ungdomsorganisasjonen til Noregs Mållag, og arbeider for nynorsk, dialekter og språkmangfald. Vi har fare rundt på skular over heile landet i fleire tiår og halde føredrag i norsktimane. Dei siste åra har vi gjennomført kring 60 skulevitjingar i året.
+
+
+
+Førebuing
+
+---------
+
+Det er aldri nokon ulempe å vere budd, men vi forventar ikkje at elevane har særleg kjennskap til stoffet frå før. Opplegget tilpassar vi uansett til kunnskapsnivået i kvar enkelt klasse. Førebuing er difor ikkje naudsynt.
+
+
+
+Kostnader
+
+---------
+
+Målfararane våre er ungdomar mellom 18 og 26 år som held føredraga på friviljug basis, og overnattar privat for å halde kostnadene nede. Det hadde vore framifrå om skulen kunne dekkje reisekostnader i samband med reisa, men det er ikkje noko vilkår. Vi sender eit brev etter vitjinga for å høyre om de har høve til å dekkje noko.
+
+
+
+Gjere avtale
+
+---------
+
+Om de har spørsmål, kan de ringje 97 34 28 64 eller sende ein e-post til norsk@malungdom.no. Det er fint om de kan ta kontakt med oss så fort som råd og gje oss ei tilbakemelding.
+
+
+
+Med von om positivt svar,
+
+
+
+
+
+Beste helsing
+
+
+
+NORSK MÅLUNGDOM

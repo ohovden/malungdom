@@ -1,0 +1,79 @@
+---
+title: "Vinterleir på Eina 2024"
+date: 
+slug: 2024/vinterleir
+image: src/assets/images/vl20ski.jpg
+---
+Praktisk
+
+=======
+
+**Kvar**: Skogstad leirstad på Eina på Toten <br/>
+
+**Når**: 19. til 21. januar 2024 <br/>
+
+**Pris**: 150 kr (påmelding før 31. desember 2023), 300 kroner (påmelding etter 1. januar 2024).<br/>
+
+**Reise**: Me kostar reisa for alle som kjem på leiren.<br/>
+
+
+
+**Pakkeliste**:
+
+- toalettsaker
+
+- handkle
+
+- varme klede
+
+- ski, viss du vil gå på ski (sjekk vêrmeldinga)
+
+- akebrett
+
+- eit spel eller aktivitet du vil ha med
+
+
+
+----------
+
+
+
+Reiseruter
+
+=====
+
+I år skal vinterleiren vere på Eina på Toten. 
+
+
+
+Leirstaden ligg 500 meter frå togstasjonen, så det enklaste og billegaste for dei som bur i nærleiken av ei togline, er å ta toget. Ting billettar så tidleg som mogleg, og kjøp miniprisbillettar viss det er. 
+
+
+
+For folk som bur verkeleg langt vekke frå Eina (Nord-Noreg, til dømes), kan det henda fly er einaste fornuftige reisemåte mtp. tidsbruk og reisebelastning.  Ved bruk av fly tilrår me å kryssjekka prisar på Widerøe, SAS og Norwegian. 
+
+
+
+Merk: Me dekkjer i utgangspunktet berre billegaste reisemåte. Om du vil nytte noko anna, må du avtale det med skrivarstova.
+
+
+
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Emma H. Pedersen på e-post [norsk@malungdom.no](mailto:norsk@malungdom.no) eller telefon 97342864. 
+
+
+
+-------------
+
+Informasjon til føresette
+
+=========================
+
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+
+Difor har me laga eit [informasjonsskriv til
+
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+
+dei kan kjenne seg tryggare.
+
+----

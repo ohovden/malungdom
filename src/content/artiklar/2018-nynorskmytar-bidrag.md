@@ -1,0 +1,73 @@
+---
+title: "Om bidragsytarane"
+date: 
+slug: 2018/nynorskmytar/bidrag
+image: 
+---
+**Eline Bjørke** har skrive om nynorskmyten [*det er unormalt med fleire språk i eitt land*](https://malungdom.no/2018/nynorskmytar/unormalt/)
+
+Eline er skrivar i Norsk Målungdom. Før det var ho leiar i Studentmållaget i Nidaros. 
+
+
+
+**Fredrik Hope** har skrive om nynorskmyten [*nynorsk byggjer på arrogant nasjonalisme*](https://malungdom.no/2018/nynorskmytar/nasjonalisme/).
+
+Fredrik er leiar i Norsk Målungdum. Før det har han sete i sentralstyret som økonomiansvarleg og nestleiar, og vore aktiv i lokallaga Firda Målungdom, Mjøsa Målungdom og Studentmållaget i Bergen. 
+
+
+
+**Kirsti Lunde** har skrive om nynorskmyten [*nynorsk er vanskeleg(are) enn bokmål*](https://malungdom.no/2018/nynorskmytar/vanskeleg/).
+
+Kirsti var skrivar i Norsk Målungdom frå 2015 til 2017. Før det var ho leiar i Studentmållaget i Nidaros. 
+
+
+
+**Karl Peder Mork** har skrive om nynorskmyten [*nynorsk er eit språk for Vestlandet*](https://malungdom.no/2018/nynorskmytar/forvestlandet/).
+
+Karl Peder var leiar i Norsk Målungdom frå 2014 til 2015. Før det sat han i sentralstyret som økonomiansvarleg. Frå 2016 til 2018 var han leiar i Studentmållaget i Oslo. 
+
+
+
+**Håkon Remøy** har skrive om nynorskmyten [*nynorsken er basert på éi dialekt*](https://malungdom.no/2018/nynorskmytar/eidialekt/).
+
+Håkon har sete i landsstyret i Norsk Målungdom, og han har vore styremedlem i Studentmållaget i Bergen. 
+
+
+
+**Stein Olav Romslo** har skrive om nynorskmyten [*nynorsk passar berre i dikt*](https://malungdom.no/2018/nynorskmytar/berredikt/). 
+
+Stein Olav har sete i landsstyret til Norsk Målungdom, og har vore styremedlem og økonomiansvarleg i Studentmållaget i Nidaros. 
+
+
+
+**Øystein Sandve** har skrive om nynorskmyten [nynorsk er eit konstruert språk](https://malungdom.no/2018/nynorskmytar/konstruert/). 
+
+Øystein har sete i landsstyret til Norsk Målungdom, og har vore styremedlem i Studentmållaget i Bergen. 
+
+
+
+**Gunnhild Skjold** har skrive om nynorskmyten [*nynorsk er eit språk for bondeknølar eller kultureliten*](https://malungdom.no/2018/nynorskmytar/bondeknologkulturelite/).
+
+Gunnhild er leiar i Studentmållaget i Tromsø, og sit i landsstyret til Norsk Målungdom. 
+
+
+
+**Vebjørn Sture** har skrive om nynorskmytane [*nynorsk er eit lite språk*](https://malungdom.no/2018/nynorskmytar/litesprak/) og [*nynorsken døyr snart ut*](https://malungdom.no/2018/nynorskmytar/doyrut/). 
+
+Vebjørn var leiar i Norsk Målungdom frå 2012 til 2014. Før det sat han i sentralstyret i flerie år, både som økonomiansvarleg og nestleiar. 
+
+
+
+**Kine Gjertrud Svori** har skrive om nynorskmyten [*nynorsk er berre eit språk du lærer på skulen og ikkje får bruk for seinare*](https://malungdom.no/2018/nynorskmytar/bruk/). 
+
+Ho har vore sentralstyremedlem i Norsk Målungdom. Før det var ho leiar i Fron Målungdom. 
+
+
+
+**Synnøve Marie Sætre** har skrive om nynorskmyten [*nynorsk er dyrt*](https://malungdom.no/2018/nynorskmytar/dyrt/).
+
+Synnøve Marie var leiar i Norsk Målungdom frå 2015 til 2017. Før det var ho sentralstyremedlem og skrivar. Ho har vore styremedlem i Studentmållaget i Oslo. 
+
+
+
+Takk for bidraga!

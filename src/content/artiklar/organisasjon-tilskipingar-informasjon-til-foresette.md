@@ -1,0 +1,69 @@
+---
+title: ""
+date: 
+slug: organisasjon/tilskipingar/informasjon-til-foresette
+image: 
+---
+- Me har alltid ansvarlege vaksne tilstades på alle tilskipingar. Det er alltid
+
+  nokon som er skulerte i fyrstehjelp til stades.
+
+
+
+- Alle som melder seg på ei tilskiping i regi av NMU, får på førehand tilsendt
+
+  informasjon der det mellom anna vert opplyst kven som har det praktiske
+
+  ansvaret for tilskipinga, og korleis dei kan kontaktast – både før avreise og
+
+  undervegs.
+
+
+
+- På tilskipingane våre får nokon i sentralleddet delegert ansvar som
+
+  kontaktperson for deltakarane, i fall nokon skulle ha behov for å snakka med
+
+  nokon eller spørja om noko særskilt.
+
+
+
+- Me har absolutt alkoholforbod på alle tilskipingar.
+
+
+
+- Når fleire frå same område skal reisa på den same tilskipinga, prøver me
+
+  å organisera felles avreise så langt det passar for dei enkelte deltakarane.
+
+
+
+- Me organiserer sovesalane slik at deltakarane sjølv kan velja om dei vil sova
+
+  på blanda rom eller på reine gute-/jenterom. Me fordeler sentrale
+
+  ansvarspersonar på kvart rom.
+
+
+
+- Me har alltid med oss bil på tilskipingane våre, mellom anna i fall det
+
+  skulle oppstå behov for å frakta nokon raskt til legevakt eller liknande.
+
+
+
+- Før ei komande tilskiping går me gjennom og [fyller ut ein standard
+
+  vernebuingsplan](/dokument/Vernebuingsplan_for_tilskipingar_2014.pdf)
+
+  som er til for å minimera sannsynet for at alvorlege situasjonar
+
+  skal oppstå, og samstundes fungera som ein handlingsplan i fall noko
+
+  alvorleg skulle skje.
+
+
+
+Dersom det er noko du lurer på som du ikkje fekk svar på her, så oppmodar me
+
+deg om å kontakta oss (97 34 28 64 / norsk@malungdom.no / [kontakt](/kontakt/)).

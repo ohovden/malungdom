@@ -1,0 +1,167 @@
+---
+title: "Sumarleir 2018"
+date: 
+slug: 2018/sumarleir
+image: src/assets/images/<img src="slbanner.png" alt="">
+---
+Påmelding
+
+=========
+
+Påmelding er lukka.
+
+----
+
+----
+
+
+
+Praktisk
+
+=======
+
+
+
+**Kvar**: [Tangvall skole i Søgne på Agder](https://goo.gl/maps/MRtg7FhMwcy)
+
+
+
+**Når**: 3. til 8. juli.
+
+
+
+**Pris**: 600 viss du betaler før 3. juli, 800 etter
+
+
+
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
+
+
+
+**Pakkeliste**:
+
+- sovepose
+
+- liggjeunderlag/luftmadrass
+
+- toalettsaker
+
+- handkle
+
+- passande klede til fotballturnering
+
+- passande finklede til festen på laurdag
+
+- badetøy dersom du vil bade
+
+- gitar, ei sekkepipe eller eit anna instrument til melodikappleiken
+
+
+
+Reiseruter
+
+----------
+
+Alle vegar fører til sumarleir! 
+
+
+
+Viss du kjem med fly: Fly til Kristiansand lufthamn Kjevik (eller til Oslo og ta buss eller tog vidare)
+
+Viss du kjem med tog: Gå av på Nodeland stasjon
+
+Viss du kjem med buss: Gå av i Søgne
+
+
+
+Meld frå om kva tid du kjem, så hentar vi deg på flyplassen/stasjonen/haldeplassen.  
+
+
+
+
+
+Informasjon til føresette
+
+=========================
+
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+
+Difor har me laga eit [informasjonsskriv til
+
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+
+dei kan kjenne seg tryggare.
+
+
+
+
+
+Les meir om sumarleiren og trykk deltek på [facebookhendinga](https://www.facebook.com/events/1701276739936886/). 
+
+----
+
+
+
+Program
+
+=======
+
+
+
+[<img src="slprogram.png" alt="">](https://drive.google.com/file/d/17RE62UkD4eYcvwoCJzh6YE1qC3B0bFpM/view?usp=sharing)
+
+
+
+Sjå programmet i fullversjon [her](https://drive.google.com/file/d/17RE62UkD4eYcvwoCJzh6YE1qC3B0bFpM/view?usp=sharing).
+
+
+
+I tillegg til fotballturnering, melodikappleik og ei utflukt til Kristiansand, kan du høyre desse innleiingane på sumarleir: 
+
+
+
+- Borghild Løver (reiseskrivar i Mållaga på Agder) om språk på Agder
+
+- Maria Sture (tidlegare leiar i NMU) om fagspråk
+
+- Gunnhild Skjold (påtroppande nestleiar i NMU) om lokallagsaktivisme
+
+- Bernt Wu (leiar i Noregs Blindeforbund Ungdom) om å inkludere blinde og svaksynte i språksamfunnet
+
+- Mona Skatteboe Helle (landsstyremeldem i NMU og fotballspelar) med fotballkurs
+
+- Fredrik Hope (leiar i NMU) om språklovgjeving
+
+- Åsmund M. Kvifte (sentralstyremedlem i NMU) om språklege menneskerettar
+
+- Eline Bjørke (skrivar i NMU) om kampanjen Oppdater
+
+- Natur og Ungdom om aksjonisme og bannermaling
+
+- Ingunn V. Steinsvåg (landsstyremedlem i NMU og strikkar) om norsk ull og strikking 
+
+- Svein S. Eggerud (sentralstyremedlem i NMU) med målferd
+
+- Piotr Garbacz (instituttleiar for institutt for lingvistiske og nordiske studier ved UiO) med to innleiingar:
+
+om Elvdalsk, og
+
+om skilnadar i dialekttilhøva i det norske og det polske språksamfunnet
+
+- Anna Rekdal (landsstyremedlem i NMU og attendekomen utvekslingsstudent i Korea) om språk i Korea. 
+
+- Jardar Dahlstrøm (organisatorisk nestleiar i Dysleksi Ungdom) om korleis vi betre kan inkludere nynorskbrukarar som har dysleksi eller språkvanskar
+
+- Elise Tørring (nestleiar i NMU og lærarstudent) om nynorsken i læreplanen
+
+- Anna Sofie Ekeland Valvatne (lokallagsskrivar i NMU) med to innleiingar:
+
+om å verve, og 
+
+debattskulering
+
+- Vebjørn Sture (tidlegare leiar i NMU) om å vinne sidemålsstrid
+
+
+
+----

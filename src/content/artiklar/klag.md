@@ -1,0 +1,181 @@
+---
+title: ""
+date: 
+slug: klag
+image: 
+---
+Studentar ved universitet og høgskular har krav på å få eksamen på nynorsk. Om studiestaden din ikkje kan gi deg oppgåveteksten på nynorsk bryt dei språklova, og du kan påpeike lovbrotet.
+
+
+
+Klageportalen til Norsk Målungdom er ein stad der du mellom anna kan melda inn eksamenar om du ikkje får oppgåva på nynorsk, eller kvaliteten på språket er så dårleg at oppgåva til dømes er vanskeleg å forstå.
+
+
+
+Somme høgare utdanningsinstitusjonar held fram med å bryte lova, fordi ingen seier påpeiker lovbrota. Mange studentar tør ikkje å seia ifrå fordi dei er bekymra for eksamensresultatet. Det skal ikkje ha noko å seia på resultatet om du seier ifrå om språkfeil. Om du seier frå til oss, tek me saka for deg, og du vil vera anonym.
+
+
+
+<a href="#skjema" class="button bli-medlem-medium">Sei ifrå om lovbrot!</a>
+
+
+
+Kvifor påpeike?
+
+======
+
+Kvart år tek mange studentar eksamen på alle nivå. Mange av desse studentane er nynorskbrukarar.
+
+
+
+Det finst ikkje eit oversyn over kor mange eksamenar som ikkje kjem på både nynorsk og bokmål, men kvar vår og haust seier studentar over heile landet ifrå til oss om manglande nynorskversjonar og oppgåver med dårleg språk. *Det er grunn til å tru at me berre kjenner til ein brøkdel av dei totale lovbrota.*
+
+
+
+Eksamen på nynorsk er ein av rettane du har som student og språkbrukar. Heilt sidan 1885 har nynorsk og bokmål vore jamstilte språk i Noreg. Nynorsken har også ein plass i høgare utdanning.
+
+
+
+Mange nynorskbrukarar byter til bokmål fordi dei ikkje møter språket sitt i kvardagen. Studentar som flyttar heimefrå, kjem kanskje til ein stad der nynorsken ikkje står like støtt som før, og opplever at språket deira ikkje blir teke på alvor.
+
+
+
+**Norsk Målungdom** har etter paragraf 18 i språklova rett til å påpeike feil og Forskrift om målform i eksamensoppgåver på vegner av studentar og andre språkbrukarar. *Alle eksamenar skal liggje føre i nynorsk- og bokmålsversjon til eksamensstart*. Studiestaden har plikt til å hente inn informasjon om kva språk studentane ønskjer.
+
+
+
+Du kan også påpeike på dårleg språk i oppgåva. Somme studiestader bruker lite tid til å setja om eksamen frå bokmål til nynorsk. Me har motteke klage på eksamenar med over 100 skrivefeil i. Me klagar ikkje fordi nynorskbrukarar er meir pirkete på språk, me skal seia frå fordi **du har rett til å bli teken på alvor**.
+
+
+
+Rettane dine
+
+===========
+
+Etter forskrift om målform i eksamensoppgåver har du krav på eksamen på nynorsk. Det står i paragraf 2 at *du har rett til å velja kva språk du vil ta eksamen på, og studiestaden din skal skaffe seg informasjon om kva språk studentane vil bruke.*
+
+
+
+**Du har rett til å seia ifrå om lovbrot**. Alle statlege universitet og høgskular skal følgja lova. Etter paragraf 18 i språklova kan også Norsk Målungdom, som ein språkorganisasjon, seia ifrå for deg. Då kan du vera anonym.
+
+
+
+Me oppmodar deg også til å seia ifrå dersom nynorskutgåva har språkfeil eller er uklår. Dette er også brot på språklova, som seier at offentlege organ skal følgje den offisielle rettskrivinga for bokmål og nynorsk, og kommunisere på eit klårt og korrekt språk tilpassa målgruppa.
+
+
+
+Mange studentar får nynorskoppgåver med så dårleg språk at dei heller vel oppgåveteksten på bokmål eller engelsk for å ha høve til å gjennomføre eksamen. *Det skal dei sleppe*.
+
+
+
+**Om du studerer ved ein privat utdanningsinstitusjon, har du no også krav på å få eksamen på nynorsk.** 
+
+
+
+Dette kan du seia ifrå om
+
+=====================
+
+Du kan seia ifrå til oss dersom:
+
+- eksamen har feil språk
+
+- eksamen har dårleg språk
+
+- du kjem over andre brot på språklova, som:
+
+ - skilting med feil eller dårleg språk
+
+ - brev, nettsider og anna med feil, dårleg eller uklårt språk
+
+
+
+Somme fag har fritak frå forskrifta. Vedtaket om dette må gjerast seinast tre månader før eksamensdatoen.
+
+
+
+Vedlegg som kjem til oppgåva treng ikkje å vera på begge språka.
+
+
+
+Sei ifrå til oss
+
+==============
+
+Med skjemaet under kan du melda frå til oss om du ikkje fekk eksamen på nynorsk, eller meiner språket på eksamenen var for dårleg.
+
+
+
+Når me har motteke meldinga di, gjer me slik:
+
+
+
+- Me sender brev til studiestaden. Kvar eksamen får eige brev, sjølv om det er fleire lovbrot for kvart universitet eller høgskule.
+
+- Alle breva blir sende i kopi til Språkrådet.
+
+- Du får også ein kopi av brevet.
+
+
+
+Me fører anonym statistikk over kor mange klager me har sendt til kvar utdanningsinstitusjon kvart semester. Sjå [personvernerklæringa](/organisasjon/personvern/) vår for meir informasjon.
+
+
+
+<h1 id="skjema">Meldeskjema</h1>
+
+
+
+<form method="POST" action="/cgi-bin/send.py?_type=klage"
+
+  data-type="klage" data-success="Meldinga er sendt inn, du høyrer frå oss.">
+
+  <label>Namnet ditt <small>(Du vil vera anonym)</small> <input name="namn" required></label>
+
+  <label>E-postadressa di <small>(Slik at me kan kontakte deg)</small> <input type="email" name="epost" required></label>
+
+  <label>Utdanningsstad <input name="utdanningsstad"></label>
+
+  <label>Emnekode <input name="emnekode" required></label>
+
+  <label>Type eksamen <small>(Skuleeksamen/heimeeksamen?)</small> <input name="type_eksamen"></label>
+
+  <label>Eksamensdato <input name="dato" required></label>
+
+  <label>
+
+    Melding <small>(Mangla nynorskversjon? Dårleg språk?)</small>
+
+    <textarea name="klage" rows=6></textarea>
+
+  </label>
+
+  <input type="submit" value="Send inn">
+
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
+
+</form>
+
+
+
+<br/>
+
+Lovtilvisingar
+
+==============
+
+
+
+[**Universitets- og høgskulelova**](https://lovdata.no/dokument/NL/lov/2024-03-08-9)  
+
+*§ 2-3. Norsk og samisk fagspråk*  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universiteter og høyskoler skal bruke, utvikle og styrke norsk fagspråk, både bokmål og nynorsk.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institusjoner som er gitt et særlig ansvar for samisk forskning og høyere utdanning, skal bruke, utvikle og styrke samisk fagspråk.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undervisningsspråket skal være norsk eller samisk. Institusjonene kan gjøre unntak dersom det er faglig begrunnet.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Departementet kan gi forskrift om institusjonenes ansvar etter denne paragrafen.

@@ -1,0 +1,69 @@
+---
+title: ""
+date: 
+slug: organisasjon/valnemnda
+image: 
+---
+# Kampen for nynorsken og dialektene – med deg på laget?
+
+
+
+Er du oppteken av betre sidemålsundervisning, meir nynorsk i akademia og ei språklov som sikrar rettane til brukarar av mindretalsspråk i Noreg?
+
+
+
+Norsk Målungdom (NMU) er den einaste ungdomsorganisasjonen som arbeider for nynorsken og dialektene, og er alltid på leit etter fleire som vil engasjere seg i organisasjonen. På landsmøtet i mars 2022 skal det veljast nye styre.
+
+
+
+Viss du er interessert i å stille til val, tipse oss om nokon du kjenner eller vil vita meir om kva det vil seia å sitja i sentralstyret eller landsstyret, kan du senda ein e-post til [valnemnda](mailto:valnemnda@malungdom.no).
+
+
+
+[**Sentralstyret**](/organisasjon/sentralstyret/) står for den daglege drifta av organisasjonen. Dei som sit i sentralstyret er valde av landsmøtet for eitt år om gongen. Styret held i regelen til i Oslo og møtest kvar veke. Det er sentralstyret si oppgåve å planleggje og gjennomføre nasjonale tilskipingar, gjennomføre politikken i arbeidsprogrammet og reise på skolebesøk kvar haust og vår for å snakke med skoleelevar om nynorsk og språkhaldningar.
+
+
+
+Leiar
+
+> Leiaren har det øvste ansvaret i organisasjonen og er organisasjonen sitt ansikt i media. Det er ei løna 100 % stilling på kontoret i Oslo.
+
+
+
+Nestleiar
+
+> Nestleiaren har leiaren sitt ansvar viss leiaren ikkje er til stades.
+
+
+
+Sentralstyremedlemer
+
+> Som medlem i sentralstyret får ein utdelt ulike politiske og organisatoriske oppgåver og er med på å gjennomføre tilskipingar i organisasjonen.
+
+
+
+[**Skrivar**](/organisasjon/skrivarstova) er det same som generalsekretær eller dagleg leiar. Det er ei løna 100 % stilling på kontoret i Oslo. Ansvarsoppgåvene er økonomiarbeid, rekneskap, medlemsregister og organisatorisk arbeid.
+
+
+
+[**Landsstyret**](https://malungdom.no/organisasjon/landsstyret/) er det øvste organet i Norsk Målungdom mellom landsmøta. Alle i landsstyret er valde for eitt år om gongen og møtest fire helger i året. Det er landsstyret som deler ut Dialektprisen og tek politiske avgjersler, skriv fråsegner og uttaler seg om viktige språkpolitiske tema.
+
+
+
+**Valnemnda** si oppgåve er å foreslå for landsmøtet kven som skal sitja sentralstyret og landsstyret. Det er landsstyret som innstiller på kven som skal sitje i valnemnda. Vi vidaresender forslag til kandidatar vidare til Skrivarstova.
+
+
+
+# Valnemnda 2025-2026
+
+- Ann-Mari Ruste
+
+
+
+Varaar
+
+-
+
+
+
+Viss du vil kontakte valnemnda, kan du sende ein epost til: [valnemnda@malungdom.no](mailto:valnemnda@malungdom.no).

@@ -1,0 +1,161 @@
+---
+title: "Haustkonferanse: Nynorske talent"
+date: 
+slug: 2019/haustkonferanse
+image: src/assets/images/none
+---
+Program
+
+=====
+
+<img src="program.jpg" alt="">
+
+
+
+**Fredag** <br>
+
+15.00: *Innsjekk* <br>
+
+16.00: *Brødmat* <br>
+
+16.30: Opning<br>
+
+17.00: Fellesinnleiing. Innleiar kjem.<br>
+
+18.15: Parallelle punkt: <br>
+
+Korleis skrive eit godt lesarbrev? v/Morten Myksvoll, kommentator i Bergens Tidende<br>
+
+Innleiing kjem.<br>
+
+19.45: *Middag* <br>
+
+
+
+**Laurdag** <br>
+
+09.00: *Frukost* <br>
+
+10.00: Parallelle punkt:<br>
+
+     Korleis og korfor påverke politikken? v/Peder Lofnes Hauge, nestleiar i Noregs Mållag<br>
+
+     Kurs i styrearbeid v/Diego Vaula Foss, politisk rådgjevar i LNU<br>
+
+11.30: Den språkpolitiske stoda v/Per Magnus Finnanger Sandsmark, direktør i Nynorsk kultursentrum<br>
+
+13.00: *Lønsj* <br>
+
+13.45: Parallelle punkt:<br>
+
+     Korleis ta gode bilete til Instagram? v/Anna Sofie Ekeland Valvatne, tidlegare lokallagsskrivar i Norsk Målungdom<br>
+
+     Lesarbrevverkstad<br>
+
+16.30: *Brødmat* <br>
+
+17.00: Lovleg, nynorsk og ungdom v/Kjersti Wøien Håland, manusforfattar for Lovleg<br>
+
+18.15: Sofasamtale med Kjersti Wøien Håland og JON OLAV<br>
+
+19.00: Konsert med JON OLAV<br>
+
+Etterpå: *Middag* <br>
+
+
+
+**Søndag** <br>
+
+09.00: *Frukost* <br>
+
+10.00: Parallelle punkt:<br>
+
+     Korleis bli ein god leiar? v/Åshild Mongstad, høgskolelektor og forfattar <br>
+
+     Korleis leggje fram saka si?<br>
+
+11.30: Innleiar kjem.<br>
+
+13.00: Appell v/Gunnhild Skjold, leiar i Norsk Målungdom<br>
+
+Etterpå: *Lønsj og pakking* <br>
+
+----
+
+
+
+
+
+Påmelding
+
+=========
+
+Ferdig.
+
+----
+
+
+
+Praktisk
+
+=======
+
+Tørre fakta
+
+-----------
+
+**Kvar**: St. Paul skole i Bergen
+
+
+
+**Når**: 27. - 29. september
+
+
+
+**Pris**: 500,- for studentar og 400,- for elevar
+
+
+
+**Reisedekking**: Me kostar billegaste reiseveg for alle som kjem på leiren. Ta kontakt om du lyt reise med fly eller ikkje-billegaste reiseveg. Me tek sosiale omsyn.
+
+
+
+**Pakkeliste**:
+
+- sovepose
+
+- liggjeunderlag/luftmadrass
+
+- toalettsaker
+
+- handkle
+
+
+
+Reiseruter
+
+=====
+
+Ta kontakt om du tykkjer det er vanskeleg å finne ein passande reiserute. Dei fleste vil finne ei høvande reiserute til Bergen på nettsida til reiseplanleggjaren Entur. (https://en-tur.no/). 
+
+
+
+Samlinga startar 16.30, og det er lurt å vere der omlag ein time før for å få mat og praktisk informasjon. Samlinga sluttar 13.00 på sundagen.
+
+
+
+
+
+Informasjon til føresette
+
+=========================
+
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+
+Difor har me laga eit [informasjonsskriv til
+
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+
+dei kan kjenne seg tryggare.
+
+----

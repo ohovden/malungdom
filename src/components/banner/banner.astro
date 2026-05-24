@@ -16,18 +16,24 @@ const pages = [
 
 const { pagePath } = Astro.props;
 import '../../styles/globals.css';
-import Button from './button.astro'
+import Button from '../shared/button.astro'
+
+import Menu from './menu.jsx';
+
+//{pages.map((page) => <a href={page.path} data-text={page.name} class:list={['link', {'activepage': pagePath == page.path}]}>{page.name}</a>)}
 ---
 
 <div class='outerContainer'>
     <div class='imgContainer'>
-        <a href='/'><img src='nmu-logo.svg' alt='Logo til Norsk Målungdom'></a>
+        <a href='/'><img src='/nmu-logo.svg' alt='Logo til Norsk Målungdom' class='pl-2'></a>
     </div>
-    <div class='pagesContainer'>
-        {pages.map((page) => <a href={page.path} data-text={page.name} class:list={['link', {'activepage': pagePath == page.path}]}>{page.name}</a>)}
-        <Button path='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar' 
-                colorVar ='main-lav' 
-                text='Meld deg inn!' />
+    <div class='pagesContainer md:pr-8'>
+        <div class='hidden md:flex'>
+            <Button path='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar' 
+                    colorVar ='main-lav' 
+                    text='Meld deg inn!' />
+        </div>
+        <Menu pages = {pages} activePage = {pagePath} client:idle/>
     </div>
 </div>
 
@@ -38,7 +44,6 @@ import Button from './button.astro'
 
     .outerContainer {
         display: flex;
-        align-items: center;
         justify-content: space-between;
         width: 100%;
         height: 6rem;
@@ -66,7 +71,6 @@ import Button from './button.astro'
         align-items: center;
         justify-content: flex-end;
         gap: 2.5rem;
-        padding-right: 50px;
     }
 
     .link {

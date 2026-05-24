@@ -1,0 +1,319 @@
+---
+title: "Personvern"
+date: 
+slug: organisasjon/personvern
+image: src/assets/images/none
+---
+Personvernerklæring
+
+=========
+
+
+
+Denne personvernerklæringa handlar om korleis Norsk Målungdom handsamar personopplysningar. Det er skrivaren som har hovudansvar for å handsame personopplysningar på vegner av Norsk Målungdom. Viss du har spørsmål om personvern, eller vil rette eller slette personopplysningar om deg kan du ta kontakt med skrivaren på [norsk@malungdom.no](mailto:norsk@malungdom.no).
+
+
+
+**1. Vi lagrar desse personopplysningane**
+
+
+
+1.1. Medlemmar
+
+
+
+Viss du er medlem hjå oss lagrar vi desse personopplysningane om deg: 
+
+Namn, adresse, e-postadresse, telefonnummer, fødeår og kjønn.
+
+
+
+1.2 Deltakarar på tilskipingar
+
+
+
+Viss du melder deg på ei tilskiping lagrar vi desse personopplysningane om deg: 
+
+Namn, adresse, e-postadresse, telefonnummer, fødeår, pårørandeinformasjon, og opplysningar om eventuelle allergiar eller andre relevante helseopplysningar. På nokre tilskipingar tek vi bilete av deltakarane. 
+
+
+
+1.3 Målgåvegjevarar
+
+
+
+Viss du melder deg som målgåvegjevar, lagrar vi desse personopplysningane om deg: 
+
+Namn, adresse og eventuelt fødselsnummer. 
+
+
+
+1.4 Kundar
+
+
+
+Viss du handlar i krambua vår, lagrar vi desse personopplysningane om deg: 
+
+Namn, adresse, e-postadresse og kva du har kjøpt. 
+
+
+
+1.5 Klagarar
+
+
+
+Viss du bruker oss til å klage på til dømes manglande nynorskversjon til eksamen eller mangel på nynorske lærebøker, lagrar vi desse personopplysningane om deg: 
+
+Namn, e-postadresse og utdanningsstad.
+
+
+
+1.6 Søkarar til stillingar
+
+
+
+Viss du søker jobb hjå oss, lagrar vi desse personopplysningane om deg:
+
+Namn, kontaktinformasjon, CV og søknadsbrev.
+
+
+
+**2. Kvifor lagrar vi desse personopplysningane?**
+
+ 
+
+Formålet med å lagre desse personopplysningane er å kunne halde avtaler om medlemskap, eller andre avtaler du har gjort med oss. Det kan vere avtale om kjøp, eller avtale om at vi skal klage på vegner av deg. Vi har grunnlag for å handsame desse personopplysningane i personvernforordninga til EU, artikkel 6 (B). 
+
+
+
+Dersom du samtykker til det, bruker vi personopplysningane til å sende deg informasjon på e-post og SMS, nyhendebrev, medlemsblad og målgåveopprop. Du kan trekke samtykket ditt kva tid som helst. Viss du deltek på ei tilskiping i regi av Norsk Målungdom kan du samtykke til at vi lagrar relevante helseopplysningar om deg, som allergiar, og informasjon om pårørande. Du kan òg samtykke til at vi tek bilete av deg. Vi har grunnlag for å handsame slike personopplysningar i personvernforordninga til EU, artikkel 6 (A). 
+
+
+
+Dersom du søker jobb hjå oss, handsamar vi personopplysningane dine i samsvar med personvernforordninga. Vi handsamar opplysningane dine for å vurdere søknaden din i samsvar med behova og krava til stillinga. Dersom søknaden din inneheld særlege kategoriar av personopplysningar, handsamar vi desse opplysningane i tråd med personvernforordninga artikkel 9.
+
+
+
+**3. Innhenting av personopplysninga**
+
+
+
+Personopplysningane om deg som vi lagrar, har vi fått av deg, til dømes gjennom skjema på nettsidene våre. 
+
+
+
+**4. Utlevering av personopplysningar**
+
+
+
+Vi kjem ikkje til å selje eller dele personopplysningar om deg til andre med mindre vi er rettsleg forplikta til det, eller viss vi er nøydde til å gjere det for å oppfylle ei avtale vi har med deg. 
+
+
+
+4.1 Medlemmar
+
+
+
+Viss du er medlem hjå oss og samtykker til det, utleverer vi personopplysningar til nokre samarbeidspartnarar:
+
+
+
+*Medlemssys:* Odin Hørthe-Omdal Urdland administrerer medlemsregisteret vårt.
+
+
+
+*Solidus CRM:* Når du melder deg inn, skjer dette gjennom Solidus CRM. Dei handsamar medlemsinformasjonen du oppgjev og medlemspengane du betalar.
+
+
+
+*Google:* Vi lagrer alle filene våre i Google Workspace. 
+
+
+
+*Eurobate:* Det er Eurobate som handsamar innbetalinga av medlemspengar med SMS. Dei handsamar telefonnummer. 
+
+
+
+*Vipps:* Ein kan betale medlemspengar, kjøpe tilfang eller gje målgåve med Vipps. Vipps handsamar telefonnummer, adresser og namn. 
+
+
+
+*Merkur Grafisk:* Det er Merkur Grafisk som trykker medlemsbladet vårt, Motmæle. Dei handsamar adresser. 
+
+
+
+*Noregs Mållag:* Moderorganisasjonen vår kan få innsyn i medlemslistene våre. Dagleg leiar og styret i Noregs Mållag kan be om innsyn i medlemslister for avgrensa geografiske område. Dessutan handsamar dei adresselister for å sende ut medlemsbladet Norsk Tidend til medlemmane våre som ynskjer det. 
+
+
+
+4.2 Deltakarar på tilskipingar
+
+
+
+Vi lagrar lister over deltakarar i Google Workspace. 
+
+
+
+4.3 Målgåvegjevarar
+
+
+
+Viss du melder deg som målgåvegjevar lagrar vi informasjonen om deg i medlemssys, som Odin Hørthe-Omdal Urdland administrerer. Viss du har gitt oss fødselsnummeret ditt og ønskjer skattefrådrag for gåva di, lagrer vi informasjon om deg hjå Solidus, som gir informasjon til Skatteetaten. 
+
+
+
+4.4 Kundar
+
+
+
+Viss du handlar i krambua vår, lagrar vi informasjon om deg i rekneskapsprogram i Visma, der vi lagar faktura. Revisor har årleg tilgang til all informasjon i Visma.
+
+
+
+4.5 Klagarar
+
+
+
+Folk som klagar gjennom oss blir alltid anonymiserte når vi klagar vidare. Vi utleverer ikkje desse opplysningane til nokon, men lagrar dei i Google. 
+
+
+
+4.6 Leverandørar
+
+
+
+Sender du oss ei rekning, til dømes reiserekning, lagrar vi informasjonen på den rekninga i Visma. Revisor har årleg tilgang til all informasjon i Visma.
+
+
+
+1.6 Søkarar til stillingar
+
+
+
+Vi utleverer ikkje informasjon om at du har søkt på ei stillinga hjå oss. Informasjonen om deg kan bli brukt for anonymisert intern statistikk.
+
+
+
+**5. Sletting og sikring av personopplysningar**
+
+
+
+Vi lagrar informasjon som vi er forplikta til å lagre etter bokføringslova i 5 år. 
+
+
+
+5.1 Medlemmar
+
+
+
+Informasjonen som er lagra om deg er sikra med tilgangskontroll, passord, og lås på kontoret. Viss du melder deg ut av organisasjonen, lagrar vi informasjon om deg i 5 år, men anonymiserer deg i medlemsregisteret etter dette. 
+
+
+
+5.2 Deltakarar på tilskipingar
+
+
+
+Deltakarlistene er sikra med tilgangskontroll og passord, og vi anonymiserer helseopplysningar. Vi slettar informasjon om pårørande og eventuelle helseopplysningar etter tilskipinga. 
+
+
+
+5.3 Målgåvegjevarar
+
+
+
+Informasjonen om målgåvegjevarar er sikra med passord og tilgangskontroll. Viss du ikkje lenger vil vere målgåvegjevar slettar vi personopplysningane om deg så snart du melder frå. 
+
+
+
+5.4 Kundar
+
+
+
+Informasjonen om deg er sikra med tilgangskontroll og passord. Vi slettar personopplysningane du har gitt oss etter 5 år. 
+
+
+
+5.5 Klagarar
+
+
+
+Vi arkiverer informasjon om klaga, men anonymiserer all informasjon om klagene. Informasjonen er sikra med passord og tilgangskontroll. 
+
+
+
+5.6 Søkarar til stillingar
+
+
+
+Informasjonen om søkarar til stillingar er sikra med passord og tilgangskontroll. Viss du får jobben, tek vi vare på informasjonen vi har fått frå deg, elles slettar vi personopplysningane om deg så snart du melder frå.
+
+
+
+**6. Nettsida**
+
+
+
+Me nyttar Google Analytics for statistikk. Denne statistikken gjev oss informasjon om kva sider som får mest vitjingar, og enkel anonymisert informasjon om kor brukarane kjem frå og når sidene blir vitja.
+
+
+
+**7. Kva rettar har du?**
+
+
+
+Du kan kreve innsyn i kva personopplysningar vi har lagra om deg. Du kan kreve å flytte dei, du kan kreve at vi slettar dei, og du kan kreve at vi rettar på opplysningane viss dei er feil. 
+
+
+
+Vi handsamar personopplysningar etter personopplysningslova og gjeldande forskrifter. 
+
+
+
+Viss du meiner at vi ikkje handsamar personopplysningar etter lova, kan du klage til Datatilsynet. 
+
+----
+
+
+
+Kontakt oss
+
+=========
+
+
+
+Du kan krevja innsyn i kva personopplysningar vi har lagra om deg. Du kan krevja å flytta dei, du kan krevja at vi slettar dei, og du kan krevja at vi rettar på opplysningane viss dei er feil.
+
+Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi skal sletta personopplysningane om deg frå registera våre. 
+
+
+
+<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
+
+  data-type="kontakt" data-success="Innsendt!">
+
+  <label>
+
+    Fritt felt <small>(hugs namn/anna informasjon)</small>
+
+    <textarea name="fritekst" rows=3 required></textarea>
+
+  </label>
+
+  <label>
+
+    E-posten din
+
+    <input type="email" name="epost">
+
+  </label>
+
+  <input type="submit" value="Send inn">
+
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
+
+</form>
+
+----

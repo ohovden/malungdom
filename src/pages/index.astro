@@ -1,55 +1,67 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Button from '../components/shared/button.astro';
+import Card from '../components/shared/card.astro';
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 <html>
 	<body>
-	<Layout currentPage='/'/>
+	<Layout currentPage='/' class='slide-up delay-1'/>
 		<div>
 			<main>
-				<div class='grid grid-cols-1 md:grid-cols-2'>
+				<div class='grid grid-cols-1 md:grid-cols-2 slide-up delay-2'>
 					<div class='mainText order-2 md:order-1'>
 						<h1 class='headline'>Ver med og kjemp for språket vårt!</h1>
 						<p>
 						Norsk Målungdom er eit landsdekkjande mållag med over 1200 elevar og studentar som kjempar for nynorsk, dialekt og språkmangfald i Noreg. 
 						</p>
 						<br/><br/>
-						<div class="grid grid-cols-3">
+						<div class="grid grid-cols-1 md:grid-cols-3 items-center align-center justify-center">
 							<Button text="Kvifor nynorsk?" colorVar='main-dgray' width='15rem'/>
 							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/politikk' width='15rem'/>
 							<Button text="Lokallaga våre" colorVar='main-dgray' width='15rem' />
 						</div>
 					</div>
-					<img src='../../public/smib.JPG' class='order-1 md:order-2' alt=''>
+					<img src='/smib.webp' class='order-1 md:order-2' alt=''>
 				</div>
-				<div class="grid grid-cols-2 py-12">
-					<div class='textCardGreen mx-25'>
-						<h1 class='flex items-center justify-center font-["Gloock"] text-5xl'>Arrangement</h1>
-						<p class=''>
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-12 slide-up delay-3">
+					 <Card>
+						<h1 class='flex pt-7'>Kva skjer framover?</h1>
+						<p class='font-["League Spartan Variable"]'>
 							5.-7. juni: Landsstyremøte
+							<br/><br/>8.-12. juli: <a href='https://malungdom.no/2026/sommarleir/' class='text-link'>Sommarleir 2026 ></a>
+							
 						</p>
-					</div>
-					<div>
-						<p class="flex items-center justify-center font-['IBM_Plex_Serif'] italic font-light text-4xl px-32 leading-snug tracking-wide">
+						<h1 class='flex pt-7'>Betala medlems&shy;pengar?</h1>
+						<p class='font-["League Spartan Variable"] text-left pb-7'>
+							Du kan melda deg inn ved å fylla ut <a class='text-link' href='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar'>dette skjemaet ></a>
+							<br/><br/>
+							Viss du allereie er medlem og vil betala medlemspengane for i år, kan du vipse 50 kr til Norsk Målungdom (#22472). Du kan få faktura i posten om du heller vil bruke det, eller om Vipps ikkje fungerer for deg.	
+						</p>
+					</Card>
+					<div class='flex flex-col justify-center'>
+						<div class='border-l-2 ml-20' style="border-color: var(--main-blue)">
+						<p class="flex items-left font-['Cormorant-Garamond'] italic font-light text-4xl px-24 leading-snug tracking-wide" >
 							«Det språklege mangfaldet i verda er umisteleg, av di kvart språk har sin unike måte å tolka røynda på. Norske dialektar, skriftspråk og mindretalsspråk er Noregs bidrag til det globale språkmangfaldet. Det er vår oppgåve å tryggja og byggja vidare på dette bidraget.»
 						</p>
-						<h1 class="flex items-center justify-center font-['Gloock'] text-5xl py-12">
-							<span class="-translate-x-15">—Tufta til Norsk Målungdom</span>
-							
+						<h1 class="flex items-left text-5xl py-12 pl-24">
+							<span class="-translate-x-10">—Tufta til Norsk Målungdom</span>
 						</h1>
+						</div>
 					</div>
 				</div>
-				<div class='grid grid-cols-2 py-12'>
+				<div class='grid grid-cols-1 md:grid-cols-3 py-12 slide-up delay-4'>
+				<div />
 				<a href='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/m%C3%A5lg%C3%A5ve' class='hover:scale-105 transition-transform duration-150 block'>
 					<div class='textCardGreen mx-25'>
-						<h1 class='flex items-center justify-center font-["Gloock"] text-5xl py-8'>Gi ei målgåve i dag!</h1>
-						<img src='../../public/maalgaave.jpg' class='' />
+						<h1 class='flex items-center justify-center text-5xl py-8'>Gi ei målgåve i dag!</h1>
+						<img src='/maalgaave.jpg' class='' />
 					</div>
 				</a>
 				</div>
+				<div/>
 			</main>
 		</div>
 	</Layout>
@@ -76,10 +88,19 @@ import Button from '../components/shared/button.astro';
 		width: 100%;
 	}
 	.mainText p {
-		font-family: 'IBM Plex Serif', serif;
-		font-weight: 300;
+		font-family: 'Cormorant Garamond', serif;
+		font-weight: 30;
 		font-style: italic;
-		font-size: 1.5rem;
+		font-size: 1.9rem;
+	}
+	@media(max-width: 768px) {
+		.headline {
+			font-size: 3rem;
+		}
+		.mainText {
+			padding-left: 2rem;
+			padding-right: 2rem;
+		}
 	}
 
 </style>
