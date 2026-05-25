@@ -4,14 +4,9 @@ date:
 slug: 2023/vinterleir
 image: src/assets/images/vl20ski.jpg
 ---
-<img src="https://drive.google.com/uc?export=view&id=12vC4SzSGuHP82Kx0QQO28GxzezEOjNqv" width="100%" style="horizontal-align:middle" alt="Vinterleiren 2023">
+# 
 
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Fossheim leirstad på Fosser i Aurskog-Høland <br/>
 
 **Når**: 27. til 29. januar<br/>
@@ -20,14 +15,7 @@ Praktisk
 
 **Reise**: Me kostar reisa for alle som kjem på leiren.
 
-
-
-----------
-
-Reiseruter
-
-=====
-
+## # Reiseruter
 I år skal vinterleiren vere på Fossheim på Fosser. 
 
 
@@ -50,20 +38,11 @@ Merk: Me dekkjer i utgangspunktet berre billegaste reisemåte. Om du vil nytte n
 
 Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Jógvan Helge Gardar på e-post [jogvan@malungdom.no](mailto:jogvan@malungdom.no) eller telefon 95078818. 
 
-
-
--------------
-
-Informasjon til føresette
-
-=========================
-
+## # Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

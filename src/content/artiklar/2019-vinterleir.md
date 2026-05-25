@@ -4,18 +4,11 @@ date:
 slug: 2019/vinterleir
 image: src/assets/images/vlski1.jpg
 ---
-Program
-
-=====
-
+# Program
 Vinterleiren 2019 har dialekttema! 
 
 Sjå programmet i fullversjon [her](https://drive.google.com/a/malungdom.no/file/d/1PF8xuTY2tDIS572tGZKMZobJsvhNO3A3/view?usp=sharing)
-
-
-
-[<img src="VL19p.png" alt="Program for vinterleiren">](https://drive.google.com/a/malungdom.no/file/d/1PF8xuTY2tDIS572tGZKMZobJsvhNO3A3/view?usp=sharing)
-
+# 
 
 
 Det er innsjekk og brødmat frå 16.00 fredag. Programmet startar tidlegast 17.00. 
@@ -42,34 +35,17 @@ Her er nokre smakebitar frå programmet:
 
 - Sjølve [Daskebandet](https://tv.ukm.no/festivalen/2017/11193-Daskebandet/) har konsert for oss! 
 
+## 
 
-
-----
-
-
-
-Påmelding
-
-=========
-
+# Påmelding
 
 
 Vinterleiren har vore, så du kan ikkje lenger melde deg på. 
 
+## 
 
-
-----
-
-
-
-Praktisk
-
-=======
-
-Tørre fakta
-
------------
-
+# Praktisk
+## Tørre fakta
 **Kvar**: Skogstad leirstad på Eina på Toten 
 
 
@@ -99,11 +75,7 @@ Tørre fakta
 - ski, viss du vil gå på ski
 
 
-
-Reiseruter
-
-=====
-
+# Reiseruter
 I år skal vinterleiren vere på Eina på Toten. 
 
 
@@ -163,17 +135,11 @@ Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta
 
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

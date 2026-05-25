@@ -4,10 +4,7 @@ date:
 slug: 2018/vinterleir
 image: 
 ---
-Program
-
-=====
-
+# Program
 
 
 **Fredag**
@@ -122,30 +119,13 @@ Appell v/ Fredrik Hope<br>
 
 13:15<br>
 
-Lunsj m/ nistesmøring, pakk, farvel og avreise<br>
+## Lunsj m/ nistesmøring, pakk, farvel og avreise<br>
 
-----
+# Påmelding
+## Ferdig.
 
-
-
-Påmelding
-
-=========
-
-Ferdig.
-
-----
-
-
-
-Praktisk
-
-=======
-
-Tørre fakta
-
------------
-
+# Praktisk
+## Tørre fakta
 **Kvar**: Jønnbu Fjellkyrkje og Ungdomssenter (Bø i Telemark)
 
 
@@ -175,11 +155,7 @@ Tørre fakta
 - ski, viss du vil gå på ski
 
 
-
-Reiseruter
-
-=====
-
+# Reiseruter
 I år skal vinterleiren vere i Bø i Telemark. 
 
 
@@ -198,4 +174,4 @@ Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta
 
 
 
-**Reise Oslo — Bø:**
+## # # **Reise Oslo — Bø:**

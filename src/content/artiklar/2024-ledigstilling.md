@@ -12,10 +12,7 @@ Norsk Målungdom søkjer skrivar/dagleg leiar i 100% stilling.
 
 
 
-Hovudoppgåver
-
--
-
+## Hovudoppgåver
 Som skrivar vil hovudoppgåvene dine vere det administrative i organisasjonen, mellom anna det daglege økonomiarbeidet, og arbeid med medlemene våre og lokallaga. Du vil òg arbeide mykje med dei sosiale media våre, nettbutikken vår, og du vil vere arbeidsgjevar for ein kontormedarbeidar som skal vere med å avlaste deg i det daglege arbeidet.
 
 
@@ -76,10 +73,7 @@ Send søknad og CV til Sebastian Vinsent Natvik, leiar i Norsk Målungdom ([seba
 
 
 
-Vi gler oss til å høyre frå deg!
-
-----
-
+## Vi gler oss til å høyre frå deg!
 
 
 # Om Norsk Målungdom
@@ -96,6 +90,4 @@ Norsk Målungdom er meir enn berre ein arbeidsplass; det er eit engasjert og ink
 
 
 
-Skrivarstova held til i Oslo sentrum, i Dronningens gate 22, 0154 Oslo. Det er tre folk på skrivarstova i Norsk Målungdom: leiar, skrivar og kontormedarbeidar. Vi deler kontorlandskap med moderorganisasjonen vår, Noregs Mållag.
-
-----
+## Skrivarstova held til i Oslo sentrum, i Dronningens gate 22, 0154 Oslo. Det er tre folk på skrivarstova i Norsk Målungdom: leiar, skrivar og kontormedarbeidar. Vi deler kontorlandskap med moderorganisasjonen vår, Noregs Mållag.

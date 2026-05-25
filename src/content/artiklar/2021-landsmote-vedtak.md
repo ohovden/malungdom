@@ -4,10 +4,7 @@ date:
 slug: 2021/landsmote/vedtak
 image: 
 ---
-Val
-
-======
-
+# Val
 **Sentralstyret**<br>
 
 Leiar: Frida Pernille Mikkelsen <br>
@@ -111,11 +108,6 @@ Representant i landsrådet til Noregs Mållag: Erling Løklingholm Leivestad<br>
 Ettersynsfolk: Arild Breivold v/Unic Revisjon
 
 
-
-Fråsegner
-
-======
-
+# Fråsegner
 Landsmøtet vedtok tre fråsegner:
-
-- [Hegn om stadnamna våre](/politikk/fraasegner/2021-hegn-om-stadnamna-vare)
+# # # # - [Hegn om stadnamna våre](/politikk/fraasegner/2021-hegn-om-stadnamna-vare)

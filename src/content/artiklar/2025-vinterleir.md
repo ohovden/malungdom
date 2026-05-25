@@ -4,10 +4,7 @@ date:
 slug: 2025/vinterleir
 image: src/assets/images/vl20ski.jpg
 ---
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Hageseter Turisthytte på Dovre i Innlandet <br/>
 
 **Når**: 24. til 26. januar 2025 <br/>
@@ -38,16 +35,9 @@ For tida jobbar me for å på plass eit utruleg kjekt program for årets vinterl
 
 - eit spel eller aktivitet du vil ha med
 
+## 
 
-
-----------
-
-
-
-Reiseruter
-
-=====
-
+# Reiseruter
 Informasjon om reise kjem.
 
 
@@ -58,20 +48,11 @@ Merk: Me dekkjer i utgangspunktet berre billegaste reisemåte. Om du vil nytte n
 
 Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Emma H. Pedersen på e-post [norsk@malungdom.no](mailto:norsk@malungdom.no) eller telefon 97342864. 
 
-
-
--------------
-
-Informasjon til føresette
-
-=========================
-
+## # Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

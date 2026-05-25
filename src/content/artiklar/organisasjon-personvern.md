@@ -4,10 +4,7 @@ date:
 slug: organisasjon/personvern
 image: src/assets/images/none
 ---
-Personvernerklæring
-
-=========
-
+# Personvernerklæring
 
 
 Denne personvernerklæringa handlar om korleis Norsk Målungdom handsamar personopplysningar. Det er skrivaren som har hovudansvar for å handsame personopplysningar på vegner av Norsk Målungdom. Viss du har spørsmål om personvern, eller vil rette eller slette personopplysningar om deg kan du ta kontakt med skrivaren på [norsk@malungdom.no](mailto:norsk@malungdom.no).
@@ -270,26 +267,15 @@ Vi handsamar personopplysningar etter personopplysningslova og gjeldande forskri
 
 
 
-Viss du meiner at vi ikkje handsamar personopplysningar etter lova, kan du klage til Datatilsynet. 
+## Viss du meiner at vi ikkje handsamar personopplysningar etter lova, kan du klage til Datatilsynet.
 
-----
-
-
-
-Kontakt oss
-
-=========
-
+# Kontakt oss
 
 
 Du kan krevja innsyn i kva personopplysningar vi har lagra om deg. Du kan krevja å flytta dei, du kan krevja at vi slettar dei, og du kan krevja at vi rettar på opplysningane viss dei er feil.
 
 Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi skal sletta personopplysningane om deg frå registera våre. 
-
-
-
-<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
-
+# 
   data-type="kontakt" data-success="Innsendt!">
 
   <label>
@@ -314,6 +300,4 @@ Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi ska
 
   <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
 
-</form>
-
-----
+## </form>

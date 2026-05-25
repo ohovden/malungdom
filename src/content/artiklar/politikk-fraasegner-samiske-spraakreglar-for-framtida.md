@@ -1,0 +1,23 @@
+---
+title: "Samiske språkreglar for framtida"
+date: 
+slug: politikk/fraasegner/samiske-spraakreglar-for-framtida
+image: 
+---
+Landsstyret i Norsk Målungdom (NMU) er glade for at tida no er komen for å oppdatere språkreglane i samelova. Offentlege strukturar har endra seg, og situasjonen for samiske språk er i stadig endring. Det er viktig at det er på plass eit moderne lovverk som kan romme den revitaliseringa og utviklinga dei samiske språka treng, kvar for seg. 
+
+
+
+I oktober 2016 kom NOU 2016: 18, Hjertespråket. I denne utgreiinga kom ei rekke framlegg til endringar i organiseringa av samiske språk og tiltak for å styrke dei samiske språka. Som følgjer av dette sendte Kommunal- og moderninseringsdepartementet ut sine framlegg til endring i samelova sine språkreglar, på høyring hausten 2021. 
+
+
+
+Noreg har spesielt ansvar for dei samiske språka sørsamisk, lulesamisk og nordsamisk som offisielle språk i Noreg. Desse må ha likeverdig status, også med norsk, men ulike tiltak må bli sett i verk for å styrke språka. At framlegget frå departementet kjem med nye kategoriar for samisk språkområde kan vere med på gi denne hjelpa. Det er også eit viktig trekk at både kommunar, Sametinget og staten kan ta initiativ til å melde ein kommune inn i språkområdet. Den systematiske undertrykkinga av samiske språk set framleis sterke spor i dagens samfunn. Eit lovverk må ta omsyn til denne fortida, og difor gi mindretalet den støtta som er naudsynt for at ordet skal kome fram. Eit nytt lovverk må ikkje gjere at samiskspråklege kjem dårlegare ut enn det var frå før.
+
+
+
+Landsstyret i Norsk Målungdom ser det som gledeleg at det er føreslått ei informasjonsplikt frå det offentlege si side. At det skal vere opplyst at ein kan nytte samisk gjer både kvardagen som samiskspråkleg enklare, men er også eit tiltak som kan vere med å heve status. Framlegget som seier at samiskkunnskapar skal gi fortrinnsrett i tilsettingar i offentlege organ er også både viktig og med på ei statusheving, samstundes må framleis tilsette få rett til permisjon til å lære seg samisk. Vi treng fleire og fleire med samiskkunnskapar for at språka skal kunne vere fullt ut samfunnsberande språk. 
+
+
+
+NMU er også positive til overordna planar for språk i kommunane. I nynorsk- eller språknøytralekommunar er opplevinga at slike planar er med på å bevisstgjere ein større del av kommunen om språkansvaret. Det gir også kommunen eit eigarskap til språket. Spesielt i utviklinga av planen.

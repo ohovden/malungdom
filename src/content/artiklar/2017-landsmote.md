@@ -4,10 +4,7 @@ date:
 slug: 2017/landsmote
 image: 
 ---
-Påmelding
-
-=========
-
+# Påmelding
 Lokallaga vel normalt utsendingar på årsmøtet (høgsesongen for årsmøte
 
 er januar-mars). Ta kontakt med lokallaget ditt om du vil reise på
@@ -26,16 +23,9 @@ Lurer du på kor mange utsendingar laget ditt kan sende?
 
 Utsendingsnykelen finn du i §24
 
-i [lovene](/organisasjon/styringsdokument/lovene/).
+## i [lovene](/organisasjon/styringsdokument/lovene/).
 
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Sandane i Gloppen kommune
 
 
@@ -56,22 +46,12 @@ lese meir om reisedekking](reiseruter/#reisedekking).
 
 
 
-Reiseruter
-
----------------
-
+## Reiseruter
 Lurer du på korleis du skal kome deg til landsmøtestaden? Her finn du eit
 
-oversyn over korleis ein [lettast mogleg kjem seg til Sandane](reiseruter/).
+## oversyn over korleis ein [lettast mogleg kjem seg til Sandane](reiseruter/).
 
-----
-
-
-
-Fristar
-
-======
-
+# Fristar
 Fristen for å levere endringsframlegg til
 
 [lovene](/organisasjon/styringsdokument/lovene) og [tufta](/politikk/tufta) er
@@ -88,48 +68,26 @@ Siste frist for på- og avmelding er sett til fredag 17. mars.
 
 Dersom du eller lokallaget ditt ynskjer å fremje ei fråsegn til landsmøtet, tek
 
-me gjerne imot. Fråsegner må vere skrivarstova i hende seinast 29. mars.
-
-----
-
+## me gjerne imot. Fråsegner må vere skrivarstova i hende seinast 29. mars.
 #### attachments-block ####
 
 description:
 
 
-
-Sakpapir
-
-========
+# Sakpapir
 
 
-
-Me legg ut sakspapira her etter kvart som det er praktisk mogeleg å få dei klare.
-
-----
-
-filter: LM17
-
-----
-
+## Me legg ut sakspapira her etter kvart som det er praktisk mogeleg å få dei klare.
+## filter: LM17
 classes: box
 
 
 
 
-
-Innkalling
-
-=========
-
+# Innkalling
 
 
 - [Innkalling til Landsmøtet 2017](Kunngjeringsdokument_lm2017.pdf)
 
 
-
-Skjema til lokallaga
-
-======
-
-- [Årsmelding 2016](aarsmelding-for-lokallag-2016.pdf)
+# Skjema til lokallaga# - [Årsmelding 2016](aarsmelding-for-lokallag-2016.pdf)

@@ -4,10 +4,7 @@ date:
 slug: nynorsk/byt-til-nynorsk
 image: 
 ---
-Kvifor byta til nynorsk?
-
-------------------------
-
+## Kvifor byta til nynorsk?
 
 
 Å byta til nynorsk er gjort i ei handvending, so få det gjort! På skulen vert
@@ -24,10 +21,7 @@ som er verd å prøva.
 
 
 
-Korleis byta til nynorsk?
-
-------------------------
-
+## Korleis byta til nynorsk?
 
 
 Frå du byrjar på ungdomsskulen er du fri til å velja kva hovudmål du vil ha. Me
@@ -46,10 +40,7 @@ veke før eksamen i 3. klasse, er det i heilt lov.
 
 
 
-Ditt nye liv som nynorskbrukar
-
-------------------------
-
+## Ditt nye liv som nynorskbrukar
 
 
 Etter å ha skrive bokmål store delar av livet, kan bytet til nynorsk vera litt

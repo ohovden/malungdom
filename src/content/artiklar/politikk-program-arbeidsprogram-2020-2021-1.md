@@ -1,0 +1,134 @@
+---
+title: ""
+date: 
+slug: politikk/program/arbeidsprogram/2020-2021-1
+image: 
+---
+<small>Mellombels arbeidsliste vedteke av det digitale landsmøtet 28. mars 2020.</small>
+
+
+
+## 1 POLITISKE PRIORITERINGAR
+I perioden framover skal vi markere oss politisk. Vi skal bruke unntakstilstanden til å gjere folk kjende med NMU og politikken vår. Vi skal spesielt prioritere desse sakene.    
+
+
+
+**1.1 Språk i skulen **
+
+
+
+- NMU skal svare på høyring for framlegg til ny opplæringslov. 
+
+
+
+- Vi skal i tida framover arbeide for at elevane får oppfylt rettane sine, òg når skulen føregår heimanfrå. 
+
+
+
+- Hausten 2020 trer dei nye læreplanane i kraft. Vi skal følgje med på korleis desse blir sette i verk. Vi skal spesielt markere oss og spele på lag med elevar for retten til læremiddel til same tid og pris. 
+
+
+
+- Vi skal oppdatere argumentasjonsarket for sidemål. 
+
+
+
+- Ved eksamenstider og ved skulestart skal vi dele klageportalen og kva rettar ein har som elev. 
+
+
+
+- NMU skal utarbeide enkle digitale ressursar som kan brukast i skulen, t.d. korte videoar om norsk språkhistorie, dialekter, nynorsk osb., tilsvarande eit målferdsopplegg.
+
+
+
+**1.2 Språk i lovene **
+
+
+
+- NMU skal halde fram arbeidet med språklova og språkmeldinga. Vi må sørgje for at begge desse tek vare på rettane til brukarar av nynorsk og andre minoritetsspråk. Vi skal delta i høyringa for språkmeldinga, vere synlege i det offentlege ordskiftet og  byggje alliansar.
+
+
+
+
+
+## 2 ORGANISASJONEN
+**2.1 Aktivitet **
+
+
+
+- Vi skal ha digitale innleiingar om interessante emne som skal byggje oss som organisasjon medan vi ikkje har høve til å ha tilskipingar.
+
+
+
+- I oktober skal vi skipe til haustkonferanse i Førde. 
+
+
+
+- Vi skal tilby digital målferd til skular som har fjernundervisning.
+
+
+
+**2.2 Synleggjering **
+
+
+
+- NMU skal skape merksemd og ordskifte kring dei politiske prioriteringane våre og synleggjere oss sjølv og arbeidet vårt.  
+
+
+
+	- Vi skal dele tre innlegg på sosiale medium kvar veke. 
+
+
+
+	- Vi skal gi ut minst eitt Motmæle i perioden. 
+
+
+
+	- Vi skal oppdatere tekstane på nettsida. 
+
+
+
+	- Skrivarstova skal sende ut nyhendebrev på e-post når det er noko nytt å melde om. 
+
+
+
+- Denne perioden skal sentralstyret lage ein kommunikasjonsstrategi. 
+
+
+
+**2.3 Organisasjonsutvikling **
+
+
+
+- Sentralstyret skal hjelpe lokallaga med å finne løysingar for å drive lokalaktivitet i unntakstilstand.  
+
+
+
+- I august/september skal vi ha vervekampanje. 
+
+
+
+- Sentralstyret skal skipe til  styreskuleringar, og andre organisatoriske skuleringar for lokallaga. Desse skal vere både fysiske (når det er mogleg) og digitale.
+
+
+
+- Sentralstyret skal utvikle videoar med informasjon om NMU til nye medlemmar.
+
+
+
+- Sentrallekken skal leggje til rette for god erfaringsoverføring i overgangar til nye styre i lokallaga. Sentrallekken skal lage eit erfaringsoverføringsdokument som styre som går av, kan nytte.
+
+
+
+## 3 UTVAL
+
+
+Landsstyret skal setje ned og konkretisere mandat for desse utvala:
+
+
+
+- Bladstyret har ansvar for å gje ut og skaffe innkomer til Motmæle
+
+
+
+- Soge og dokumentasjonsnemnda skal halde fram arbeidet med soga vår mot 2021 og jubileum.

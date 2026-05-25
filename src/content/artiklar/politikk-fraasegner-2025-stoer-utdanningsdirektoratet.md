@@ -1,0 +1,15 @@
+---
+title: "Norsk Målungdom stør Utdanningsdirektoratet"
+date: 
+slug: politikk/fraasegner/2025-stoer-utdanningsdirektoratet
+image: 
+---
+Den siste tida har det vore mykje debatt om sidemål i fylkeskommunane. Søknadane til fylkeskommunane Nordland og Vestfold, om å gjere sidemål valfritt har denne månaden blitt avslått av Utdanningsdirektoratet. Landsstyret i Norsk Målungdom stør avgjerda til Utdanningsdirektoratet heilhjarta.
+
+
+
+Ei prøveordning slik som den som blei søkt om i Nordland og Vestfold hadde svekt nynorskferdigheitene til elevane i desse fylka, og i så måte gjeve desse elevane eit dårlegare utgangspunkt i studie- og arbeidssamanhengar. Ordninga hadde også svekt jamstillingsprinsippet mellom dei to skriftspråka og kunne potensielt gjeve eit uheldig inntrykk av at det ikkje er viktig å lære seg båe skriftspråka.
+
+
+
+Vi må fremje toleransen for sidemål i fylkeskommunane, ikkje svekke han. Vi håpar at avslaga på desse søknadane kan bidra til ny giv i fylkeskommunane om å heller styrkje sidemålsundervisinga.

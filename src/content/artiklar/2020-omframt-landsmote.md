@@ -4,10 +4,7 @@ date:
 slug: 2020/omframt-landsmote
 image: 
 ---
-Kom på landsmøtet! 
-
-=================
-
+# Kom på landsmøtet!
 Frå 14. til 15. november skipar vi til omframt landsmøte for å avgjere kva NMU skal meine og arbeide med fram til landsmøte i 2021. 
 
 
@@ -15,23 +12,12 @@ Frå 14. til 15. november skipar vi til omframt landsmøte for å avgjere kva NM
 Vil du vere med? Ta kontakt med lokallaget ditt – utsendingar til landsmøtet vert valde på medlemsmøte i lokallaget. 
 
 
-
-Påmelding
-
-=========
-
+# Påmelding
 Når lokallaget ditt har valt deg som utsending kjem vi til å sende deg ei påmelding du må fylle ut. 
 
+## 
 
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Thon Hotel Oslo Airport, Jessheim
 
 
@@ -46,16 +32,9 @@ Praktisk
 
 **Reiseruter:** For dei fleste er det berre å kome seg til Oslo lufthamn, derfrå tek du buss 420 til Gardermoen Næringspark. 
 
+## 
 
-
-----
-
-
-
-Fristar
-
-=======
-
+# Fristar
 Ein må levere utsendingsskjema og fylle ut påmeldinga før **28. oktober**. 
 
 
@@ -66,16 +45,9 @@ Dersom du eller lokallaget ditt ynskjer å fremje ei fråsegn til landsmøtet, t
 
 Ein kan ikkje levere endringsframlegg til lovene og tufta, eller fremje andre saker
 
+## 
 
-
-----
-
-
-
-Saker og køyreplan
-
-=======
-
+# Saker og køyreplan
 Fleire av sakene skal bli handsama av landsstyret før det omframme landsmøte, framlegga kan soleis bli endra. Dette finn du informasjon om i sakspapiret. 
 
 
@@ -109,3 +81,5 @@ Saklista er slik:
 
 
 *Framlegg til arbeidsprogram kan du lese [her](https://drive.google.com/file/d/1oHzCTOGcm8xg5DDWWHOxRq_jb8gC1Q1l/view?usp=sharing). Framlegget er frå nemnda, og skal også gjennom landsstyret før omframt landsmøte*
+
+## # ##

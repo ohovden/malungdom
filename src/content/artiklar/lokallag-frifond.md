@@ -4,14 +4,7 @@ date:
 slug: lokallag/frifond
 image: src/assets/images/none
 ---
-<center>**1. SØK**
-
-=========
-
-Vil dokker smella saman ein kjekk bowlingkveld med eit glas Mozell attåt? Dra på konsert saman for å knyta band og digga til norsk musikk på dialekt? Laga den stiligaste juleavslutninga nokon sinne? Me deler ut flust med pengar til aktivitet i lokallaga, og desse pengane kan gjera draumane dokker til røynd!
-
-<br> <center> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpLsT3wJjaHrRLM-gdp9mp1Grd2nmZSaLNL6srUSdQat_QnQ/viewform?usp=sf_link"><img src="sok.gif" alt="søk her"> <width="300" height="120" alt="Søk her"></a> </center>
-
+# <center>**1. SØK**# Vil dokker smella saman ein kjekk bowlingkveld med eit glas Mozell attåt? Dra på konsert saman for å knyta band og digga til norsk musikk på dialekt? Laga den stiligaste juleavslutninga nokon sinne? Me deler ut flust med pengar til aktivitet i lokallaga, og desse pengane kan gjera draumane dokker til røynd!
 <br> Kvart år får Norsk målungdom rundt 350 000 kr i Frifondmiddel frå LNU (Landsrådet for Noregs barne- og ungdomsorganisasjonar), og desse midla skal delast ut til lokallag som vil finna på sprell gjennom året. Dette kan for eksempel vera pizza til medlemsmøte, popkorn og kino, tacokveld, bannermaling og vaffelstand; eller noko heilt anna!
 
 <br>
@@ -26,22 +19,11 @@ Vil dokker smella saman ein kjekk bowlingkveld med eit glas Mozell attåt? Dra p
 
 <br>Søknadsfristen er 1. desember, og me opnar for søknadar frå 15. januar. Søknadar blir fortløpande behandla av sentralstyret.
 
+## 
 
-
-----
-
-
-
-<center> **2. RAPPORTER**
-
-=========
-
+# <center> **2. RAPPORTER**
 Dokker har fått innvilga søknaden og pengane er på konto; kva nå?
-
-<br>Gratulerer med pengar på konto! Forhåpentlegvis blir det eit strålande prosjekt, pengane blir brukt opp og dokker sender inn ein rapport om pengane innan 1. oktober året etter søknaden er innvilga. 
-
-<br> <center> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNPlAxg8rbJlq0xAspbe4MVfiGiNDhZnvZGJjTTn3a8IJR9A/viewform?usp=sf_link"><img src="rapporter.gif" width="300" height="120" alt="Rapporter her"></a> </center>
-
+# <br>Gratulerer med pengar på konto! Forhåpentlegvis blir det eit strålande prosjekt, pengane blir brukt opp og dokker sender inn ein rapport om pengane innan 1. oktober året etter søknaden er innvilga.
 <br>**Me brukte ikkje opp pengane me fekk til prosjektet**
 
 <br>Om dokker ikkje rekk å bruka opp pengane innan 1. oktober året etter søknaden er innvilga, må dokker anten 
@@ -72,6 +54,4 @@ Dokker har fått innvilga søknaden og pengane er på konto; kva nå?
 
 
 
-
-
-----
+##

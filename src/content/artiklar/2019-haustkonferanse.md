@@ -4,10 +4,7 @@ date:
 slug: 2019/haustkonferanse
 image: src/assets/images/none
 ---
-Program
-
-=====
-
+# Program
 <img src="program.jpg" alt="">
 
 
@@ -78,32 +75,15 @@ Etterpå: *Middag* <br>
 
 13.00: Appell v/Gunnhild Skjold, leiar i Norsk Målungdom<br>
 
-Etterpå: *Lønsj og pakking* <br>
-
-----
+## Etterpå: *Lønsj og pakking* <br>
 
 
 
+# Påmelding
+## Ferdig.
 
-
-Påmelding
-
-=========
-
-Ferdig.
-
-----
-
-
-
-Praktisk
-
-=======
-
-Tørre fakta
-
------------
-
+# Praktisk
+## Tørre fakta
 **Kvar**: St. Paul skole i Bergen
 
 
@@ -131,11 +111,7 @@ Tørre fakta
 - handkle
 
 
-
-Reiseruter
-
-=====
-
+# Reiseruter
 Ta kontakt om du tykkjer det er vanskeleg å finne ein passande reiserute. Dei fleste vil finne ei høvande reiserute til Bergen på nettsida til reiseplanleggjaren Entur. (https://en-tur.no/). 
 
 
@@ -145,17 +121,11 @@ Samlinga startar 16.30, og det er lurt å vere der omlag ein time før for å f�
 
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

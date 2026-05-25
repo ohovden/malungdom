@@ -1,0 +1,72 @@
+---
+title: ""
+date: 
+slug: politikk/program/noreg-som-fleirsprakleg-samfunn
+image: 
+---
+<small>Vedteke på landsmøtet i Norsk Målungdom 27.–29. mars 2009 med namnet Noreg som fleirkulturelt samfunn. Brigda på landsmøtet i Norsk Målungdom 21.–23. mars 2014, 16.–18. mars 2018 og 18.–20. mars 2022.</small>
+
+
+
+## Føreord
+I Noreg har me alltid hatt eit mangfald av språk. I det fleirspråklege samfunnet må alle ha rett til å nytta språket sitt, og det må samfunnet og myndigheitene leggja til rette for.
+
+ 
+
+## Språk og identitet
+Språk er ein viktig del av identiteten vår. Språk deler oss inn i grupper, men kan også gi oss moglegheita til å ta del i nye grupper. Kvart språk har sin eigen måte å sjå røynda på. Eit mangfald av språk gjev oss eit mangfald av perspektiv, og dette mangfaldet er ein styrke for alle i Noreg. 
+
+
+
+Tilhøyrsle til den norske språkfellesskapen er eit godt utgangspunkt for deltaking i norsk ordskifte, demokrati og kvardag. Det er inga motsetning mellom dette og å ha tilhøyrsle til sitt eige morsmål og språkfellesskap. Norsk Målungdom meiner at alle menneske både må ha rett til å kjenna eige morsmål, anten det er eitt eller fleire, og å få kjenna språka der dei bur.
+
+ 
+
+## Norsk i det fleirspråklege samfunnet
+Munnleg norsk og skriftspråka nynorsk og bokmål er majoritetsspråk i Noreg. Nynorsk og bokmål er jamstilte skriftspråk. For at dette skal bli røyndom, treng nynorsk ekstra støtte, ettersom det er mindre brukt.
+
+
+
+Norsk Målungdom meiner at nynorsk er og skal vera eit språk for heile Noreg, og bør difor ikkje meldast inn som regionspråk i Den europeiske pakta om region- og minoritetsspråk (minoritetsspråkpakta). For å sikre statusen til nynorsk og bokmål må det stå i Grunnlova at nynorsk og bokmål er jamstilte skriftspråk i Noreg, og at staten skal taka vare på språka og leggja til rette for at dei utviklar seg.
+
+ 
+
+## Dei samiske språka
+Dei samiske språka har sterke røter i Noreg, og desse røtene må vi både ta vare på og la seg gro sterkare. Den norske staten prøvde i lang tid å undertrykkja desse språka. Grunna denne fornorskingspolitikken er det i dag mange som ikkje har fått sjansen til å læra språka sine, og alle dei samiske språka er rekna som trua. Dei som har mista arvespråket sitt, må ha høve til å ta det attende.
+
+ 
+
+ Seks samiske språk høyrer tradisjonelt heime i Noreg: skoltesamisk, nordsamisk, lulesamisk, pitesamisk, umesamisk og sørsamisk. I dag er nord-, lule- og sørsamisk mest bruka, og det er desse det blir undervist i og på i skulen. Alle dei samiske språka må styrkjast og utviklast, og fleire må få sjansen til å læra dei.
+
+
+
+Språka må synleggjerast og bli brukte i alle samanhengar, til dømes gjennom stadnamn, offentleg bruk og i media. Det samiske samfunnet må sjølv få setja premissane for denne styrkinga.
+
+
+
+## Norsk teiknspråk
+Teiknspråk er like fullverdige språk som talespråk, og norsk teiknspråk er ein fullverdig del av det norske språkmangfaldet. Teiknspråklege skal kunne delta i samfunnet på lik linje med talespråklege. Difor må norsk teiknspråk styrkast og utviklast, og retten til å lære teiknspråk må utvidast.
+
+
+
+Alle treng å bruka språket sitt i lag med andre. Teiknspråklege arenaar er også viktige for å vareta utviklinga og vidareføringa av norsk teiknspråk. I dag har mange døveskular og andre møteplassar for teiknspråklege blitt nedlagde. Norsk Målungdom meiner at teiknspråklege må få fleire møteplassar der dei er i fleirtal og kan nytta språket sitt.
+
+
+
+## Språka til dei nasjonale minoritetane
+Kvensk, romani og romanes er språk som høyrer til nasjonale minoritetar i Noreg. Etter språklova har offentlege organ ansvar for å verne og fremje desse tre språka. Det må skje i dialog med og på premissane til gruppene det gjeld.
+
+
+
+Desse språka har også vore offer for ein fornorskingspolitikk, som gjer at mange i desse gruppene har mista arvespråka sine, og språka er i dag trua. Fleire må få rett og høve til å lære språka, det må liggja føre gratis læremiddel og kurs, og dei må synleggjerast i samfunnet. Kunnskapen om desse språka må aukast i resten av befolkninga.
+
+
+
+
+
+Norsk Målungdom meiner at kvensk må hevast til nivå 3 i minoritetsspråkpakta. Det vil gje dei fleire rettar og vil stille fleire krav til Noreg sitt vern av det kvenske språket
+
+
+
+## Andre minoritetsspråk
+Vi har mange andre minoritetsspråk i Noreg enn dei som er nemnde i språklova. Brukarane av desse språka må også ha rett til å nytta og utvikla språka sine. I møtet med det offentlege Noreg må dei som treng det, få tilbod om tolketenester, og staten må også kunna nytta desse minoritetsspråka om naudsynt.

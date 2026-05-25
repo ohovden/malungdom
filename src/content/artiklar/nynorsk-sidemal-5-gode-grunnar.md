@@ -4,10 +4,7 @@ date:
 slug: nynorsk/sidemal/5-gode-grunnar
 image: 
 ---
-1. Sidemål gjev fridom til å velja
-
--------------------
-
+## 1. Sidemål gjev fridom til å velja
 Skulen skal gje oss kunnskap til å handla i samfunnet og til å ta sjølvstendige
 
 val. Kva språk ein vil nytta resten av livet, er eit viktig val å ta. Når du
@@ -18,10 +15,7 @@ vil nytta.
 
 
 
-2. Sidemålsundervisning gjev større språkkunnskapar
-
--------------------
-
+## 2. Sidemålsundervisning gjev større språkkunnskapar
 Resultat frå forsking kring fleirmæle tyder på at ein vert betre i språk av
 
 å læra fleire språk. Sidemål gjev oss ikkje mindre, men meir språkkunnskap!
@@ -32,10 +26,7 @@ heng truleg i hop med at me har to skriftspråk som alle lærer.
 
 
 
-3. Sidemålsopplæring tryggjer rettane til nynorskbrukarane
-
--------------------
-
+## 3. Sidemålsopplæring tryggjer rettane til nynorskbrukarane
 Nynorskbrukarane har krav på å verta forstått og ikkje verta nedvurderte på
 
 grunn av språket sitt. Nynorskbrukarar har same retten som bokmålsbrukarar til
@@ -46,10 +37,7 @@ grunn av språket sitt. Nynorskbrukarar har same retten som bokmålsbrukarar til
 
 
 
-4. Nynorsk er norsk
-
--------------------
-
+## 4. Nynorsk er norsk
 Nynorsk er det einaste språket som byggjer på dei norske dialektane. Dialektane
 
 våre har utvikla seg frå gamalnorsk, og difor syner nynorsk samanheng mellom
@@ -60,10 +48,7 @@ avgjerande for å kalla norskfaget for norsk.
 
 
 
-5. Du får bruk for nynorsk!
-
--------------------
-
+## 5. Du får bruk for nynorsk!
 Over ein halv million menneske nyttar nynorsk. Språket får større og større
 
 innpass i byane: no finst det skuleklassar med nynorsk hovudmål både i Oslo,

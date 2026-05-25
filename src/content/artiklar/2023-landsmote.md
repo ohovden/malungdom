@@ -4,20 +4,13 @@ date:
 slug: 2023/landsmote
 image: 
 ---
-Kom på landsmøtet! 
-
-=================
-
+# Kom på landsmøtet!
 Landsmøtet avgjer kva NMU skal meine og arbeide med i året som kjem. Landsmøtekunngjeringa kjem snart.
 
 
 
 
-
-Påmelding
-
-=========
-
+# Påmelding
 Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar til landsmøtet vert valde på lokallagsårsmøta. 
 
 
@@ -25,21 +18,10 @@ Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar t
 Er du usikker på om det er lokallag der du bur, eller lurer du på noko anna? Sjekk [lokallagsoversynet](/lokallag/lokallagsoversyn) eller [ta kontakt](/kontakt) med skrivarstova!
 
 
+# Still til val
+## Vil du stille til val? Ta kontakt med valnemnda på e-post,  (valnemnda@malungdom.no)[mailto:valnemnda@malungdom.no]
 
-Still til val
-
-=========
-
-Vil du stille til val? Ta kontakt med valnemnda på e-post,  (valnemnda@malungdom.no)[mailto:valnemnda@malungdom.no]
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**:
 
 
@@ -58,16 +40,9 @@ Praktisk
 
 
 
-**Overnatting og mat**: Det er overnatting i sovesal. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar. 
+## **Overnatting og mat**: Det er overnatting i sovesal. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar.
 
-----
-
-
-
-Fristar
-
-=======
-
+# Fristar
 **12. mars:**
 
 <ul><li>Framlegg til lovendringar må vere skrivarstova i hende</li>
@@ -92,16 +67,9 @@ Fristar
 
 
 
-Vil du eller lokallaget ditt fremje ei fråsegn til landsmøtet? Dokker kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til [norsk@malungdom.no](mailto:norsk@malungdom.no).
+## Vil du eller lokallaget ditt fremje ei fråsegn til landsmøtet? Dokker kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til [norsk@malungdom.no](mailto:norsk@malungdom.no).
 
-----
-
-
-
-Førebuing
-
-======
-
+# Førebuing
 Viss ein er på sitt første landsmøte kan det vere mykje å setje seg inn på ein gong. Her er nokre tips til kva du kan lese viss du ønskjer å vere godt budd. 
 
 
@@ -110,6 +78,4 @@ Viss ein er på sitt første landsmøte kan det vere mykje å setje seg inn på 
 
 
 
-På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](ordliste).
-
-----
+## På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](ordliste).

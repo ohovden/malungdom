@@ -1,21 +1,59 @@
 ---
-import { getCollection, render } from 'astro:content'
+import { getCollection, reference, render } from 'astro:content'
 import Layout from '../layouts/Layout.astro';
+import Card from '../components/shared/card.astro';
+import '../styles/globals.css';
 
 export async function getStaticPaths() {
     const articles = await getCollection('artiklar');
 
     return articles.map(article => ({
-        params: { slug: article.data.slug },
+        params: { slug: article.data.slug.toString() },
         props: { article }
     }))
 }
 
+
+
 const { article } = Astro.props;
 const { Content } = await render(article);
+
+const articles = await getCollection('artiklar');
+const thisSlug = article.data.slug.toString();
+let subpages = articles
+    .filter((page) => page.data.slug.toString().startsWith(thisSlug) && page.data.slug.toString() != thisSlug)
+    .map((page) => ({ title: page.data.title as string, slug: page.data.slug as string }))
+
 ---
 
 <Layout>
-    <h1>{article.data.title}</h1>
-    <Content />
+    <h1 class='mt-15 text-5x text-center'>{article.data.title}</h1>
+    {subpages.length > 0 && ( 
+    <Card>
+        <div class='content'>
+            <p>Subpages: {subpages.map(({title, slug}) => <a href={`/${slug}`} class='pr-3'>{title}</a>)}</p>
+        </div>
+    </Card>
+    )}
+
+    <div class='px-2 w-full max-w-7xl py-2 flex m-auto justify-center'>
+        <Card>
+            <div class='content'>
+                <Content/>
+            </div>
+        </Card>
+    </div>
 </Layout>
+
+<style is:global>
+    @reference '../styles/globals.css';
+
+    .content p{
+        padding-bottom: 2rem;
+        line-height: 2.5rem;
+    }
+    .content a {
+        @apply inline-block transition-all duration-150 hover:translate-x-1;
+        color: var(--dark-lav);
+    }
+</style>

@@ -1,9 +1,9 @@
 ---
-const { colorVar, path, text, width } = Astro.props;
+const { colorVar, path, text, width, classes } = Astro.props;
 ---
 
-<a href={path}>
-<div class='button' style={`--button-color: var(--${colorVar}); --button-width: ${width}`}>
+<a href={path} class='w-full'>
+<div class={`button w-full ${classes}`} style={`--button-color: var(--${colorVar}); --button-width: ${width}`}>
     <p>
         { text }
     </p>
@@ -27,6 +27,7 @@ const { colorVar, path, text, width } = Astro.props;
     }
 
     .button p {
+        font-family: 'Plus Jakarta Sans', sans-serif;
         text-align: center;
         color: #fff;
         font-weight: 600;

@@ -7,11 +7,7 @@ image:
 Norsk Målungdom deler ut Dialektprisen kvar haust. Prisen går til offentlege personar, som gjennom stødig og sjølvsikker dialektbruk framstår som gode språklege føredøme for ungdom. Dialektprisen har vorte delt ut sidan 2001, og har etter kvart etablert seg som ein av dei tyngste og mest prestisjefylte språkprisane i Noreg.
 
 
-
-Vinnarar av Dialektprisen:
-
-===================
-
+# Vinnarar av Dialektprisen:
 
 
 2025: **Tobias Sten**, *artist*

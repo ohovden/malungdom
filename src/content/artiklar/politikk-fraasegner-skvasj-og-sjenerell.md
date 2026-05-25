@@ -1,0 +1,15 @@
+---
+title: "Skvåsj og sjenerell"
+date: 
+slug: politikk/fraasegner/skvasj-og-sjenerell
+image: 
+---
+Innanføre rettskrivinga kan me i dag velja mellom skvåsj og squash, sørvis og service, og ei heil rekkje andre importord som har både norsk og framand skrivemåte. Det er til og med ein god del importord som har hatt norsk skrivemåte som eineform i ei årrekkje, som sjenerøs og bagett. 
+
+
+
+Både pedagogisk og ideologisk meiner me det kan løna seg å bruka norvagisert stavemåte. Det er lettare å læra seg å stava, og dessutan vita korleis ein skal uttala det. Men me vil ogso at dette norvagiserte ordfanget vert utvida, slik at ord som ingeniør, generell og geni skal få valfri skrivemåte insjenør, sjenerell og sjeni, som det var i 1917-rettskrivinga.
+
+
+
+Landsstyret i Norsk Målungdom meiner at ord som vert mykje bruka i norsk, skal kunna ha norsk skrivemåte. Me meiner difor at styret i Språkrådet bør vedtaka norsk staving for alle importord – både gamle og nye. Elles vil me oppmoda forlag og mediehus om å sleppa til dei formene som allereie er normerte.

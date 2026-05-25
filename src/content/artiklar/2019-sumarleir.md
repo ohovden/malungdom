@@ -4,24 +4,12 @@ date:
 slug: 2019/sumarleir
 image: src/assets/images/SL19banner.png
 ---
-Påmelding 
-
-=========
-
+# Påmelding
 Påmeldingsfristen har gått ut.  
 
+## #
 
-
-[<img src="SL19fin.png" alt="">](https://docs.google.com/forms/d/e/1FAIpQLSehHaZK3gN2wMq6zPnfNYRWEQsS9NzDo1FaMiJndURflPyrXQ/viewform?usp=sf_link)
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 
 
 **Kvar**: Skogn Folkehøgskole i Levanger kommune (Trøndelag)
@@ -44,10 +32,7 @@ Praktisk
 
 
 
-Reiseruter
-
-----------
-
+## Reiseruter
 Det enklaste for dei fleste er å reise til Trondheim fyrst, og så reise vidare til Skogn derifrå. Til Trondheim kan du reise med tog, buss og fly (til Værnes). 
 
 
@@ -61,27 +46,16 @@ Meld frå om kva tid du kjem!
 
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
+## dei kan kjenne seg tryggare.
 
-----
-
-
-
-Samarbeid
-
-=======
-
+# Samarbeid
 I år prøver vi noko nytt: Å skipe til sommarleir i lag med Noregs Ungdomslag! 
 
 
@@ -91,11 +65,7 @@ Noregs Ungdomslag (NU) vart skipa i 1896, og har som føremål å skape engasjem
 Du kan lese meir om sommarleiren på [deira heimesider](http://www.sommarleiren.no/). 
 
 
-
-Program
-
-=======
-
+# Program
 Langkurset til Norsk Målungdom har urfolksspråk som tema, og de kan vente dykk mange gode innleiingar om samiske språk, samisk aktivisme og språk og identitet. 
 
 
@@ -112,6 +82,4 @@ Her kan du melde deg på kurs i til dømes improteater, reinlender, tussefløyte
 
 
 
-Du må melde deg på både langkurs og kortkurs før 1. juni.  
-
-----
+## Du må melde deg på både langkurs og kortkurs før 1. juni.

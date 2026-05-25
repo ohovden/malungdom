@@ -4,18 +4,11 @@ date:
 slug: 2017/sumarleir/reiseruter
 image: 
 ---
-Generelt om reise
-
-=================
-
+# Generelt om reise
 I år skal sumarleiren vere i Elverum. Dit kjem ein seg lettast med tog eller buss frå Gardermoen eller Oslo sentrum med togskifte på Hamar.
 
 
-
-Reiseruter
-
-=================
-
+# Reiseruter
 Frå Stavanger: 
 
 1. Tog til Oslo og tog vidare til Elverum med togbyte på Hamar eller buss direkte til Elverum. Me tilrår toget som går frå Oslo S 4. juli klokka 14.34, eller bussen (Nettbuss) som går frå Oslo bussterminal 4. juli 13.50.

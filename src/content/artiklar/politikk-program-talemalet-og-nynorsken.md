@@ -1,0 +1,94 @@
+---
+title: ""
+date: 
+slug: politikk/program/talemalet-og-nynorsken
+image: 
+---
+<small>Vedtatt på landsmøtet i Stavanger 2014. Brigda på landsmøtet i Gloppen 2017 og det digitale landsmøtet 2021.</small>
+
+
+
+Noreg er, og har alltid vore, eit fleirspråkleg samfunn. Ein viktig del av dette er det norske talemålet og det nynorske skriftspråket. Respekten for dialektene og den språklege variasjonen vi har i Noreg, har ikkje kome av seg sjølv. Utan omhug kan denne tolerante tradisjonen gå tapt.
+
+
+
+## Dialekt og talemål
+I Noreg har vi eit rikt mangfald av dialekter. Talemåten er blant dei viktigaste identitetsmarkørane ein har. Gjennom måten vi snakkar på, kan vi syne geografisk og sosial tilhøyrsle. Det rike mangfaldet av talemålsvariasjonar i Noreg er verdt å ta vare på. 
+
+
+
+Dei fleste er samde om å halde på dette mangfaldet. Slik har det ikkje alltid vore. Fleire norske dialekter har opp gjennom tida vore kalla «vulgære» og «bondske». Det har gjort at fleire la av seg dialekta, særleg om dei flytta frå staden dei kom frå. I dag er det vanlegare å sjå på denne språklege rikdomen som noko vi verdset ved det norske samfunnet, og dialekter blir brukte i alle delar av samfunnet. Det skil den norske språkstoda frå kva vi kan sjå i andre land.
+
+
+
+Samstundes er det somme dialekter som ikkje nyt same statusen som andre. Ofte legg folk frå seg særmerke ved dialekta si for å få eit talemål dei oppfattar som meir «nøytralt». Om desse særmerka forsvinn, får vi eit meir einsretta og mindre mangfaldig språk. Ved å halde på særmerka du har sjølv, kan det bli enklare for andre å halde på sine. Språkleg medvit må bety at alle måtar å snakke på har like stor verdi.
+
+
+
+Å fremma dialektbruk kan vel å merke ikkje sameinast med å moralisere over knot eller andre einskilde talemålsvariasjonar – alt frå den breiaste til den mest avslipne dialekta er umåteleg mykje verd. Når nokon ikkje snakkar den breiaste dialekta frå heimplassen sin, kan det vera mange grunnar til det. Somme blir påverka av omgjevnadene når dei flyttar til ein annan plass, utan at dei kan hjelpe for det. Andre kan ha andre grunnar til å legge om talemålet, utan at måten dei snakkar på dimed blir noko mindre verd. Det personlege talemålet er eit spørsmål om identitet, og er såleis ukrenkjeleg.
+
+
+
+Arbeidet for å fremma dialektene må difor alltid koke ned til at ingen skal skjemmast over korleis dei snakkar. Skal folk kunna velja fritt, må skilnaden i status og prestisje mellom dialektene jamnast ut. Dette kan vi gjera gjennom å trekke fram gode føredøme, særleg for dei dialektene som slit med fråfall, samstundes som vi må vera konsekvente på å slå ned på språkleg hets, same kva retning han råkar.
+
+
+
+Somme vel, av ulike grunnar, å tala normert nynorsk. I visse yrke er det jamvel noko som blir pålagt, til dømes i etermedia og teaterbransjen. Vi meiner ikkje at normert tale bør erstatte dialektene, men ser at det særleg i kulturtilbod for barn og unge kan vera tenleg for språklæringa deira å høyre også talt nynorsk. Nynorsk normaltale er såleis eit viktig pedagogisk supplement til dialektmangfaldet elles i etermedia. Vi skal også respektere dei som vel å tala normert privat, på lik line med andre talemålsvariasjonar.
+
+
+
+Multietnolekter – populært kalla kebabnorsk – er ein verdifull del av det norske dialektmangfaldet. Multietnolektene har heilt urettmessig måtta tola mykje mistenkeleggjering og nedsettande omtale. Det vil vi ta tydeleg avstand frå.
+
+
+
+Dei fleste har lite formell kunnskap om dialekta si. Ordskifte om dialekt blir difor ofte prega av synsing. Noko av grunnen til dette kan vera at det er for lite, dårleg eller manglande undervisning om ho i skuleløpet. Det står altfor lite om dette i læreplanen, og vi meiner difor at dette skal bli ein større og meir sentral del av norskfaget. Det burde òg vera meir tilgjengelege dialektbøker med mellom anna grammatikk, uttale, målmerke og so bortetter som mellom anna kan brukast i denne undervisninga. Dialektordlister bør innehalde uttaler av meir grunnleggande ord framfor mindre viktige «morosamme» lokalord. Meir og betre undervisning i munnleg språkhistorie, altso meir enn berre Knudsen og Aasen, kan òg gje betre haldningar både til dialekter og nynorsk.
+
+
+
+Sjølv om dialektforståinga og -aksepten er mykje i større i Noreg enn i andre land, er det av ulike grunnar mange som ikkje forstår alle dialektene våre. Desse kan vera til dømes lite eksponering eller språkvanskar, eller so er ein kanskje ny i landet. Difor meiner Norsk Målungdom at det skal bli utvikla ein app med eit oversyn over dialektene våre som inneheld vanlege dialekttrekk og målmerke, og ei ordliste med vanlege ord med dialektuttaler.
+
+
+
+## Nynorsk – strukturen i mangfaldet
+Opphavet til det nynorske skriftspråket ligg i mangfaldet av norske dialekter. Då Ivar Aasen reiste rundt og samla inn dialektprøver, var dialektene sette på som «forkvakla dansk». Med nynorsken viste Aasen at dialektene er variasjonar av det same norske talespråket, med sams historiske røter i norrønt. Alle dialektene er knytte til ein lokal kultur, og er samstundes eit tilskot til nynorsken som nasjonalt skriftspråk.
+
+
+
+Det nynorske skriftspråket er tufta på tanken om at alle dialekter er like mykje verde. Medan dei i andre land ofte har bygd skriftspråket på talemålet til hovudstadseliten, er det nynorske skriftspråket bygd på ein demokratisk grunntanke: at eit norsk skriftspråk må vera grunna i mangfaldet av norske dialekter, slik at språkbrukarane blir forståtte i både tale og skrift.
+
+
+
+Ivar Aasen reiste det nynorske skriftspråket som ein skriftleg fellesnemnar for dialektene i Noreg. Poenget var ikkje at kvar og ein av oss skulle skrive lydrett slik ein snakkar, men å feste eit lettlært og følgjerett system av det rike dialektmangfaldet til skrift. Dette gjorde Ivar Aasen ved å bygge på dei samlande draga som fanst – og finst – i dialektene. Slik kunne vi reise eit skriftspråk som ikkje var identisk med kvar einaste talemålsvariasjon i landet, men eit minneleg kompromiss mellom dei. 
+
+
+
+Difor er heller ikkje talemålet ditt nokon kvalifikasjon for å skrive nynorsk. For enkelte er valet av skriftspråk eit spørsmål om nærleik til eige talemål, men det kan også vera eit spørsmål om nærleik til alle dialektene, eller eit reint verdispørsmål. Uansett er alle like velkomne, viktige og verdige som nynorskbrukarar, same korleis dei snakkar.
+
+
+
+På same måte som vi respekterer at folk gjer ulike val i talen, må vi også respektere ulike val i skrift. Ein viss einskap i rettskrivingsstrukturen gjer henne lettare å lære, men vi lyt alle vera varsame med å rakke ned på andre former enn dei vi kvar for oss føretrekker. Dette gjeld ikkje minst den nedlatande omtalen klassisk nynorsk stundom møter. Ei rørsle som vanvyrdar sitt eige opphav, vil slite med å selja inn bodskapen sin til andre.
+
+
+
+Eit anna emne som bruker å vekke kjensler, er folk som i visse samanhengar skriv på dialekt. Dette er eit fenomen som i hovudsak ovrar seg gjennom digitale medium, der den momentane tovegskommunikasjonen liknar svært mykje på munnleg kommunikasjon. Det er ingen grunn til å tru at det vil trenge bort skriftspråka frå deira arenaer – det er snarare å rekne som eit tilskot av skriftleg eksperimentering og leik med språk. Difor er det heller ingenting å frykte, men snarare noko vi kan gle oss over.
+
+
+
+Nynorsk er ein sjølvsagd del av Noreg. I internasjonal samanheng står nynorsken støtt samanlikna med andre mindretalsspråk. Nynorskbrukarar er brukarar av eit levande språk, som blir nytta på stadig nye område i samfunnet. Som eit av dei to offisielle norske skriftspråka har nynorsken ein trygg plass i det fleirspråklege Noreg.
+
+
+
+## Med nynorsk for dialektene
+Respekt for dialekt betyr at alle skal kunna bruke det språket dei kjenner seg heime i. Sjølv om vi snakkar annleis enn til dømes tidlegare generasjonar, snakkar vi ikkje feil. Eit språk er alltid i utvikling – det er både bra og naudsynt. Språk må utvikle seg for å vera relevant og ta opp i seg utviklinga på andre område i samfunnet. Målet må vera at alle språkbrukarar blir medvitne språkbrukarar som nyttar eit variert, rikt og tenleg språk. 
+
+
+
+Gleda over dialektmangfaldet gjer Noreg til eit føredøme for andre land. Denne positive haldninga er til gagn for alle brukarar av det norske språket. Eit språk er ikkje berre eit middel for kommunikasjon, men òg ein reiskap for tanken. Kvart språk og kvar dialekt representerer ein eigen måte å gripe verda på. Det gir språket i alle sine variantar ein verdi i seg sjølv. 
+
+
+
+Fordi nynorsken bygger på dialektene, er han ein reiskap til å halde på det unike dialektmangfaldet i Noreg. Mangfald i skrift gir rom og aksept for mangfald i tale, og omvendt. Slik stør nynorsken og dialektene kvarandre. Difor seier vi: snakk dialekt – skriv nynorsk!
+
+
+
+Kva ord og omgrep vi nyttar om språk og språkbruk, er òg med på å styre haldningane våre til dei språklege fenomena. Ordet «målform» blir ofte nytta om språka nynorsk og bokmål. Ordet ber i seg ei forståing frå samnorsktida – at nynorsk og bokmål er former av det same språket, og difor kan smeltast saman til eit språk. Norsk Målungdom meiner at nynorsk og bokmål er to åtskilde språk som står på sine eigne bein, og meiner at det er ei vanvyrding av dei to språka å nytte omgrepet målform.

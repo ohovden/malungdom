@@ -4,10 +4,7 @@ date:
 slug: nynorsk/den-nynorske-draumeleraren
 image: src/assets/images/ingen
 ---
-Om heftet «Den nynorske draumelæraren»
-
-=======
-
+# Om heftet «Den nynorske draumelæraren»
 I 2016 hadde Pedagogstudentene og Norsk Målungdom kampanjen «Framtidas
 
 superlærar kan nynorsk!». Dette var starten på eit større arbeid, der mykje
@@ -35,9 +32,5 @@ skal verta nynorske draumelærarar, vert spørsmåla: Kva er stoda i dag? Korlei
 kjem me dit?
 
 
-
-Les heile heftet [her](https://issuu.com/motmale/docs/den_nynorske_draumel_raren).
-
-=======
-
+# Les heile heftet [her](https://issuu.com/motmale/docs/den_nynorske_draumel_raren).
 [<img src="heftet.jpg" alt="">](https://issuu.com/motmale/docs/den_nynorske_draumel_raren)

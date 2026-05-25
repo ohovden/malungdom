@@ -1,0 +1,105 @@
+---
+title: ""
+date: 
+slug: politikk/program/internasjonalt-program
+image: 
+---
+<small>Vedteke på landsmøtet i Norsk Målungdom i Stavanger 2014. Brigda på landsmøtet i Norsk Målungdom 29. - 31. mars 2019 og 5. - 7. april 2024.</small> 
+
+
+
+
+
+Norsk Målungdom er mot all språkleg diskriminering, og vil motarbeide undertrykkinga ved å dele kunnskap på tvers av språk- og landegrenser. Språket vårt definerer kven me er og tillèt oss å samhandle med andre. Det å kunne nytte sitt eige språk er soleis ein viktig del av grunnlaget for eit demokratisk samfunn.
+
+
+# 1.0 Språk i verda
+
+
+## 1.1 Målstoda
+
+
+Det finst fleire tusen språk i verda. Endringar i samfunnet fører til endringar i språket, nett slik endringar i bruken av språket kan endre samfunnet. Den teknologiske utviklinga set fortgang i desse endringane. Språkutviklinga er ein menneskestyrt prosess. Retninga språkutviklinga tek er ein direkte konsekvens av dei individuelle og kollektive vala me gjer – medvite eller umedvite. Det er vårt ansvar som språkmedvitne menneske å sikre at utviklinga vert til gagns for språkmangfaldet. 
+
+
+
+Stoda for dei einskilde språka er ulik. Der nokre språk vert nytta på fleire område, taper andre terreng. Engelsk breier om seg på fleire viktige samfunnsområde, som akademia, medan andre språk misser funksjonar. Dette kan gjere det vanskeleg å klare seg med berre morsmålet. Ein måte å løyse dette på er å lære fleire språk. Ein annan måte er å styrkje språket ved å ta det i bruk på fleire område. Nokre tiltak ein kan setje inn for å gjere det er å ha fleire lærebøker på ulike språk, ogso i akademia, og ha meir opplæring i språk av folk som kjem frå andre land for å jobbe eller ta utdanning.
+
+
+
+Globaliseringa aukar tempoet i utvekslinga av språk og kultur. Dette gjeld ikkje minst på internett. Skal me tryggje og styrkje språkmangfaldet her heime og elles i verda, må me utnytte dei moglegheitene dette gjev oss. Moderne teknologi gjer det mogleg å dokumentere språk, og informasjon om og på ulike språk er lett tilgjengeleg. Det kan verte eit særleg viktig verktøy for dei språkgruppene som tel for få tilhøyrarar til å kunne finansiere trykking av ordbøker og anna som tidlegare var naudsynt for å spreie og styrkje språket.
+
+
+
+I Noreg har me Språkbanken som nasjonal infrastruktur for språkteknologi ope for offentlegheita. Ved at styresmakter legg til rette slike databasar gjer ein det mogeleg for større verksemder å utvikla inkluderande grensesnitt for alle språkbrukarar, særleg minoritetsspråk. For å sikre at språk blir tatt vare på bør alle land sikte på å ha ein eigen språkbank.
+
+
+
+## 1.2 Fleirspråk
+
+
+Det å kunne fleire språk opnar opp for fleire måtar å sjå verda på, og gjer det difor enklare å skjøne andre kulturar. Alle språk har sin unike måte å tolke røyndomen på, og kan uttrykkje synspunkt som hadde vore vanskelege å kome med frå andre språklege bakgrunnar.
+
+
+
+I tillegg er det eit gode for den enkelte å meistre fleire mål. For kvart mål du lærer deg, vert det neste enklare, og språkforståinga vert betre. Born som veks opp som fleirspråklege har mange kognitive fordelar, noko internasjonal fleirspråkforsking slår fast. Teiknspråka i verda er like fullverdige språk som talespråka, og har på lik linje med talespråka eigen kultur, historie og mangfald. Det er difor viktig å anarkjenne teiknspråka som ein sjølvstendig og umisteleg del av språkarva her i verda, og må difor sikrast lik status som talespråka i alle land.
+
+
+
+Fleire språk syner seg soleis å vere eit gode både for den enkelte og for samfunnet. Difor må me ta vare på fleire språk der dei lever saman, og ynskje nye språk velkomne om dei spreier seg.
+
+
+
+## 1.3 Retten til språk
+
+
+Mange statar har sett på det som eit mål å verte einspråklege. Døma er mange på at språk har vore nytta for å undertrykkje eit folk. Kolonialismen og imperialismen har ogso vore viktige drivkrafter i å undertrykkje språk, der andre språk har blitt undertrykt til fordel for koloniherrane sitt språk. Dette har historisk ført til stor urett mot dei undertrykte språka i desse statane, denne uretten og undertrykkjinga ser me framleis i dag.
+
+
+
+For å tryggje språkmangfaldet i verda, er det viktig å stå i mot denne undertrykkinga. Alle skal ha rett til å lære morsmålet sitt og møte det i skrift og tale. Dette føreset at statlege styresmakter syter for å støtte opp om språka på sine respektive territorium, at privat sektor tek sin del av det språklege samfunnsansvaret, og at tverrnasjonale instansar stiller språkpolitiske krav til medlemslanda sine. Språkorganisasjonar har ei viktig rolle i å tryggja og styrkja språka sine, og me gjer klokt i å dela kunnskap, røynsler og engasjement på tvers av både lande- og språkgrenser.
+
+
+
+Den europeiske minoritetsspråkpakta er i dag den viktigaste avtalen som vernar minoritetsspråk i Europa. Likevel er det eit problem at medlemsland sjølv vel om dei vil ratifisere pakta og kva språk som skal omfattast av den. Dette gjer at minoritetsspråk i land som til dømes Frankrike står utan vern. Europarådet må difor ta ein meir aktiv rolle i avgjersler om kva språk som skal omfattast av pakta.
+
+
+
+Norsk Målungdom meiner det er ein menneskerett å få nytta og møta fyrstespråket sitt. Språkbrukarane må sjølve få definera språkgruppa si, på lingvistiske og sosiale grunnar, og retten til å møte språket sitt må vara gjennom heile grunnutdanninga. Me ynskjer at Noreg skal arbeida for at Europarådet og dei Sameinte nasjonane knesett språklege rettar i internasjonale konvensjonar.
+
+
+
+
+
+## 1.4 Nynorsken i verda
+
+
+Av dei fleire tusen språka som finst i verda, er nynorsk eit av dei største og mest hardbalne. Både nynorsk og bokmål har fleire brukarar enn dei fleste andre språk. Dei to skriftspråka våre oppfyller – saman med om lag hundre andre språk – kriteria for å vere fullt utbygde på nasjonalt nivå. Til samanlikning er det berre seks av dei hundre språka som vert rekna som internasjonale. Alle andre språk i verda vert rekna som mindre utbygde på sentrale samfunnsdomene.
+
+
+
+Med særleg tanke på at nynorsk ikkje eksisterte for så kort tid som 150 år sidan, viser dette at medviten språkpolitikk er avgjerande for å syte opp om språklege rettar i samfunnet. Denne lærdomen bør me ha klårt i minnet når me skal utveksle idear og erfaringar med språkgrupper i andre land.
+
+
+# 2.0 Språk i Norden
+
+
+## 2.1 Syskenspråk
+
+
+I Norden har me fleire språk som er innbyrdes forståelege. Dei fleste som snakkar norsk, svensk og dansk kunne tidlegare forstå kvarandre utan store problem, men dette er no i endring. Eit slikt gjensidig forståingsforhold er av umåteleg verdi og noko me må ta vare på og styrkje. Skulen må gjere sitt, men kva media gjer er òg svært viktig. Ei storstilt utveksling av innhald er av det gode. Det bør ikkje vere noka hindring om programmet er på dansk eller svensk. Det er særleg viktig at born møter syskenspråka i media – det er som ung du lærer språk enklast og har færrast fordomar mot dei andre skandinaviske språka. Me bør difor ikkje undervurdere språkforståinga deira ved å dubbe skandinavisk barne-tv.
+
+
+
+Det er òg eit mål at når me samarbeider politisk i Norden, so går samarbeidet på nordiske språk, snarare enn engelsk. Ved å nytte språka på dette området òg, vil ein styrkje dei skandinaviske språka som morsmål.
+
+
+
+## 2.2 Urfolksspråk og nasjonale minoritetsspråk
+
+
+Samane bur i fleire statar, og dette gjer det naudsynt med nordisk samarbeid for å tryggje dei samiske språka. Sør-samisk er til dømes spreidd ut over både Noreg og Sverige på eit vis som gjer det lite fornuftig å byggje opp uavhengige institusjonar på begge sidene av landegrensa. 
+
+
+
+Dei skandinaviske landa undertrykte samane lenge, og difor har me eit særskilt og større ansvar for å støtte samisk språk og kultur. Dei nordiske landa må difor samarbeide med dei samiske institusjonane for å sikre samisk kultur og levevis i heile Sápmi – både i Noreg, Sverige, Finland og Russland. Det finst samsvarande nasjonale minoritetar i dei nordiske landa. Desse landa må samarbeide og stø opp om minoritetane sine språk og kulturar, slik at minoritetane får definere og styre sin eigen språksituasjon.

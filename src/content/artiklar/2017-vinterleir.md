@@ -9,11 +9,7 @@ Ski og skulering, kos og kakao, hen og nynorsk i NRK – og mykje anna står på
 programmet. [Sjå heile programmet på boten av sida!](#program)
 
 
-
-Kort om leiren
-
-==============
-
+# Kort om leiren
 - Kvam i Nord-Fron, Oppland
 
 - 13.–15. januar
@@ -25,25 +21,14 @@ Kort om leiren
 - Me betaler rimlegaste, fornuftige reiseveg
 
 
-
-Reiseruter
-
-==========
-
+# Reiseruter
 Lurer du på korleis du skal reisa? Me har laga eit reiseoversyn, slik at du
 
 lett kan koma fram til Kvam. Ta kontakt med praktisk ansvarleg Kine Gjertrud
 
-Svori (478 73 705 / kine@nynorsk.no) om du lurer på noko.
+## Svori (478 73 705 / kine@nynorsk.no) om du lurer på noko.
 
-----
-
-
-
-Praktisk
-
-========
-
+# Praktisk
 Du gjer lurt i å ta med sovepose og det du treng av toalettsaker. I tillegg må
 
 du hugse ski og varme klede om du skal ut på tur eller i bakken. Meir
@@ -55,27 +40,16 @@ informasjon får du på e-post når du melder deg på.
 Om du lurer på noko om det eller noko er det berre å [ta kontakt](/kontakt/).
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
+## dei kan kjenne seg tryggare.
 
-----
-
-
-
-Meld deg på
-
-===========
-
+# Meld deg på
 Leien er over. So det gjev ikkje meining å melda deg på lengre. Kom på neste
 
 vinterleir i 2018!
@@ -86,10 +60,7 @@ vinterleir i 2018!
 
 
 
-Fredag
-
-------
-
+## Fredag
 
 
 <dl>
@@ -372,6 +343,4 @@ halda orden i kassaskrinet.
 
 
 
-Med atterhald om endringar
-
-----
+## Med atterhald om endringar

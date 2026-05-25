@@ -67,7 +67,7 @@ export default function FraasegnListe({ fraasegner }) {
                             X
                         </div>
                     </button>
-                    <div style={{'overflowY': 'auto', 'max-height': '90vh'}}>
+                    <div style={{'overflowY': 'auto', 'height': '90%', 'max-height': '90vh'}}>
                         <div style={{'display': 'flex', 'justify-content': 'center'}}>
                             <div style={{'width': '80%', 'margin-top': '3rem', 'margin-bottom': '3rem'}}>
                                 <h1>{title}</h1>

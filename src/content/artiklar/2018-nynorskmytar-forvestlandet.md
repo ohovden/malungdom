@@ -4,8 +4,7 @@ date:
 slug: 2018/nynorskmytar/forvestlandet
 image: 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QCGsOgEM7e0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+# 
 
 
 Det er ein vanleg myte at nynorsk berre er eit vestlandsspråk, men denne myten er det på høg tid å avlive. Det er mange grunnar til at folk framleis trur at nynorsk berre høyrer heime på Vestlandet. Føremålet med nynorsken er at det skal vera eit demokratisk språk som er bygd på alle dialektene i landet. Nynorsk er eit språk som blir brukt av fleire hundre tusen menneske i heile Noreg. Her kjem tre grunnar til kvifor nynorsk er eit språk for alle i heile landet, og ikkje berre for Vestlandet.

@@ -8,4 +8,4 @@ image:
 
 
 
-Det er to måtar å verve på: Nettsida og SMS. Medlemspengane må vere betalt for at vervinga skal bli gjeldande.
+## Det er to måtar å verve på: Nettsida og SMS. Medlemspengane må vere betalt for at vervinga skal bli gjeldande.

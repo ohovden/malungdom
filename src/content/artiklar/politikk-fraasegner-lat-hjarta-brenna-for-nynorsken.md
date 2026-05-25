@@ -1,0 +1,29 @@
+---
+title: "Lat hjarta Brenna for nynorsken"
+date: 
+slug: politikk/fraasegner/lat-hjarta-brenna-for-nynorsken
+image: 
+---
+Landsstyret i Norsk Målungdom vil helsa Tonje Brenna velkomen som ny kunnskapsminister, og inviterer ho til felles innsats for å styrkja nynorsken i skulen og for å sikra at nynorskelevane har læremiddel på eige språk til liks med bokmålselevane. 
+
+
+
+Det har sjeldan vore viktigare med ein kunnskapsminister som ser kor viktig språk er. I ei tid der skulen går gjennom store endringar, treng nynorskelevane ein alliert som ser til at nynorsken og nynorskelevane ikkje vert gløymde.
+
+
+
+Det er gledeleg at regjeringa vil lovfesta retten til nynorskelevar i språkdelte område til å halda fram i eigne nynorskklassar på ungdomstrinnet. Me er også glade for at de skriv at ein skal sikra at alle elevar får læremiddel på eige skriftspråk. 
+
+
+
+Nynorskelevar treng læremiddel på nynorsk for å verta trygge i eige språk. For mange nynorskskrivande elevar er skulen den einaste arenaen der dei les store mengder nynorsk. Retten til læremiddel på eige språk sikrar at elevane møter språket sitt i skulen, og er viktig for at dei skal kunne verta gode språkbrukarar som er trygge i språket sitt. Det er behov for at omgrepet «læremiddel» vert utvida til å gjelda skriveprogram og andre tenester som er viktige verktøy i skulen.
+
+
+
+Landsstyret i Norsk Målungdom vil oppmoda kunnskapsministeren til å syta for:
+
+ - At det vert ført tilsyn på skular for å sikra at språkrettane til elevane vert varetekne på ein god måte
+
+ - Ei godkjenningsordning for læremiddel som sikrar at bokmåls- og nynorskutgåver vil liggja føre til same tid og pris, og at læremidla held god språkleg kvalitet
+
+ - At språkdelt ungdomsskule vert lovfesta.

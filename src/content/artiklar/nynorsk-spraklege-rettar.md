@@ -4,10 +4,7 @@ date:
 slug: nynorsk/spraklege-rettar
 image: src/assets/images/ingen
 ---
-Elevrettar
-
-=======
-
+# Elevrettar
 
 
 Som nynorskelev har du ein del rettar:
@@ -33,3 +30,7 @@ regelen.» <a href="http://www.nynorsk.no/nmu/ymist/opplovi.shtml"></a><a
 href="http://www.lovdata.no/all/tl-19980717-061-010.html#9-4">- Opplæringslova,
 
 §9-4</a>
+
+
+
+## # ##

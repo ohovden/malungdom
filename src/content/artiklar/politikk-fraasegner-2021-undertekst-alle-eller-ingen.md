@@ -1,0 +1,19 @@
+---
+title: "Undertekst alle eller ingen"
+date: 
+slug: politikk/fraasegner/2021-undertekst-alle-eller-ingen
+image: 
+---
+Underteksting av program er eit gode, men ikkje når det byggjer på utdaterte haldingar til dialekt. Dei siste åra har det ved fleire høve kome fram saker, spesielt i reality-program, der enkelte deltakarar blir underteksta. Felles for desse tilfella  er at argumentet for undertekstinga er at deltakarane har ei dialekt frå utkant-Noreg, eller berre ei dialekt som ikkje er bokmålsnær. Dette byggjer på eit utdatert syn som går ut på at det berre er dei bokmålsnære dialektene som er forståelege. Skal ein undertekste, må ein undertekste alle. 
+
+
+
+Kvifor skal det vere slik at nokre folk skal bli stempla som vanskelege å forstå, mens andre ikkje er det? Kven har bestemt at det er slik at ein frå Hardanger skal undertekstast, men ikkje ein frå Sarpsborg?
+
+
+
+Det ville ikkje berre vore rettvist for dei som brukar ei dialekt som er nærare nynorsk, men det ville óg ha vore ei stor vinning for dei som er høyrslehemja og døve dersom alle vert underteksta, og ikkje berre ein person.
+
+
+
+Med unntak av profesjonelle innan diksjon, slik som til dømes nyhendeopplesarar, krev landsstyret i Norsk Målungdom at anten alle eller ingen skal undertekstast.

@@ -60,10 +60,7 @@ Sentralstyremedlemer
 
 
 
-Varaar
-
--
-
+## Varaar
 
 
 Viss du vil kontakte valnemnda, kan du sende ein epost til: [valnemnda@malungdom.no](mailto:valnemnda@malungdom.no).

@@ -4,10 +4,7 @@ date:
 slug: organisasjon/salsvilkaar
 image: src/assets/images/none
 ---
-Standard salsvilkår
-
-=========
-
+# Standard salsvilkår
 
 
 ###Innleiing
@@ -252,26 +249,15 @@ Klager skal rettast til seljaren innan rimeleg tid, sjå punkt 9 og 10. Partane 
 
 
 
-Europakommisjonen si klageportal kan òg nyttast dersom du ønskjer å leggje inn ein klage. Det er særleg relevant, dersom du er forbrukar busett i eit anna EU-land. Klagen blir lagt inn her: http://ec.europa.eu/odr.
+## Europakommisjonen si klageportal kan òg nyttast dersom du ønskjer å leggje inn ein klage. Det er særleg relevant, dersom du er forbrukar busett i eit anna EU-land. Klagen blir lagt inn her: http://ec.europa.eu/odr.
 
-----
-
-
-
-Kontakt oss
-
-=========
-
+# Kontakt oss
 
 
 Du kan krevja innsyn i kva personopplysningar vi har lagra om deg. Du kan krevja å flytta dei, du kan krevja at vi slettar dei, og du kan krevja at vi rettar på opplysningane viss dei er feil.
 
 Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi skal sletta personopplysningane om deg frå registera våre. 
-
-
-
-<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
-
+# 
   data-type="kontakt" data-success="Innsendt!">
 
   <label>
@@ -296,6 +282,4 @@ Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi ska
 
   <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
 
-</form>
-
-----
+## </form>

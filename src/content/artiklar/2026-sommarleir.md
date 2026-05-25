@@ -4,10 +4,7 @@ date:
 slug: 2026/sommarleir
 image: src/assets/images/vl20ski.jpg
 ---
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Nordvestlandet folkehøgskole <br/>
 
 **Når**: 8. til 12. juli 2026 <br/>
@@ -20,10 +17,7 @@ Praktisk
 
 **Påmeldingsfrist**: 1. juni 2026
 
-
-
-----------
-
+## 
 
 
 **Velkomen til sommarleir!** <br/>
@@ -46,4 +40,4 @@ Du treng ikkje vera medlem for å delta på sommarleir. Du treng berre vera inte
 
 - Svenska Finlands Folkting om stoda til finlandssvensk
 
-- Kurs i lokaldans, nordmørsspringar
+## # ## # ## ## - Kurs i lokaldans, nordmørsspringar

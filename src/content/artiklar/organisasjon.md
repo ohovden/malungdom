@@ -46,10 +46,7 @@ som samlande organisasjon i 1961, under namnet Noregs Student- og Elevmållag
 
 
 
-Informasjon
-
------------
-
+## Informasjon
 
 
 <dl>

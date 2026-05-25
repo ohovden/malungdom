@@ -4,10 +4,7 @@ date:
 slug: 2024/landsmote
 image: 
 ---
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Vinstra vidaregåande skule
 
 
@@ -30,20 +27,13 @@ Praktisk
 
 
 
-**Overnatting og mat**: Det er overnatting i sovesal. Hugs liggjeunderlag og sovepose el.l. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar. 
+## **Overnatting og mat**: Det er overnatting i sovesal. Hugs liggjeunderlag og sovepose el.l. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar.
 
-----
-
-
-
-Saker og køyreplan
-
-=======
-
+# Saker og køyreplan
 
 
 **Innstillingar frå møtenemndene:**
 
 <ul>
 
-<li><a href="https://drive.google.com/file/d/1d09v8cJg6Pxw0MryZKFXvzC2K4iL76aO/view?usp=sharing">Innstillingar frå møtenemnda for LM 24-02 Program for språk i ein digital kvardag</a><br/>
+## # ## # ## <li><a href="https://drive.google.com/file/d/1d09v8cJg6Pxw0MryZKFXvzC2K4iL76aO/view?usp=sharing">Innstillingar frå møtenemnda for LM 24-02 Program for språk i ein digital kvardag</a><br/>

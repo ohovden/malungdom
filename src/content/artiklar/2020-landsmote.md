@@ -4,10 +4,7 @@ date:
 slug: 2020/landsmote
 image: 
 ---
-Kom på landsmøtet! 
-
-=================
-
+# Kom på landsmøtet!
 Frå 27. til 29. mars skipar vi til landsmøte for å avgjere kva NMU skal meine og arbeide med i året som kjem. Her kan du lese [landsmøtekunngjeringa](https://drive.google.com/a/malungdom.no/file/d/1LG2HuZCXn8QPJhtzbVM1jsmkmLicIVN_/view?usp=sharing).
 
 
@@ -15,27 +12,16 @@ Frå 27. til 29. mars skipar vi til landsmøte for å avgjere kva NMU skal meine
 Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar til landsmøtet vert valde på lokallagsårsmøta. Har du ikkje noko lokallag? Då er du hjarteleg velkomen som observatør, eller du kan høyre om eit anna lokallag har ledig utsendingsplass.
 
 
-
-Påmelding
-
-=========
-
+# Påmelding
 Lokallaga vel normalt utsendingar på årsmøtet (høgsesongen for årsmøte er januar-mars). Er du vald som utsending kan du melde deg på [her](https://docs.google.com/forms/d/e/1FAIpQLSc9sN1N1IrsmlSL_TM2HfPhkFSfyp79pHR7B0e76K4H8uNm2A/viewform?usp=sf_link).
 
 
 
 Dersom du ikkje har noko lokallag, kan du reise som observatør. Er du usikker på om det er lokallag der du bur, ta kontakt med skrivarstova.
 
+## 
 
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Ås ungdomsskole
 
 
@@ -50,16 +36,9 @@ Praktisk
 
 **Reiseruter:** Etter at du har kome deg til Oslo tar du tog frå Oslo S til Ås stasjon. Skulen ligg 10 minutt unna togstasjonen. Ta kontakt viss du treng hjelp til å tinge billettar.
 
+## 
 
-
-----
-
-
-
-Fristar
-
-=======
-
+# Fristar
 Siste frist for på- og avmelding har gått ut.
 
 
@@ -70,16 +49,9 @@ Dersom du eller lokallaget ditt ynskjer å fremje ei fråsegn til landsmøtet, t
 
 Fristen for å levere endringsframlegg til lovene og tufta, og til å fremme saker har gått ut.
 
+## 
 
-
-----
-
-
-
-Saker og køyreplan
-
-=======
-
+# Saker og køyreplan
 Du finn dei fleste sakspapira under. Dei som manglar kjem når dei er klar. Nokre av sakspapira kan bli endra før landsmøtet. Der det er aktuelt er det presisert i sakspapiret. 
 
 
@@ -174,16 +146,9 @@ Dei opphavlege dokumenta finn du her:
 
 [Program for språk i skulen](https://malungdom.no/politikk/program/sprak-i-skulen/)
 
+## 
 
-
-----
-
-
-
-Førebuing
-
-======
-
+# Førebuing
 Viss ein er på sitt fyrste landsmøte kan vere mykje å setje seg inn på ein gong. Her er nokre tips til kva du kan lese viss du ønskjer å vere godt budd. 
 
 
@@ -198,6 +163,4 @@ På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar 
 
 
 
-Anten du har vore på mange landsmøte eller skal på ditt fyrste, kan vere ein veldig god ide å skipe til eit landsmøteførebuande møte. Det er alltid bra å diskutere sakene som skal opp på landsmøtet på førehand, anten med andre landsmøteutsendingar, eller med andre i lokallaget ditt. [Her](https://drive.google.com/a/malungdom.no/file/d/1con7vkrEpMopm7xAewA0bzYkvnZZQH3z/view?usp=sharing) kan du lese tips til korleis du kan skipe til eit landsmøteførebuande møte.
-
-----
+## Anten du har vore på mange landsmøte eller skal på ditt fyrste, kan vere ein veldig god ide å skipe til eit landsmøteførebuande møte. Det er alltid bra å diskutere sakene som skal opp på landsmøtet på førehand, anten med andre landsmøteutsendingar, eller med andre i lokallaget ditt. [Her](https://drive.google.com/a/malungdom.no/file/d/1con7vkrEpMopm7xAewA0bzYkvnZZQH3z/view?usp=sharing) kan du lese tips til korleis du kan skipe til eit landsmøteførebuande møte.

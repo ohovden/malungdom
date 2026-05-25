@@ -4,18 +4,9 @@ date:
 slug: 2021/jubileumssamling
 image: src/assets/images/HK21banner.jpg
 ---
-Vi feirar 60 år!
+# # Vi feirar 60 år!
 
-=======
-
-<img src="https://drive.google.com/uc?export=view&id=1a0sxJ0bwQcHYlSXFAUBPksPuqwo1BroY" width="100%" style="horizontal-align:middle" alt="Jubileumssamling">
-
-
-
-Om tilskipinga
-
-==============
-
+# Om tilskipinga
 ⭐️Norsk Målungdom blir 60 år og vi feirar med å invitere alle medlemmar til Jubileumssamling. ⭐️
 
 
@@ -34,16 +25,9 @@ Program og meir info er rett rundt hjørnet!
 
 Vi betalar for reise, overnatting og mat. Det er ikkje lenger mogleg å melde seg på samlinga.
 
-Gler oss til å sjå deg på det som berre må bli det store høgdepunktet i 2021! 🥳🙌
+## Gler oss til å sjå deg på det som berre må bli det store høgdepunktet i 2021! 🥳🙌
 
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 
 
 **Kor**: [Scandic hotell Lillestrøm](https://www.scandichotels.no/hotell/norge/oslo/scandic-lillestrom)
@@ -57,11 +41,7 @@ Praktisk
 **Reisedekking**: Vi betalar reisa til alle som kjem på samlinga.
 
 
-
-Program
-
-=======
-
+# Program
 ## Fredag
 
 18.30: Velkomen<br>
@@ -103,11 +83,7 @@ Utover kvelden: kviss og sosial<br>
 13.00: Lunsj<br>
 
 
-
-Reiseruter
-
-==========
-
+# Reiseruter
 Du kan ordne reise sjølv, eller du kan spørje oss om hjelp. Send ein e-post til [norsk@malungdom.no](mailto:norsk@malungdom.no).
 
 
@@ -117,11 +93,5 @@ Meld frå om kva tid du kjem!
 
 
 
-
-Informasjon til føresette
-
-=========================
-
-Det hender at foreldre og føresette er litt redde for å sende ungdomane sine av garde aleine. Difor har vi laga eit [informasjonsskriv til føresette](/organisasjon/tilskipingar/informasjon-til-foresette/), slik at dei kan kjenne seg tryggare.
-
-----
+# Informasjon til føresette
+## Det hender at foreldre og føresette er litt redde for å sende ungdomane sine av garde aleine. Difor har vi laga eit [informasjonsskriv til føresette](/organisasjon/tilskipingar/informasjon-til-foresette/), slik at dei kan kjenne seg tryggare.

@@ -31,7 +31,10 @@ import Banner from '../components/banner/banner.astro'
 		<title>(dev) Norsk Målungdom</title>
 	</head>
 	<body>
-		<Banner pagePath={currentPage} />
+		<div class='fixed w-full z-200'>
+			<Banner pagePath={currentPage} />
+		</div>
+		<div class='bannerH'/>
 		<slot />
 	</body>
 </html>
@@ -42,6 +45,10 @@ import Banner from '../components/banner/banner.astro'
 		margin: 0;
 		width: 100%;
 		height: 100%;
+	
 	}
-
+	
+	.bannerH {
+		height: 6rem;
+	}
 </style>

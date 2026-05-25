@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Button from '../components/shared/button.astro';
 import Card from '../components/shared/card.astro';
+import '../styles/globals.css';
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
@@ -13,16 +14,18 @@ import Card from '../components/shared/card.astro';
 			<main>
 				<div class='grid grid-cols-1 md:grid-cols-2 slide-up delay-2'>
 					<div class='mainText order-2 md:order-1'>
-						<h1 class='headline'>Ver med og kjemp for språket vårt!</h1>
+						<h1>Ver med og kjemp for språket vårt!</h1>
 						<p>
 						Norsk Målungdom er eit landsdekkjande mållag med over 1200 elevar og studentar som kjempar for nynorsk, dialekt og språkmangfald i Noreg. 
 						</p>
 						<br/><br/>
-						<div class="grid grid-cols-1 md:grid-cols-3 items-center align-center justify-center">
-							<Button text="Kvifor nynorsk?" colorVar='main-dgray' width='15rem'/>
-							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/politikk' width='15rem'/>
-							<Button text="Lokallaga våre" colorVar='main-dgray' width='15rem' />
+
+						<div class="grid grid-cols-1 md:grid-cols-3 items-center justify-items-center gap-5">
+							<Button text="Kvifor nynorsk?" colorVar='main-dgray' path='/nynorsk/kvifor-skriva-nynorsk' classes='flex-1'/>
+							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/politikk' classes='flex-1'/>
+							<Button text="Lokallaga våre" colorVar='main-dgray' path='/omnmu' classes='flex-1'/>
 						</div>
+
 					</div>
 					<img src='/smib.webp' class='order-1 md:order-2' alt=''>
 				</div>
@@ -31,7 +34,7 @@ import Card from '../components/shared/card.astro';
 						<h1 class='flex pt-7'>Kva skjer framover?</h1>
 						<p class='font-["League Spartan Variable"]'>
 							5.-7. juni: Landsstyremøte
-							<br/><br/>8.-12. juli: <a href='https://malungdom.no/2026/sommarleir/' class='text-link'>Sommarleir 2026 ></a>
+							<br/><br/>8.-12. juli: <a href='2026/sommarleir/' class='text-link'>Sommarleir 2026 ></a>
 							
 						</p>
 						<h1 class='flex pt-7'>Betala medlems&shy;pengar?</h1>
@@ -42,8 +45,8 @@ import Card from '../components/shared/card.astro';
 						</p>
 					</Card>
 					<div class='flex flex-col justify-center'>
-						<div class='border-l-2 ml-20' style="border-color: var(--main-blue)">
-						<p class="flex items-left font-['Cormorant-Garamond'] italic font-light text-4xl px-24 leading-snug tracking-wide" >
+						<div class='md:border-l-2 md:ml-20' style="border-color: var(--main-blue)">
+						<p class="flex items-left font-['Cormorant-Garamond'] italic font-light text-4xl px-15 md:px-24 leading-snug tracking-wide" >
 							«Det språklege mangfaldet i verda er umisteleg, av di kvart språk har sin unike måte å tolka røynda på. Norske dialektar, skriftspråk og mindretalsspråk er Noregs bidrag til det globale språkmangfaldet. Det er vår oppgåve å tryggja og byggja vidare på dette bidraget.»
 						</p>
 						<h1 class="flex items-left text-5xl py-12 pl-24">
@@ -53,12 +56,12 @@ import Card from '../components/shared/card.astro';
 					</div>
 				</div>
 				<div class='grid grid-cols-1 md:grid-cols-3 py-12 slide-up delay-4'>
-				<div />
+				<div class='hidden md:flex' />
 				<a href='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/m%C3%A5lg%C3%A5ve' class='hover:scale-105 transition-transform duration-150 block'>
-					<div class='textCardGreen mx-25'>
+					<Card>
 						<h1 class='flex items-center justify-center text-5xl py-8'>Gi ei målgåve i dag!</h1>
 						<img src='/maalgaave.jpg' class='' />
-					</div>
+					</Card>
 				</a>
 				</div>
 				<div/>
@@ -72,35 +75,6 @@ import Card from '../components/shared/card.astro';
 	.picandtext {
 		margin-left: 0px;
 		margin-right: 0px;
-	}
-	.mainText {
-		text-align: justify;
-		background-color: #f3f9fa;
-		padding-left: 5rem;
-		padding-right: 5rem;
-		align-content: center;
-	}
-	.headline {
-		font-family: 'Gloock';
-		text-align: center;
-		padding-bottom: 2rem;
-		font-size: 5rem;
-		width: 100%;
-	}
-	.mainText p {
-		font-family: 'Cormorant Garamond', serif;
-		font-weight: 30;
-		font-style: italic;
-		font-size: 1.9rem;
-	}
-	@media(max-width: 768px) {
-		.headline {
-			font-size: 3rem;
-		}
-		.mainText {
-			padding-left: 2rem;
-			padding-right: 2rem;
-		}
 	}
 
 </style>

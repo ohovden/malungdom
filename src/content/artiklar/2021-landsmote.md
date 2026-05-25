@@ -4,20 +4,13 @@ date:
 slug: 2021/landsmote
 image: 
 ---
-Kom på landsmøtet! 
-
-=================
-
+# Kom på landsmøtet!
 Landsmøtet avgjer kva NMU skal meine og arbeide med i året som kjem. Her kan du lese [landsmøtekunngjeringa](https://drive.google.com/file/d/1Npo2Mcq29NnDCDAZs21rzcQzcjjTXFab/view?usp=sharing).
 
 
 
 
-
-Påmelding
-
-=========
-
+# Påmelding
 Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar til landsmøtet vert valde på lokallagsårsmøta. 
 
 
@@ -32,16 +25,9 @@ Har du ikkje noko lokallag? Da er du hjarteleg velkomen som observatør, eller d
 
 Er du usikker på om det er lokallag der du bur, eller lurer du på noko anna? Sjekk [lokallagsoversynet](/lokallag/lokallag) eller [ta kontakt](/kontakt) med skrivarstova!
 
+## 
 
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Digitalt, eller på ein samlingsstad rundt om i landet. Utsendingane får informasjon om dette på e-post.
 
 
@@ -55,3 +41,5 @@ Praktisk
 
 
 **Teknisk informasjon:** Landsmøtet vil føregå gjennom videotenesta Zoom. Vi vil røyste og teikne oss til ordet ved hjelp av møteløysinga GoPlenum. Vi inviterer til eit formøte fredag 23. april kl. 18 for å gå gjennom og bli kjend med løysingane. Alle påmelde har fått nærmare informasjon på e-post 19. april, med emnet <em>Velkommen til landsmøte 24.–25. april!</em>.
+
+## # ## # ## # # ## # ##

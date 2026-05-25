@@ -4,10 +4,7 @@ date:
 slug: 2019/landsmote
 image: src/assets/images/salenLM19.jpg
 ---
-Kom på landsmøtet! 
-
-=================
-
+# Kom på landsmøtet!
 Frå 29. til 31. mars skipar vi til landsmøte for å avgjere kva NMU skal meine og arbeide med i året som kjem.
 
 
@@ -15,11 +12,7 @@ Frå 29. til 31. mars skipar vi til landsmøte for å avgjere kva NMU skal meine
 Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar til landsmøtet vert valde på lokallagsårsmøta. Har du ikkje noko lokallag? Då er du hjarteleg velkomen som observatør, eller du kan høyre om eit anna lokallag har ledig utsendingsplass.
 
 
-
-Påmelding
-
-=========
-
+# Påmelding
 Lokallaga vel normalt utsendingar på årsmøtet (høgsesongen for årsmøte er januar-mars). 
 
 
@@ -34,16 +27,9 @@ usikker på om det er lokallag der du bur, ta kontakt med skrivarstova.
 
 Her kan du lese [landsmøtekunngjeringa](https://drive.google.com/a/malungdom.no/file/d/1vUni6eQT5h_51coObapc03RF9L9kjLRB/view?usp=sharing).
 
+## 
 
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: På Ellingsrud skole i Oslo
 
 
@@ -62,16 +48,9 @@ Praktisk
 
 **Skulen**: Skulen ligg 3 minutt unna T-banestasjonen. Merk at vi skal til Ellingsrud skole, **ikkje** Ellingsrudåsen skole. 
 
+## 
 
-
-----
-
-
-
-Fristar
-
-=======
-
+# Fristar
 Siste frist for på- og avmelding var **22. mars**.
 
 
@@ -82,16 +61,9 @@ Dersom du eller lokallaget ditt ynskjer å fremje ei fråsegn til landsmøtet, t
 
 Fristen for å levere endringsframlegg til lovene og tufta, og til å fremme saker var **15. februar 2019 klokka 23.59**. Denne fristen har altså gått ut.  
 
+## 
 
-
-----
-
-
-
-Saker og køyreplan
-
-=======
-
+# Saker og køyreplan
 
 
 I [dette heftet](https://drive.google.com/a/malungdom.no/file/d/1flCGI1KZXwAjVw9ECMvux312hI-KPUpn/view?usp=sharing) kan du lese alle sakspapira. 
@@ -121,11 +93,7 @@ Saklista er slik:
 
 
 – [LM 19-3 Rekneskapen for 2018](https://drive.google.com/a/malungdom.no/file/d/1HEnxuCmcZ08uMiW1ZRJvhcUgxLjnS9Cc/view?usp=sharing)
-
-
-
-*Her kan du lese [rekneskapen](https://drive.google.com/a/malungdom.no/file/d/1y1zGyT-qh2Lcoi12BWQmlGyg5aNyk_3f/view?usp=sharing), [uttale frå leiinga](https://drive.google.com/a/malungdom.no/file/d/1WY2tGhaSVNq9jNig_EbXtEn5vofiLIHx/view?usp=sharing) og [revisjonsberetning](https://drive.google.com/a/malungdom.no/file/d/1LYQd4_YTvYpwRybEMc3_6dmOZMftDKnd/view?usp=sharing)*
-
+# 
 
 
 – [LM 19-4 Lovbrigde og endringar i valnemndsføresegnene](https://drive.google.com/a/malungdom.no/file/d/1puiQA_j8svQjfjWkZvYTL80_4fCkcX-o/view?usp=sharing) 
@@ -143,3 +111,5 @@ Saklista er slik:
 – [LM 19-7 Arbeidsprogram for 2019–2020](https://drive.google.com/a/malungdom.no/file/d/1I0LZBLzXVXGicrVpQrGcJBKF04ez1n1n/view?usp=sharing)
 
 *Framlegg til arbeidsprogram kan du lese [her](https://drive.google.com/a/malungdom.no/file/d/1r6O_oNxM41SkyPabt4sTh9hlSYsZDDLn/view?usp=sharing)*
+
+## # ##

@@ -8,7 +8,7 @@
   align-items: center;
   max-width: 1000px;
   margin: auto;
-  height: fit-content;
+  height: 80vh;
   margin-top: 2rem;
   margin-bottom: 2rem;
   border-radius: 15px;
@@ -27,6 +27,10 @@
 
 @media(max-width: 768px) {
   .fraasegnCard {
-    top: 55dvh
+    text-align: left;
+    top: 65dvh
+  }
+  .fraasegnCard p {
+    font-size: 1.2rem;
   }
 }

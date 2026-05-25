@@ -16,10 +16,7 @@ image: src/assets/images/none
 
 - Studentmållaget i Oslo
 
-- Ås studentmållag
-
-----
-
+## - Ås studentmållag
 
 
 **Mari Kaslegard**
@@ -30,10 +27,7 @@ image: src/assets/images/none
 
 - Hallingdal Målungdom
 
-- Grappa Målungdom
-
-----
-
+## - Grappa Målungdom
 
 
 **Synne Solberg**
@@ -44,10 +38,7 @@ image: src/assets/images/none
 
 - Studentmållaget i Volda
 
-- Firda Målungdom
-
-----
-
+## - Firda Målungdom
 
 
 **Rasmus Tennø Loe**
@@ -62,10 +53,7 @@ image: src/assets/images/none
 
 - Studentmållaget i Bergen
 
-- Studentmållaget i Sogndal
-
-----
-
+## - Studentmållaget i Sogndal
 
 
 **Mathilde Løkkevik**
@@ -78,10 +66,7 @@ image: src/assets/images/none
 
 - Hallingdal Målungdom
 
-- Vika Målungdom
-
-----
-
+## - Vika Målungdom
 
 
 **Synne Solberg**
@@ -94,6 +79,4 @@ image: src/assets/images/none
 
 - Studentmållaget i Tromsø
 
-- Studentmållaget i Volda
-
-----
+## - Studentmållaget i Volda

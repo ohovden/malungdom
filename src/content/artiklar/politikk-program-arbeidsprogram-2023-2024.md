@@ -1,0 +1,193 @@
+---
+title: ""
+date: 
+slug: politikk/program/arbeidsprogram/2023-2024
+image: 
+---
+<small>Vedteke av landsmøtet i Sogndal 21. - 23. april 2023.</small>
+
+
+
+## INNLEIING
+Norsk Målungdom (NMU) skal nytte dette programmet som grunnlag i arbeidet for nynorsk, dialekt og språkmangfald. Organisasjonen skal arbeide politisk og vera med på å utforme den norske språkpolitikken. Organisatorisk skal me arbeide for å verte større og sterkare.
+
+
+
+## 1 POLITISKE PRIORITERINGAR
+NMU skal prioritere dei følgjande sakene i den komande perioden. Me skal òg markere standpunkt i og arbeida med andre språkpolitiske saker som vert aktuelle.
+
+
+
+**1.1. Språk i høgare utdanning**
+
+
+
+Høgare utdanning er ein viktig arena for å styrkje språket vårt, men er spesielt utsett for domenetap til engelsk. Det akademiske språket i Noreg er i stor grad etablert som bokmål, og det er ein stor mangel på akademisk språk på nynorsk. Universitets- og høgskulesektoren har ei lovfest plikt til å ta vare på og utvikle norsk fagspråk.
+
+
+
+NMU skal jobbe for:
+
+- at denne plikta vert følgd opp
+
+- at nynorsk skal vera tilgjengeleg for alle som vil nytte det i akademia
+
+- at brot på kravet om 25 prosent bruk av båe skriftspråka i universitets- og høgskulesektoren skal sanksjonerast
+
+- at universiteta og høgskulane tek ansvaret dei har for å utvikle norsk fagspråk og setja i verk tiltak for å styrkje norsk språk
+
+- at språklova ogso må gjelde studentsamskipnadane
+
+
+
+
+
+**1.2 Språk i grunnskule og vidaregåande utdanning**
+
+
+
+Halvparten av nynorskelevane på grunnskulen byter hovudmål når dei begynner på vidaregåande. Mangelfull opplæring, og skriveprogram og læremiddel utan støtte for nynorsk, er frustrerande for elevane.
+
+
+
+NMU skal jobbe for:
+
+- å sikre og følgje opp at elevane får den undervisninga dei har krav på
+
+- at alle tenestene Google tilbyr norske skular, er tilgjengelege på nynorsk
+
+- å sikre at den nye opplæringslova vert følgd opp og tydeleg omfattar digitale læremiddel
+
+- at skulebibliotek tek inn meir litteratur på nynorsk, til dømes gjennom Nynorsk kultursentrum si pilotbibliotek-satsing
+
+
+
+
+
+**1.3 Språkmangfald i Noreg**
+
+
+
+I Noreg har me alltid hatt eit mangfald av språk. I det fleirspråklege samfunnet må alle ha rett til å nytte språket sitt, for det er ein viktig del av identiteten vår. Språk deler oss inn i grupper, men kan ogso gje oss moglegheita til å ta del i nye grupper. Kvart språk har sin eigen måte å sjå røynda på. Eit mangfald av språk gjev oss eit mangfald av perspektiv, og dette mangfaldet er ein styrke for alle i Noreg. 
+
+
+
+NMU skal:
+
+- at fleire skal få opplæring i samiske språk, kvensk og dei andre minoritetsspråka
+
+- at språka synleggjerast og vert brukte i alle samanhengar, til dømes gjennom stadnamn, offentleg bruk og i media.
+
+- at kvensk blir heva til nivå 3 i minoritetsspråkpakta
+
+- at fleire må få tilbod i teiknspråkopplæring, både som førstespråk og som valfag
+
+- at Oslo skal få offisielt sørsamisk namn
+
+
+
+
+
+## 2 ORGANISASJON
+For å synleggjera organisasjonen, engasjere medlemmar og fremja politikken vår, har NMU desse satsingsområda:
+
+
+
+**2.1 Utvikling**
+
+
+
+NMU skal:
+
+- ha 1000 teljande medlemmar ved utgangen av 2023
+
+- arbeide for å motivere medlemmar til å engasjere seg i organisasjonen
+
+- arbeide for å skapa robuste lokallag og leggje til rette for at lokallag kan skipa til eigne aktivitetar
+
+- skulere tillitsvalde og følgje opp lokallaga
+
+- sørgje for opplæring av nye verv og god erfaringsoverføring i overlappinga til nye lokallagsstyre
+
+- synleggjera organisasjonen gjennom å nytte kommunikasjonsstrategien
+
+
+
+
+
+**2.2 Aktivitet**
+
+
+
+NMU skal:
+
+- gjera seg synlege for medlemmane ved å skipa til ulike arrangement
+
+- gjera seg synlege i media
+
+- stø opp om og hjelpe til med lokal aktivitet
+
+- arrangere vervekampanje med skulestart
+
+- arrangere innspurtskampanje ved årsskiftet
+
+
+
+
+
+**2.2.1 Tilskipingar**
+
+
+
+NMU skal:
+
+- skipa til vinterleir
+
+- skipa til sommarleir på Færøyane
+
+- skipa til haustleir
+
+- stø opp om lokallag som ønskjer å arrangere eigne tilskipingar
+
+- tilby skuleringar på arrangementa våre, slik at medlemmar får ny gjev til å arbeide for politikken vår
+
+
+
+
+
+**2.2.2 Annan aktivitet**
+
+
+
+NMU skal:
+
+- hjelpe elevar og studentar som treng det, med å klaga på brot på språklege rettar
+
+- bleste klageportalane ved skulestart og i eksamenstida i samarbeid med lokallaga
+
+- oppmode andre som arbeider med elev- og studentrettar, til å synleggjera språkrettar i kanalane sine
+
+- klaga på brot på språklege reglar og rettar når me kjem over det
+
+- arbeide for at ungdom lærer meir om den norske språkstoda ved å gjennomføre målferdsøkter
+
+- leggje til rette for at lokallaga kan reise på målferd og lære opp fleire til å halde målferder
+
+- dele ut Dialektprisen til eit godt dialektføredøme for ungdom
+
+- jobbe opp mot dei politiske partia rundt valet og laga ein gaid om standpunktet deira i språkspørsmål
+
+
+
+
+
+## 3 UTVAL
+Norsk Målungdom har fleire utval med konkrete oppgåver.
+
+
+
+- Landsstyret skal setja ned og konkretisere mandat for bladstyret, som har ansvar for å gje ut og skaffe innkommer til Motmæle. Bladstyret skal gje ut minst tre Motmæle i perioden.
+
+- Landsstyret skal setja ned ei nemnd som skal utarbeide programmet «Språk i ein digital kvardag».
+
+- Landsstyret skal setja ned ei nemnd som skal revidere internasjonalt program.

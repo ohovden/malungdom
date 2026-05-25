@@ -4,10 +4,7 @@ date:
 slug: organisasjon/motmaele
 image: src/assets/images/none
 ---
-Bladstyret
-
-=====
-
+# Bladstyret
 Avisa vert laga av bladstyret som vert sett ned av landsstyret kvar vår. Om du
 
 ikkje er medlem av Norsk Målungdom, men likevel vil ha Motmæle, kan du tinga
@@ -23,27 +20,16 @@ E-post: [bladstyret@malungdom.no](mailto:bladstyret@malungdom.no)
 <span id="skriva"></span>
 
 
-
-Endre adresse?
-
-======
-
+# Endre adresse?
 Vil du ha Motmæle til ei anna adresse? Får du to nummer?
 
 Eller tykkjer du den digitale versjonen er så kjekk at du ikkje lenger vil ha Motmæle i postkassa?
 
 
 
-[Meld frå](https://malungdom.no/kontakt/) til oss!
+## [Meld frå](https://malungdom.no/kontakt/) til oss!
 
-----
-
-
-
-Skrive for Motmæle
-
-=========
-
+# Skrive for Motmæle
 
 
 Motmæle er di avis, difor ynskjer vi at du skal vere med å lage ho. Kanskje du
@@ -82,14 +68,7 @@ i trykken, slik at vi har tid til å gje deg konstruktive tilbakemeldingar.
 
 Vi vil at Motmæle skal vere ei levande medlemsavis. Er ikkje artikkel sjangeren
 
-for deg, send inn bilete, eit dikt eller kanskje ei teikning?
-
-----
-
-
-
-<div data-dark="true" data-display-header="true"  data-layout="list" data-viewer="mime" data-manual="true" data-manual-list="NB_SEARCH_LIST" data-manual-comment-list="NB_SEARCH_LIST_COMMENTS" data-nb-plugin="search" data-sorting="desc" data-title="Nasjonalbiblioteket"></div><script type="text/javascript">
-
+## for deg, send inn bilete, eit dikt eller kanskje ei teikning?# 
 	var NB_SEARCH_LIST = [
 
     "2522045521ee51b24d3ecc4a35ad866b", //3/24
@@ -293,11 +272,5 @@ for deg, send inn bilete, eit dikt eller kanskje ei teikning?
     "75beb1cbc958cb76100208126fee80c2",
 
     "75bb30f5819fc9004d2d59e7db4f81f4",
-
-];
-
-</script><script type="text/javascript">(function(n, b, s, d, k, f, e, t, c, h) {n[k] = d;f = b.createElement(s);e = b.getElementsByTagName(s)[0];f.src=d;e.parentNode.insertBefore(f, e);})(window, document, 'script', 'https://embed.nb.no/nb-embed-sdk.js', 'NB_SDK_PATH');</script>
-
-
-
-----
+# ];
+##

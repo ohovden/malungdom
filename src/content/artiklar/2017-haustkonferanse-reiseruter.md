@@ -4,10 +4,7 @@ date:
 slug: 2017/haustkonferanse/reiseruter
 image: 
 ---
-Generelt om reise
-
-=================
-
+# Generelt om reise
 I år skal haustkonferansen vere i Drammen. 
 
 
@@ -25,11 +22,7 @@ Dersom du er i tvil om reisemåte, anten det handlar om pris eller anna, ta kont
 
 
 
-
-Reiseruter
-
-=================
-
+# Reiseruter
 **Fredag 29. september**
 
 

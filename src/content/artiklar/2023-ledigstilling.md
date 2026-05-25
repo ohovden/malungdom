@@ -44,10 +44,7 @@ Norsk Målungdom er ein landsfemnande ungdomsorganisasjon som jobbar for at alle
 
 ###Kvifor jobbe i Norsk Målungdom?
 
-Norsk Målungdom er meir enn berre ein arbeidsplass; det er eit engasjert og inkluderande fellesskap der du kan gjere ein skilnad for nynorsken, dialektene og språkmangfaldet. Som tilsett i Norsk Målungdom vil du få sjansen til å jobbe i lag med ei dedikert og entusiastisk gruppe menneske som brenn for saka. Å jobbe i Norsk Målungdom gjev deg høve til å utvikle deg både fagleg og personleg, og du vil kunne bidra med dine eigne idear og initiativ i ein engasjert ungdomsorganisasjon.
-
-----
-
+## Norsk Målungdom er meir enn berre ein arbeidsplass; det er eit engasjert og inkluderande fellesskap der du kan gjere ein skilnad for nynorsken, dialektene og språkmangfaldet. Som tilsett i Norsk Målungdom vil du få sjansen til å jobbe i lag med ei dedikert og entusiastisk gruppe menneske som brenn for saka. Å jobbe i Norsk Målungdom gjev deg høve til å utvikle deg både fagleg og personleg, og du vil kunne bidra med dine eigne idear og initiativ i ein engasjert ungdomsorganisasjon.
 
 
 # Skrivar
@@ -110,20 +107,14 @@ Vi gler oss til å høyre frå deg!
 
 
 
-Send søknad og CV til [tobias@malungdom.no](mailto:tobias@malungdom.no).
-
-----
-
+## Send søknad og CV til [tobias@malungdom.no](mailto:tobias@malungdom.no).
 
 
 #Kontormedarbeidar
 
 
 
-Hovudoppgåver
-
--
-
+## Hovudoppgåver
 Som kontormedarbeidar vil hovudoppgåva di vere å avlaste skrivar (dagleg leiar) i organisasjonen, og du vil difor jobbe tett med hen. Arbeidet inneber administrative oppgåver på kontoret og ansvar for medlemsbladet Motmæle.
 
 
@@ -178,6 +169,4 @@ Vi gler oss til å høyre frå deg!
 
 
 
-Send søknad og CV til [tobias@malungdom.no](mailto:tobias@malungdom.no).
-
-----
+## Send søknad og CV til [tobias@malungdom.no](mailto:tobias@malungdom.no).

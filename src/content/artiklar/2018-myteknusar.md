@@ -34,10 +34,7 @@ image: src/assets/images/none
 
 [<img src="dyrt-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/dyrt/)
 
-
-
-----
-
+## 
 
 
 
@@ -50,10 +47,7 @@ image: src/assets/images/none
 
 
 
-[<img src="vestlandet-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/forvestlandet/)
-
-----
-
+## [<img src="vestlandet-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/forvestlandet/)
 
 
 
@@ -68,10 +62,7 @@ image: src/assets/images/none
 
 [<img src="eidialekt-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/eidialekt/)
 
-
-
-----
-
+## 
 
 
 

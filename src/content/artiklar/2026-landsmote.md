@@ -4,12 +4,7 @@ date:
 slug: 2026/landsmote
 image: 
 ---
-Praktisk
-
-=======
-
-**Kvar**: [St. Paul skole](https://kart.1881.no?lat=60.3887901306152&lon=5.32359075546265&z=17&v=&r=100356053S2&o=&layer=)
-
+# # Praktisk
 
 
 **Når:** 20.-22. mars 2026
@@ -30,16 +25,9 @@ Praktisk
 
 
 
-**Overnatting og mat**: Det er overnatting i sovesal. Hugs liggjeunderlag og sovepose el.l. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar. 
+## **Overnatting og mat**: Det er overnatting i sovesal. Hugs liggjeunderlag og sovepose el.l. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar.
 
-----
-
-
-
-Saker og køyreplan
-
-=======
-
+# Saker og køyreplan
 
 
 **Innstillingar frå møtenemndene:** Innstillingane frå møtenemndene kjem når møtenemndene har nemnda.
@@ -66,18 +54,11 @@ Her finn du alle [sakspapira](https://drive.google.com/file/d/1YoC_2D2ZbiyCsScQK
 
  </ul>
 
-
-
-----
-
+## 
 
 
 
-
-Fristar
-
-=======
-
+# Fristar
 **[Send inn framlegg her.](https://docs.google.com/forms/d/e/1FAIpQLSeMNg_1d-W2gg20GC36tGldAYnL85yXxTlK-kOClwRvAOQ3YA/viewform?usp=dialog)**
 
 
@@ -114,16 +95,9 @@ Nye (heile) fråsegner, og framlegg som av andre praktiske grunnar ikkje kan sen
 
 
 
-Vil du eller lokallaget ditt fremje ei fråsegn til landsmøtet? Dokker kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til [norsk@malungdom.no](mailto:norsk@malungdom.no).
+## Vil du eller lokallaget ditt fremje ei fråsegn til landsmøtet? Dokker kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til [norsk@malungdom.no](mailto:norsk@malungdom.no).
 
-----
-
-
-
-Førebuing
-
-======
-
+# Førebuing
 Viss ein er på sitt første landsmøte kan det vere mykje å setje seg inn på ein gong. Her er nokre tips til kva du kan lese viss du ønskjer å vere godt budd. 
 
 
@@ -132,6 +106,4 @@ Viss ein er på sitt første landsmøte kan det vere mykje å setje seg inn på 
 
 
 
-På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](ordliste).
-
-----
+## På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](ordliste).

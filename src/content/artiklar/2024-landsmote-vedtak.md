@@ -4,10 +4,7 @@ date:
 slug: 2024/landsmote/vedtak
 image: 
 ---
-Val
-
-======
-
+# Val
 **Sentralstyret**<br>
 
 Leiar:  <br>
@@ -87,39 +84,20 @@ Representant i landsrådet til Noregs Mållag: <br>
 Ettersynsfolk: 
 
 
+# Fråsegner
+## Landsmøtet vedtok x fråsegner:
 
-Fråsegner
-
-======
-
-Landsmøtet vedtok x fråsegner:
-
-- 
+# Program for x
 
 
 
-Program for x
-
-======
+# Arbeidsprogram for 2023–2024
 
 
 
 
 
-Arbeidsprogram for 2023–2024
-
-======
-
-
-
-
-
-
-
-Lov-, føresegns- og tuftbrigde
-
-======
-
+# Lov-, føresegns- og tuftbrigde
 xxx
 
 
@@ -129,11 +107,7 @@ Her finn du:
 - xxx
 
 
-
-Endringar i landsmøtevedtekne program
-
-======
-
+# Endringar i landsmøtevedtekne program
 Landsmøtet vedtok endringar i program for språk i skulen og program for talemålet og nynorsken. Dei vedtok mellom anna at Norsk Målungdom er for eit ekstra tilleggspoeng for nynorsk som hovudmål og at vi vil ha fleire dialektordbøker.
 
 

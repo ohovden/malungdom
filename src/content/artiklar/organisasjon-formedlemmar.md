@@ -4,32 +4,18 @@ date:
 slug: organisasjon/formedlemmar
 image: src/assets/images/none
 ---
-Nyttige skjema
-
-=========
-
+# Nyttige skjema
 
 
 - [Utleggsrekningsskjema](/utlegg/)
 
+## 
 
-
-----
-
-
-
-Saknar du noko? 
-
-=========
-
+# Saknar du noko?
 
 
 Er det eit skjema, nokre tips eller ressursar du gjerne vil ha på denne sida? Ta kontakt! 
-
-
-
-<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
-
+# 
   data-type="kontakt" data-success="Innsendt!">
 
   <label>

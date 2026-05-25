@@ -4,10 +4,7 @@ date:
 slug: organisasjon/sumartips
 image: src/assets/images/none
 ---
-Sumarlytting
-
-=================
-
+# Sumarlytting
 **I karantene**
 
 <br>*Produsert av NRK* 
@@ -38,16 +35,9 @@ Sumarlytting
 
 
 
-Tipsa er henta frå Motmæle 2/20, skriven av Frida Pernille Mikkelsen  
+## Tipsa er henta frå Motmæle 2/20, skriven av Frida Pernille Mikkelsen
 
-----
-
-
-
-Sumarlesnad
-
-=======
-
+# Sumarlesnad
 **Soga om Geirmund Heljarskinn**
 
 <br> av Bergsveinn Birgisson
@@ -92,16 +82,9 @@ Resten av forfattarskapen hennar Parr er vel verd å kika på, ho skriv godt og 
 
 <br>Om ein likar e-bøker, kan det vera vel verdt å kika på *bokselskap.no*. Der ligg det over 300 bøker i fleire sjangrar, attpåtil heilt gratis! Det kan vera vel verdt å kika på Olav Duun, han var mykje med i nobeldiskusjonen i si tid. Elles er han kjend for å skriva særs ortofont (dvs. som det vert uttala), so det er høve til å verta kjend med ein litt annan slags nynorsk. Juvikfolke er ein sentral bokserie her (ja, utan *d* framme og ingen *t* på slutten). Elles er det fem titlar av Aasmund Olavsson Vinje på sida. Kan henda dette er sumaren du les *Ferdaminni fraa sumaren 1860*?
 
- 
+## 
 
-----
-
-
-
-Sumarsjåing
-
-=======
-
+# Sumarsjåing
 **Oslo 31. august (2011)**
 
 <br>*Regissør: Joachim Trier* 
@@ -132,10 +115,7 @@ Sumarsjåing
 
 
 
-Tipsa er henta frå Motmæle 2/20, skriven av Gunnhild Skjold  
-
-----
-
+## Tipsa er henta frå Motmæle 2/20, skriven av Gunnhild Skjold
 
 
 box

@@ -9,22 +9,34 @@ const { borderColor = 'main-green', class: className = "" } = Astro.props;
 
 <style>
   .textCard {
-    background-color: #fafafa;
+    background-color: hwb(214 70% 20% / 0.223);
     height: fit-content;
     padding: 2.5rem;
     border-radius: 15px;
-    border: 0.20rem solid var(--border-color);
+    border: 0rem solid var(--border-color);
     text-align: justify;
     margin: 3rem 3rem 3rem 3rem;
   }
 
   .textCard :global(p) {
-    color: #333;
-    font-size: 1.3rem;
+    color: #000b00;
+    font-size: 1.1rem;
   }
   .textCard :global(h1) {
+    color: #002e04;
+    text-align: center;
     font-size: 3rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 0.3rem;
+    padding-top: 1.8rem;
+  }
+  .textCard :global(h2) {
+    color: #002e04;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: -0.1rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.08em;
   }
 
   @media(max-width: 768px) {
@@ -37,7 +49,7 @@ const { borderColor = 'main-green', class: className = "" } = Astro.props;
       font-size: 1.2rem;
     }
     .textCard :global(h1) {
-      text-align: center;
+      text-align: left;
       font-size: 3rem;
       padding-bottom: 1.5rem;
     }

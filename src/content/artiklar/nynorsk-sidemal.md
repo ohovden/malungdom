@@ -54,10 +54,7 @@ Sidemål gjev oss ikkje mindre, men meir språkkunnskap!
 
 
 
-Kva er sidemål?
-
----------------
-
+## Kva er sidemål?
 
 
 Sidemål er det norske språket me lærer frå ungdomsskulen. Det er bokmål for dei

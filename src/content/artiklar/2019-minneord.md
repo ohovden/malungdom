@@ -6,10 +6,7 @@ image: src/assets/images/ingen
 ---
 <img src="leila.jpg" alt="">
 
-
-
------------------------------------
-
+## 
 Leila Mariell Harila (1994–2019) har gått bort brått. Ho var nestleiar i Studentmållaget i Tromsø og har vore aktiv i Norsk Målungdom i periodar sidan 2011. Leila var på si fyrste tilskiping i Norsk Målungdom på sumarleiren på Vinstra i 2011. Hennar siste vart vinterleiren i midten av januar i år.
 
 
@@ -32,10 +29,7 @@ Marie Berger Nicolaisen, leiar i Studentmållaget i Tromsø
 
 Fredrik Hope, leiar i Norsk Målungdom
 
-
-
------------------------
-
+## 
 
 
 Om du har spørsmål eller treng nokon å snakka med, kan du kontakta leiar Fredrik Hope på telefon 9540115, e-post fredrik@malungdom.no eller via [Facebook](https://www.facebook.com/fredrik.hope.9). Viss de vil ta kontakt med nokon andre, tipsar me om [Mental helse](http://www.mentalhelse.no/tjenester/hjelpetelefonen) sin krisetelefon (116 123) og [studentprestane i Tromsø](https://uit.no/om/foreninger/studentpresten). 

@@ -1,0 +1,25 @@
+---
+title: ""
+date: 
+slug: politikk/fraasegner/gloym-google-translate-no-har-vi-giellatekno-apertium
+image: 
+---
+Ein gong i tida var det slik at om du såg ein sak på samisk og dessverre ikkje kunne språka, så var det ikkje så mykje du kunne gjere. Heldigvis for oss som lever i teknologiens tidsalder har delar av løysinga komme! Forskarar ved Giellatekno, Senter for samisk språkteknologi, ved UiT har nemleg sleppe eit automatisk omsetjingsverktøy frå nordsamisk til norsk.
+
+
+
+Giellatekno Apertium fungerer omtrent som Google Translate: Ein kan lime inn tekst, eller omsetje ei heil nettside. Ein kan også direkteomsetje det ein sjølv skriv inn. Sjølv om omsetjinga ikkje blir perfekt, er ho god nok til at ein får med seg innhaldet i teksten.
+
+
+
+Forskarane bak verktøyet håpar det bidreg til at fleire vel å skrive på samisk på Internett. For at eit språk skal vere levande må det kunne brukast på alle samfunnsområde, og kvar teknologiske innovasjon som til dømes samisk mobiltastatur, stavekontroll, ordbøker på nett og no eit automatisk omsetjingsverktøy, gjer det litt lettare å ha samisk som bruksspråk. 
+
+
+
+Landsstyret i Norsk Målungdom jublar for høvet til å direkteomsetje nordsamisk tekst, og håpar verktøyet ogsåvert tilgjengeleg på nynorsk og kjem for dei andre samiske språka.
+
+
+
+
+
+Gløym Google Translate – no har vi Giellatekno Apertium!

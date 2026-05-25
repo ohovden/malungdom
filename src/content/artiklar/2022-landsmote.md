@@ -4,10 +4,7 @@ date:
 slug: 2022/landsmote
 image: 
 ---
-Kom på landsmøtet! 
-
-=================
-
+# Kom på landsmøtet!
 Landsmøtet avgjer kva NMU skal meine og arbeide med i året som kjem. Her kan du lese [landsmøtekunngjeringa](https://drive.google.com/file/d/1N4xr8vFSTVkdHHRHWSGXbgiO7fNtBgwk/view?usp=sharing).
 
 
@@ -23,11 +20,7 @@ Landsmøtet avgjer kva NMU skal meine og arbeide med i året som kjem. Her kan d
 
 
 
-
-Påmelding
-
-=========
-
+# Påmelding
 Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar til landsmøtet vert valde på lokallagsårsmøta. 
 
 
@@ -43,21 +36,10 @@ Har du ikkje noko lokallag? Da er du hjarteleg velkomen som observatør, eller d
 Er du usikker på om det er lokallag der du bur, eller lurer du på noko anna? Sjekk [lokallagsoversynet](/lokallag/lokallag) eller [ta kontakt](/kontakt) med skrivarstova!
 
 
+# Still til val
+## Vil du stille til val? Ta kontakt med valnemnda på e-post, valnemnda@malungdom.no
 
-Still til val
-
-=========
-
-Vil du stille til val? Ta kontakt med valnemnda på e-post, valnemnda@malungdom.no
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Scandic Flesland, Bergen.
 
 
@@ -76,16 +58,9 @@ Praktisk
 
 
 
-**Overnatting og mat**: Alle får rom på hotellet, i hovudsak dobbeltrom. Om du har ønskjer om kven du vil dele rom med kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar. 
+## **Overnatting og mat**: Alle får rom på hotellet, i hovudsak dobbeltrom. Om du har ønskjer om kven du vil dele rom med kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar.
 
-----
-
-
-
-Saker og køyreplan
-
-=======
-
+# Saker og køyreplan
 **Saklista er slik: **
 
-<ul><li><a href="https://drive.google.com/file/d/1TZ0QRQacTjaHjNXoQCiooPv3N8qCyYxc/view?usp=sharing">LM 22-1 Opning (med køyreplan)</a>
+## # ## # ## # # # <ul><li><a href="https://drive.google.com/file/d/1TZ0QRQacTjaHjNXoQCiooPv3N8qCyYxc/view?usp=sharing">LM 22-1 Opning (med køyreplan)</a>

@@ -4,10 +4,7 @@ date:
 slug: 2024/vinterleir
 image: src/assets/images/vl20ski.jpg
 ---
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Skogstad leirstad på Eina på Toten <br/>
 
 **Når**: 19. til 21. januar 2024 <br/>
@@ -32,16 +29,9 @@ Praktisk
 
 - eit spel eller aktivitet du vil ha med
 
+## 
 
-
-----------
-
-
-
-Reiseruter
-
-=====
-
+# Reiseruter
 I år skal vinterleiren vere på Eina på Toten. 
 
 
@@ -60,20 +50,11 @@ Merk: Me dekkjer i utgangspunktet berre billegaste reisemåte. Om du vil nytte n
 
 Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Emma H. Pedersen på e-post [norsk@malungdom.no](mailto:norsk@malungdom.no) eller telefon 97342864. 
 
-
-
--------------
-
-Informasjon til føresette
-
-=========================
-
+## # Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

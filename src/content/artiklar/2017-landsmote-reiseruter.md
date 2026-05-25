@@ -4,10 +4,7 @@ date:
 slug: 2017/landsmote/reiseruter
 image: 
 ---
-Generelt om reise
-
-=================
-
+# Generelt om reise
 Landsmøtet skal vere i Sandane  i Gloppen kommune på Firda vidaregåande skule. For mange av lokallaga våre, særleg på Vestlandet, er det lett å reise til Sandane med buss. For dei som bur lengre unna, er fly det beste alternativet. Det er berre Widerøe som flyg til Sandane, og dei flyg berre frå Oslo. Me ordnar skyss til og frå flyplassen på Sandane. Dessverre går det ikkje tog til Sandane. Billettane forsvinn fort, særleg på flya, og prisane stig, så ting billettar så snart som råd!
 
 
@@ -15,11 +12,7 @@ Landsmøtet skal vere i Sandane  i Gloppen kommune på Firda vidaregåande skule
 Mange må reise frå heimstaden sin før skuledagen er slutt. Me ordnar politisk fråver til alle som treng det. Me kan òg hjelpe deg med å bestille billettar. Ta kontakt med oss på skriv(a)nynorsk.no!
 
 
-
-Tilrådde transportmiddel til Sandane
-
-===============
-
+# Tilrådde transportmiddel til Sandane
 **Oslo og Akershus**: Fly til Sandane.
 
 
@@ -63,11 +56,7 @@ Tilrådde transportmiddel til Sandane
 **Noreg nord for Trøndelag**: Fly til Oslo, så fly vidare Sandane.
 
 
-
-Busstider
-
-=====
-
+# Busstider
 **Reise om/frå Bergen fredag 31. mars:**
 
 Det går buss (Fjordekspressen) frå Bergen 8.00 som er framme på Sandane 13.20.  Du finn informasjon og billettar på nor-way.no.
@@ -79,11 +68,7 @@ Det går buss (Fjordekspressen) frå Bergen 8.00 som er framme på Sandane 13.20
 Det går buss (Fjordekspressen ) frå Ålesund 11.10 som er framme på Sandane 14.55. Du finn informasjon og billettar på nor-way.no.
 
 
-
-Flytider
-
-========
-
+# Flytider
 **Reise om/frå Oslo fredag 31. mars:**
 
 Widerøe/SAS: Fly frå Gardermoen 12.10 – 13.15 eller 16.10 – 17.15. Du finn informasjon og billettar på wideroe.no
@@ -121,11 +106,7 @@ kontakt med Skrivarstova.*
 <span id="reisedekking"></span>
 
 
-
-Reisedekking
-
-============
-
+# Reisedekking
 
 
 Det er ingen deltakaravgift på landsmøtet, men reglane for reisedekking er litt annleis enn på dei andre tilskipingane våre. Me har ikkje høve til å dekkje reisa for alle deltakarane, så dei lokallaga som har pengar på bok, må dekkje delar av reisa sjølve. *Merk at det ikkje er lov å bruke frifondmidlar til å dekkje kostnadar knytta til landsmøte i det heile teke*. For at reisedekkinga skal bli jamnast mogleg, har me laga denne nøkkelen:

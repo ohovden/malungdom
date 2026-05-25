@@ -4,22 +4,10 @@ date:
 slug: 2018/sumarleir
 image: src/assets/images/<img src="slbanner.png" alt="">
 ---
-Påmelding
+# Påmelding
+## ## Påmelding er lukka.
 
-=========
-
-Påmelding er lukka.
-
-----
-
-----
-
-
-
-Praktisk
-
-=======
-
+# Praktisk
 
 
 **Kvar**: [Tangvall skole i Søgne på Agder](https://goo.gl/maps/MRtg7FhMwcy)
@@ -58,10 +46,7 @@ Praktisk
 
 
 
-Reiseruter
-
-----------
-
+## Reiseruter
 Alle vegar fører til sumarleir! 
 
 
@@ -79,11 +64,7 @@ Meld frå om kva tid du kjem, så hentar vi deg på flyplassen/stasjonen/haldepl
 
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
@@ -96,20 +77,9 @@ dei kan kjenne seg tryggare.
 
 
 
-Les meir om sumarleiren og trykk deltek på [facebookhendinga](https://www.facebook.com/events/1701276739936886/). 
+## Les meir om sumarleiren og trykk deltek på [facebookhendinga](https://www.facebook.com/events/1701276739936886/).
 
-----
-
-
-
-Program
-
-=======
-
-
-
-[<img src="slprogram.png" alt="">](https://drive.google.com/file/d/17RE62UkD4eYcvwoCJzh6YE1qC3B0bFpM/view?usp=sharing)
-
+# Program# 
 
 
 Sjå programmet i fullversjon [her](https://drive.google.com/file/d/17RE62UkD4eYcvwoCJzh6YE1qC3B0bFpM/view?usp=sharing).
@@ -162,6 +132,4 @@ debattskulering
 
 - Vebjørn Sture (tidlegare leiar i NMU) om å vinne sidemålsstrid
 
-
-
-----
+##

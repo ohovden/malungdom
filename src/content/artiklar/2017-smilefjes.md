@@ -4,18 +4,13 @@ date:
 slug: 2017/smilefjes
 image: src/assets/images/ingen
 ---
-<a href="smilefjes.png"><img src="smilefjes.png" alt=""></a>
-
+# 
 
 
 [Last ned stor versjon](smilefjes-full.png).
 
 
-
-Set smilefjes på språkpolitikken
-
-===
-
+# Set smilefjes på språkpolitikken
 *Pressemelding frå Norsk Målungdom 07.09.17*
 
 

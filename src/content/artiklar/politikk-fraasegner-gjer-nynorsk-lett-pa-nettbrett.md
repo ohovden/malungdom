@@ -1,0 +1,23 @@
+---
+title: "Gjer nynorsk lett på nettbrett"
+date: 
+slug: politikk/fraasegner/gjer-nynorsk-lett-pa-nettbrett
+image: 
+---
+Fleire og fleire skular har byrja å nytte nettbrett i undervisninga. Dette fører til ei meir praktisk og variert undervisning. Men det er òg problematiske sider ved bruken av iPad som undervisningsverktøy.
+
+
+
+Fleire av appane som blir nytta i klasserommet no, som ExplainEverything, iThoughts og BookCreator, er ikkje tilgjengelege på nynorsk, og er såleis ikkje lovlege hjelpemiddel i norsk skule. Rettskrivingsprogramma i vanlege skriveprogram, til dømes Word, er av lågare kvalitet på nynorsk enn på bokmål. Det kan ha negative konsekvensar både for elevar som har nynorsk som hovudmål og elevar som har nynorsk som sidemål.
+
+
+
+Ved å gjera nynorsk tilgjengeleg på alle plattformar i skulen styrker det kvaliteten på undervisninga, og kan vera med på å byggja under positive haldningar til nynorsk. I tillegg har det positiv effekt for elevar med nynorsk som sidemål, då det vert meir tilgjengeleg og er del av kvardagen deira.
+
+
+
+Ifølgje opplæringslova skal alle læremiddel som blir nytta på jamnleg basis vera tilgjengelege på nynorsk og bokmål. Å nytta nettbrett utan fullgod nynorsk er altså ikkje i tråd med lova. 
+
+
+
+Lovverket slår fast at læremiddel skal koma på både nynorsk og bokmål. Det må òg gjelda digitale læremiddel. Difor krev landsmøtet i Norsk Målungdom at kunnskapsministeren syter for at læremiddelappar kjem på både nynorsk og bokmål.

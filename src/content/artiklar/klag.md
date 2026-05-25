@@ -19,11 +19,7 @@ Somme høgare utdanningsinstitusjonar held fram med å bryte lova, fordi ingen s
 <a href="#skjema" class="button bli-medlem-medium">Sei ifrå om lovbrot!</a>
 
 
-
-Kvifor påpeike?
-
-======
-
+# Kvifor påpeike?
 Kvart år tek mange studentar eksamen på alle nivå. Mange av desse studentane er nynorskbrukarar.
 
 
@@ -47,11 +43,7 @@ Mange nynorskbrukarar byter til bokmål fordi dei ikkje møter språket sitt i k
 Du kan også påpeike på dårleg språk i oppgåva. Somme studiestader bruker lite tid til å setja om eksamen frå bokmål til nynorsk. Me har motteke klage på eksamenar med over 100 skrivefeil i. Me klagar ikkje fordi nynorskbrukarar er meir pirkete på språk, me skal seia frå fordi **du har rett til å bli teken på alvor**.
 
 
-
-Rettane dine
-
-===========
-
+# Rettane dine
 Etter forskrift om målform i eksamensoppgåver har du krav på eksamen på nynorsk. Det står i paragraf 2 at *du har rett til å velja kva språk du vil ta eksamen på, og studiestaden din skal skaffe seg informasjon om kva språk studentane vil bruke.*
 
 
@@ -71,11 +63,7 @@ Mange studentar får nynorskoppgåver med så dårleg språk at dei heller vel o
 **Om du studerer ved ein privat utdanningsinstitusjon, har du no også krav på å få eksamen på nynorsk.** 
 
 
-
-Dette kan du seia ifrå om
-
-=====================
-
+# Dette kan du seia ifrå om
 Du kan seia ifrå til oss dersom:
 
 - eksamen har feil språk
@@ -97,11 +85,7 @@ Somme fag har fritak frå forskrifta. Vedtaket om dette må gjerast seinast tre 
 Vedlegg som kjem til oppgåva treng ikkje å vera på begge språka.
 
 
-
-Sei ifrå til oss
-
-==============
-
+# Sei ifrå til oss
 Med skjemaet under kan du melda frå til oss om du ikkje fekk eksamen på nynorsk, eller meiner språket på eksamenen var for dårleg.
 
 
@@ -123,11 +107,7 @@ Me fører anonym statistikk over kor mange klager me har sendt til kvar utdannin
 
 
 <h1 id="skjema">Meldeskjema</h1>
-
-
-
-<form method="POST" action="/cgi-bin/send.py?_type=klage"
-
+# 
   data-type="klage" data-success="Meldinga er sendt inn, du høyrer frå oss.">
 
   <label>Namnet ditt <small>(Du vil vera anonym)</small> <input name="namn" required></label>
@@ -161,11 +141,7 @@ Me fører anonym statistikk over kor mange klager me har sendt til kvar utdannin
 
 
 <br/>
-
-Lovtilvisingar
-
-==============
-
+# Lovtilvisingar
 
 
 [**Universitets- og høgskulelova**](https://lovdata.no/dokument/NL/lov/2024-03-08-9)  

@@ -4,18 +4,12 @@ date:
 slug: nynorsk/ressursar
 image: 
 ---
-Testar
-
------
-
+## Testar
 - Språkrådet sin [kartleggjingstest i nynorsk](http://elevrom.sprakradet.no/skolen/kartleggingstest)
 
 
 
-Nynorsk grammatikk
-
------
-
+## Nynorsk grammatikk
 - Språkrådet sin [minigrammatikk i nynorsk](http://offentlegrom.sprakradet.no/staten/minigrammatikk)
 
 - NDLA sitt [nynorskkurs](https://ndla.no/nn/node/122697?fag=116784) 
@@ -28,8 +22,5 @@ Nynorsk grammatikk
 
 
 
-Ordbøker
-
------
-
-- [Bokmål- og nynorskordbok](http://ordbok.uib.no/) finst òg som app
+## Ordbøker
+## ## - [Bokmål- og nynorskordbok](http://ordbok.uib.no/) finst òg som app

@@ -4,36 +4,17 @@ date:
 slug: 2018/tillitsvaldsamling
 image: src/assets/images/none
 ---
-Program
-
-=====
-
-[<img src="programhk_2.png" alt="Program for Tillitsvaldsamlinga">](https://drive.google.com/file/d/1hg03BF-MlDD0WG2cX5qgbb9MuqjkcA4t/view?usp=sharing)
-
+# # Program
 Sjå programmet i fullversjon [her](https://drive.google.com/file/d/1hg03BF-MlDD0WG2cX5qgbb9MuqjkcA4t/view?usp=sharing)
 
 
 
 
+# Påmelding
+## Ferdig.
 
-Påmelding
-
-=========
-
-Ferdig.
-
-----
-
-
-
-Praktisk
-
-=======
-
-Tørre fakta
-
------------
-
+# Praktisk
+## Tørre fakta
 **Kvar**: St. Paul skole i Bergen
 
 
@@ -61,11 +42,7 @@ Tørre fakta
 - handkle
 
 
-
-Reiseruter
-
-=====
-
+# Reiseruter
 Ta kontakt om du tykkjer det er vanskeleg å finne ein passande reiserute. Dei fleste vil finne ei høvande reiserute til Bergen på nettsida til reiseplanleggjaren Entur. (https://en-tur.no/). 
 
 
@@ -75,17 +52,11 @@ Samlinga startar 17.00, og det er lurt å vere der omlag ein time før for å f�
 
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

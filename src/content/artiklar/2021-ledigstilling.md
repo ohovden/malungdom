@@ -8,18 +8,12 @@ Norsk Målungdom søker kontormedarbeidar i 50 % stilling til kontoret vårt i O
 
 
 
-Om Norsk Målungdom
-
--
-
+## Om Norsk Målungdom
 Norsk Målungdom er ein landsfemnande ungdomsorganisasjon som jobbar for at alle skal ha høve og rett til å bruke dialekta si og å skrive nynorsk. Som kontormedarbeidar er du med på det administrative arbeidet som krevst for å drive organisasjonen. Vi er om lag 1 500 medlemar fordelt på 20 lokallag over heile landet, og vi er ein organisasjon i vekst. 
 
 
 
-Hovudoppgåver
-
--
-
+## Hovudoppgåver
 Som kontormedarbeidar vil hovudoppgåva di vere å avlaste dagleg leiar i organisasjonen, og du vil difor jobbe tett med ho. Arbeidet inneber administrative oppgåver på kontoret og ansvar for medlemsbladet Motmæle. Arbeidsoppgåvene kan innebere administrering av medlemsregisteret, dagleg økonomiarbeid og administrering av post til lokallag og medlemmar. Kompetanse med Adobe-program og nettsidearbeid er eit pluss, men ikkje eit krav for å få stillinga. 
 
 
@@ -28,10 +22,7 @@ Du vil i hovudsak arbeide tett med dei andre tilsette på kontoret i Oslo. Arbei
 
 
 
-Vi søkjer deg som:
-
--
-
+## Vi søkjer deg som:
 - Har røynsle med administrativt organisasjonsarbeid
 
 - Jobbar sjølvstendig og er løysingsorientert
@@ -42,10 +33,7 @@ Vi søkjer deg som:
 
 
 
-Vi kan tilby:
-
--
-
+## Vi kan tilby:
 - Godt arbeidsmiljø og varierte arbeidsoppgåver
 
 - Fleksibel arbeidstid

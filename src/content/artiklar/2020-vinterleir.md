@@ -4,10 +4,7 @@ date:
 slug: 2020/vinterleir
 image: src/assets/images/vl20ski.jpg
 ---
-Program
-
-=====
-
+# Program
 **Fredag**<br>
 
 16:00<br>
@@ -112,20 +109,10 @@ Appell v/ Gunnhild Skjold<br>
 
 Dugurd m/ nistesmørjing, pakking, farvel og avreise<br>
 
- 
+## 
 
-----
-
-
-
-Praktisk
-
-=======
-
-Tørre fakta
-
------------
-
+# Praktisk
+## Tørre fakta
 **Kvar**: Skogstad leirstad på Eina på Toten 
 
 
@@ -155,11 +142,7 @@ Tørre fakta
 - ski, viss du vil gå på ski
 
 
-
-Reiseruter
-
-=====
-
+# Reiseruter
 I år skal vinterleiren vere på Eina på Toten. 
 
 
@@ -181,17 +164,11 @@ Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta
 
 
 
-
-Informasjon til føresette
-
-=========================
-
+# Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

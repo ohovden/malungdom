@@ -4,10 +4,7 @@ date:
 slug: 2026/vinterleir
 image: src/assets/images/vl20ski.jpg
 ---
-Praktisk
-
-=======
-
+# Praktisk
 **Kvar**: Hallingdal Leirsted i Ål i Hallingdal <br/>
 
 **Når**: 23. til 25. januar 2026 <br/>
@@ -38,36 +35,20 @@ Praktisk
 
 - spel, handarbeid eller andre aktivitetar du vil ha med
 
+## 
 
-
-----------
-
-
-
-Reiseruter
-
-=====
-
+# Reiseruter
 Merk: Me dekkjer i utgangspunktet berre billegaste reisemåte. Om du vil nytte noko anna, må du avtale det med skrivarstova.
 
 
 
 Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Mari Kaslegard på e-post [norsk@malungdom.no](mailto:norsk@malungdom.no) eller telefon 97342864. 
 
-
-
--------------
-
-Informasjon til føresette
-
-=========================
-
+## # Informasjon til føresette
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
 
 Difor har me laga eit [informasjonsskriv til
 
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 
-dei kan kjenne seg tryggare.
-
-----
+## dei kan kjenne seg tryggare.

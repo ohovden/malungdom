@@ -39,6 +39,7 @@
 
   h1 {
     font-family: 'Gloock';
+    font-size: 3rem;
   }
 
 	.twoColumn {
@@ -75,12 +76,46 @@
     padding-bottom: 1.5rem;
   }
 
+	.mainText {
+		text-align: justify;
+		background-color: #f3f9fa;
+		padding-left: 5rem;
+		padding-right: 5rem;
+		align-content: center;
+	}
+	.mainText p {
+		font-family: 'Cormorant Garamond', serif;
+		font-weight: 30;
+		font-style: italic;
+		font-size: 1.9rem;
+	}
+	.mainText h1 {
+		font-family: 'Gloock';
+		text-align: center;
+		padding-bottom: 2rem;
+		font-size: 5rem;
+		width: 100%;
+	}
+
 }
+
+@media(max-width: 768px) {
+	.mainText {
+		padding-left: 2rem;
+		padding-right: 2rem;
+    padding-bottom: 2rem;
+	}
+	.mainText h1 {
+    padding-top: 2rem;
+		font-size: 3rem;
+	}
+}
+.text-link {
+  @apply inline-block transition-all duration-150 hover:translate-x-1;
+  color: var(--dark-lav);
+}
+
   @layer components {
-  .text-link {
-    @apply inline-block transition-all duration-150 hover:translate-x-1;
-    color: var(--dark-lav);
-  }
 
 	@keyframes slideUp {
     	from {
