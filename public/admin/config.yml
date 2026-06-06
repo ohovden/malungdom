@@ -31,7 +31,8 @@ collections:
     create: true
     fields:
       - {label: "Tittel", name: "title", widget: "string"}
-      - {label: "Dato", name: "date", widget: "datetime", time_format: false}
+      - {label: "Startdato", name: "date", widget: "datetime", time_format: false}
+      - {required: false, label: "Sluttdato", name: "date", widget: "datetime", time_format: false}
       - {label: "Stad", name: "place", widget: "string"}
       - {required: false, label: "Bilete", name: "image", widget: "image"}
       - {required: false, label: "Brødtekst", name: body, widget: "markdown"}
