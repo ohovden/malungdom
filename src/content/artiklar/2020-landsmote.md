@@ -1,0 +1,166 @@
+---
+title: "Landsmøte 2020"
+date: 
+slug: 2020/landsmote
+image: 
+---
+# Kom på landsmøtet!
+Frå 27. til 29. mars skipar vi til landsmøte for å avgjere kva NMU skal meine og arbeide med i året som kjem. Her kan du lese [landsmøtekunngjeringa](https://drive.google.com/a/malungdom.no/file/d/1LG2HuZCXn8QPJhtzbVM1jsmkmLicIVN_/view?usp=sharing).
+
+
+
+Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag – utsendingar til landsmøtet vert valde på lokallagsårsmøta. Har du ikkje noko lokallag? Då er du hjarteleg velkomen som observatør, eller du kan høyre om eit anna lokallag har ledig utsendingsplass.
+
+
+# Påmelding
+Lokallaga vel normalt utsendingar på årsmøtet (høgsesongen for årsmøte er januar-mars). Er du vald som utsending kan du melde deg på [her](https://docs.google.com/forms/d/e/1FAIpQLSc9sN1N1IrsmlSL_TM2HfPhkFSfyp79pHR7B0e76K4H8uNm2A/viewform?usp=sf_link).
+
+
+
+Dersom du ikkje har noko lokallag, kan du reise som observatør. Er du usikker på om det er lokallag der du bur, ta kontakt med skrivarstova.
+
+## 
+
+# Praktisk
+**Kvar**: Ås ungdomsskole
+
+
+
+**Når:** 27. - 29. mars
+
+
+
+**Reisedekking:** Dei lokallaga som ikkje har monalege inntekter utanom Frifond, kan få dekt reiseutlogene av sentrallekken.
+
+
+
+**Reiseruter:** Etter at du har kome deg til Oslo tar du tog frå Oslo S til Ås stasjon. Skulen ligg 10 minutt unna togstasjonen. Ta kontakt viss du treng hjelp til å tinge billettar.
+
+## 
+
+# Fristar
+Siste frist for på- og avmelding har gått ut.
+
+
+
+Dersom du eller lokallaget ditt ynskjer å fremje ei fråsegn til landsmøtet, tek me gjerne imot. De kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til norsk@malungdom.no innan har gått ut.
+
+
+
+Fristen for å levere endringsframlegg til lovene og tufta, og til å fremme saker har gått ut.
+
+## 
+
+# Saker og køyreplan
+Du finn dei fleste sakspapira under. Dei som manglar kjem når dei er klar. Nokre av sakspapira kan bli endra før landsmøtet. Der det er aktuelt er det presisert i sakspapiret. 
+
+
+
+[Her](https://drive.google.com/a/malungdom.no/file/d/1gjK2CGVhsfxyb8ciqBL921RjbSqmzVEG/view?usp=sharing) finn du køyreplanen. 
+
+
+
+Saklista er slik: 
+
+
+
+– [LM 20-1 Opning](https://drive.google.com/a/malungdom.no/file/d/1EgZyRUnhlI8v0O78h8KGgThdOjHH6ILv/view?usp=sharing)
+
+
+
+– [LM 20-2 Årsmelding 2019–2020](https://drive.google.com/a/malungdom.no/file/d/1ZGxF4VIv-IJlrJUcfculHGXU26ef727m/view?usp=sharing) 
+
+
+
+*Sentralstyret har ikkje vedteke årsmeldinga enda. Når det er gjort, vil den blir lagt ut her.*
+
+
+
+– [LM 20-3 Lov- og føresegnsbrigde](https://drive.google.com/a/malungdom.no/file/d/1biz8d_4JNOcdbWM9dhRq8tkxMYPW1Lnz/view?usp=sharing) 
+
+
+
+– [LM 20-4 Val](https://drive.google.com/a/malungdom.no/file/d/1NFFJO5e5C59v6Xwu02oByXGHDhDuIXwh/view?usp=sharing)
+
+
+
+– [LM 20-5 Leiartala](https://drive.google.com/a/malungdom.no/file/d/1jCtsVAsHcUJX1jgu6d4gkpnHcJhh9Bbo/view?usp=sharing) 
+
+
+
+– [LM 20-6 Rekneskapen for 2019](https://drive.google.com/a/malungdom.no/file/d/1B5q4D8BHyV0yZL4jA7VEvICo_soMq13q/view?usp=sharing)
+
+
+
+*Sentralstyret har ikkje vedteke rekneskapen enda. Når det er gjort, blir den lagt ut her.*
+
+
+
+– [LM 20-7 Program for språk i akademia og høgare utdanning](https://drive.google.com/a/malungdom.no/file/d/1MkTIby2D4nZH7E_hQe9lQ0nEIM_woPnU/view?usp=sharing)
+
+
+
+*Framlegg til Program for språk i akademia og høgare utdanning kan du lese [her](https://drive.google.com/a/malungdom.no/file/d/1s4FiwvS0xHTr0fOcHOmSU86kWLUuwqZl/view?usp=sharing).*
+
+
+
+– [LM 20-8 Arbeidsprogram for 2020–2021](https://drive.google.com/a/malungdom.no/file/d/1x2i9gSSeNbWUtXQZF77RGfq1xZz_5WQe/view?usp=sharing)
+
+
+
+*Framlegg til arbeidsprogram kan du lese [her](https://drive.google.com/a/malungdom.no/file/d/10aaLUKAlEvd9Lmhj3L1_AXgFRZ-xmi96/view?usp=sharing).*
+
+
+
+– [LM 20-9 Budsjettsaker](https://drive.google.com/a/malungdom.no/file/d/1P0F6mE942nzatSGUH9GhFuXAinJlDgd9/view?usp=sharing)
+
+
+
+– [LM 20-10 Fråsegner](https://drive.google.com/a/malungdom.no/file/d/1eoEF0sZv-phTOGIWL6lCvRnijtRXdKze/view?usp=sharing)
+
+
+
+– [LM 20-11 Innkomne framlegg til endringar i tuft og program](https://drive.google.com/a/malungdom.no/file/d/1TqQXuIcjH3KWd642WdO6xz5p5YCG9FSQ/view?usp=sharing)
+
+
+
+– [LM 20-12 Medlemspengesats for 2021](https://drive.google.com/a/malungdom.no/file/d/1D4JMZZXxKs2UCXc7_Hwa0BGVaSKznVV1/view?usp=sharing)
+
+
+
+Dei opphavlege dokumenta finn du her:
+
+
+
+[Lovene](https://malungdom.no/politikk/styringsdokument/lovene/)
+
+
+
+[Styreføresegnene](https://malungdom.no/politikk/styringsdokument/styreforesegner/)
+
+
+
+[Tufta](https://malungdom.no/politikk/tufta/)
+
+
+
+[Program for språk i skulen](https://malungdom.no/politikk/program/sprak-i-skulen/)
+
+## 
+
+# Førebuing
+Viss ein er på sitt fyrste landsmøte kan vere mykje å setje seg inn på ein gong. Her er nokre tips til kva du kan lese viss du ønskjer å vere godt budd. 
+
+
+
+[Politiske dokument og styringsdokument](https://malungdom.no/politikk/), som politiske program, tufta, lovene og fråsegner er dokument det kan vere kjekt å kjenne til før landsmøtet. 
+
+
+
+På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](https://malungdom.no/2018/landsmote/lm-ordliste/)
+
+
+
+
+
+## Anten du har vore på mange landsmøte eller skal på ditt fyrste, kan vere ein veldig god ide å skipe til eit landsmøteførebuande møte. Det er alltid bra å diskutere sakene som skal opp på landsmøtet på førehand, anten med andre landsmøteutsendingar, eller med andre i lokallaget ditt. [Her](https://drive.google.com/a/malungdom.no/file/d/1con7vkrEpMopm7xAewA0bzYkvnZZQH3z/view?usp=sharing) kan du lese tips til korleis du kan skipe til eit landsmøteførebuande møte.
