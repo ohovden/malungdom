@@ -11,26 +11,35 @@ import '../styles/globals.css';
 	<body>
 	<Layout currentPage='/' class='slide-up delay-1'/>
 		<div>
-			<main>
-				<div class='grid grid-cols-1 md:grid-cols-2 slide-up delay-2'>
-					<div class='mainText order-2 md:order-1'>
-						<h1>Ver med og kjemp for språket vårt!</h1>
-						<p>
-						Norsk Målungdom er eit landsdekkjande mållag med over 1200 elevar og studentar som kjempar for nynorsk, dialekt og språkmangfald i Noreg. 
-						</p>
-						<br/><br/>
-
-						<div class="grid grid-cols-1 md:grid-cols-3 items-center justify-items-center gap-5">
-							<Button text="Kvifor nynorsk?" colorVar='main-dgray' path='/nynorsk/kvifor-skriva-nynorsk' classes='flex-1'/>
-							<Button text="Kva meiner vi?" colorVar='main-dgray' path='/politikk' classes='flex-1'/>
-							<Button text="Lokallaga våre" colorVar='main-dgray' path='/omnmu' classes='flex-1'/>
+			<main><div class='grid grid-cols-1 gap-15'>
+				<div class='grid grid-cols-1 md:grid-cols-1 slide-up delay-2 h-[calc(100svh-6rem)]'>
+					<img src='/smib.webp' class='absolute w-full h-full object-center object-cover' alt=''>
+					<div class='absolute w-full h-full bg-linear-to-t from-(--main-lav)/30 via-white/5 to-black/50'/>
+					<div class='absolute w-full h-full mainText flex flex-col justify-between'>
+						<div class='size-fit items-center mx-auto mt-5 px-4 rounded-4xl bg-(--main-green)'>
+							<h1 class='text-white'>Ver med og kjemp for språket vårt!</h1>
 						</div>
-
+						<div />
+						<div class='flex flex-col justify-center items-center mx-auto backdrop-blur-md w-full max-w-3xl gap-5 mb-15 p-7 rounded-4xl bg-[#ffffff55]'>
+							<p class='text-white text-3xl'>
+								Norsk Målungdom er eit landsdekkjande mållag med over 1200 elevar og studentar som kjempar for nynorsk, dialekt og språkmangfald i Noreg. 
+							</p>
+							<Button colorSet='lav' path='/politikk' classes='w-full'><p>Meld deg inn!</p></Button>
+						</div>
 					</div>
-					<img src='/smib.webp' class='order-1 md:order-2' alt=''>
+					<div class='object-center object-cover'>
+					</div>
 				</div>
-				<div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-12 slide-up delay-3">
-					 <Card>
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-30 px-30 py-25 slide-up delay-3 items-stretch">
+					<div class='flex flex-col'>
+						<h1 class='justify-center'>Les om kampsakene våre</h1>
+						<div class='flex-1 grid grid-cols-1 grid-rows-3 pt-10 stretch-items gap-4'>
+							<Button colorSet='green'><div class='flex flex-col justify-center h-full'><h3 class='text-3xl py-5 text-white font-semibold italic'>Betre undervising i nynorsk</h3></div></Button>
+							<Button colorSet='green'><div class='flex flex-col justify-center h-full'><h3 class='text-3xl py-5 text-white font-semibold italic'>Likeverd mellom bokmål og nynorsk</h3></div></Button>
+							<Button colorSet='green'><div class='flex flex-col justify-center h-full'><h3 class='text-3xl py-5 text-white font-semibold italic'>Lovverk som respekterer språkleg mangfald</h3></div></Button>
+						</div>
+					</div>
+					<Card colorSet='grey'>
 						<h1 class='flex pt-7'>Kva skjer framover?</h1>
 						<p class='font-["League Spartan Variable"]'>
 							5.-7. juni: Landsstyremøte
@@ -44,14 +53,17 @@ import '../styles/globals.css';
 							Viss du allereie er medlem og vil betala medlemspengane for i år, kan du vipse 50 kr til Norsk Målungdom (#22472). Du kan få faktura i posten om du heller vil bruke det, eller om Vipps ikkje fungerer for deg.	
 						</p>
 					</Card>
-					<div class='flex flex-col justify-center'>
-						<div class='md:border-l-2 md:ml-20' style="border-color: var(--main-blue)">
-						<p class="flex items-left font-['Cormorant-Garamond'] italic font-light text-4xl px-15 md:px-24 leading-snug tracking-wide" >
+				</div>
+				<div class='flex justify-center m-auto'>
+					<div class='flex flex-col justify-center w-full max-w-5xl'>
+						<div class='ikkjemd:border-l-2 ikkjemd:ml-15 ' style="border-color: var(--main-blue)">
+						<p class="flex items-center text-justify font-['Cormorant-Garamond'] italic font-light text-3xl px-15 md:px-30 leading-snug tracking-wide" >
 							«Det språklege mangfaldet i verda er umisteleg, av di kvart språk har sin unike måte å tolka røynda på. Norske dialektar, skriftspråk og mindretalsspråk er Noregs bidrag til det globale språkmangfaldet. Det er vår oppgåve å tryggja og byggja vidare på dette bidraget.»
 						</p>
-						<h1 class="flex items-left text-5xl py-12 pl-24">
-							<span class="-translate-x-10">—Tufta til Norsk Målungdom</span>
+						<h1 class="flex items-center justify-center text-5xl py-12 border-b-2">
+							Tufta til Norsk Målungdom
 						</h1>
+						<img src='flagline.png' class='w-8/10 m-auto'/>
 						</div>
 					</div>
 				</div>
@@ -65,7 +77,7 @@ import '../styles/globals.css';
 				</a>
 				</div>
 				<div/>
-			</main>
+			</div></main>
 		</div>
 	</Layout>
 	</body>

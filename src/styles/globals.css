@@ -3,28 +3,46 @@
 
 @layer base {
   html {
-    font-size: clamp(12px, 1.8vw, 16px);
+    font-size: clamp(18px, 1.8vw, 16px);
   }
 
   :root {
     --main-blue: theme('colors.blue.300');
     --main-blue-dark: theme('colors.blue.300');
     --main-blue: #b4cef2;
+    --main-blue: #b2cee3;
     --main-blue: #00637d;
+    --light-blue: hsl(192, 51%, 50%);
+    --dark-blue: #f2fbec;
 
     --main-green: #86cb92;
     --main-green: #b4d3a7;
     --main-green: theme('colors.green.300');
+    --main-green: #b4d3a7;
+    --main-green: #40bf9a;
+    --main-darkgreen: #081713;
+    --dark-green: #081713;
+    --light-green: #40bf9a;
+
+    --main-grey: #fafafa;
+    --light-grey: #eef0f4;
+    --dark-grey: #1d360a;
 
     --main-lav: #d4badd;
     --main-lav: theme('colors.purple.300');
     --main-lav: #d982c9;
+    --main-lav: #d4badd;
+    --main-lav: #cd95f4;
+    --text-lav: #b20cbe;
     --dark-lav: #da25b9;
+    --dark-lav: #330532;
 
-    --main-lgrey: #fbedf8;
+    --main-lgrey: #f3f9fa00;
     --main-textblack: #bc0d0d;
 
     --main-dgray: #6ba978;
+    --main-dgray: #40BF9A;
+
   }
 
   .dark {
@@ -35,11 +53,14 @@
 
   body {
     font-family: 'Plus Jakarta Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #ffffff;
   }
 
   h1 {
     font-family: 'Gloock';
     font-size: 3rem;
+    color: var(--dark-grey);
   }
 
 	.twoColumn {
@@ -78,23 +99,24 @@
 
 	.mainText {
 		text-align: justify;
-		background-color: #f3f9fa;
-		padding-left: 5rem;
-		padding-right: 5rem;
-		align-content: center;
+		background-color: var(--main-lgrey);
+    opacity: 1;
+		padding-left: 8rem;
+		padding-right: 8rem;
 	}
 	.mainText p {
 		font-family: 'Cormorant Garamond', serif;
-		font-weight: 30;
+		font-weight: 300;
 		font-style: italic;
-		font-size: 1.9rem;
+		font-size: 1.7rem;
+    color: var(--main-darkgreen);
 	}
 	.mainText h1 {
 		font-family: 'Gloock';
 		text-align: center;
-		padding-bottom: 2rem;
 		font-size: 5rem;
 		width: 100%;
+    color: var(--dark-green);
 	}
 
 }
@@ -112,7 +134,7 @@
 }
 .text-link {
   @apply inline-block transition-all duration-150 hover:translate-x-1;
-  color: var(--dark-lav);
+  color: var(--text-lav);
 }
 
   @layer components {

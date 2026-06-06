@@ -1,39 +1,66 @@
 ---
-const { borderColor = 'main-green', class: className = "" } = Astro.props;
+const { borderColor = 'main-green', colorSet = 'grey', class: className = "" } = Astro.props;
 //<div class={`textCard ${className} `} style={`--border-color: var(--${borderColor})`}>
+import '../../styles/globals.css';
 ---
 
-<div class={`textCard ${className}`} style={`--border-color: var(--${borderColor})`}>
+<div class={`textCard ${className}`} style={`--border-color: var(--${borderColor}); --main-color: var(--main-${colorSet}); --light-color: var(--light-${colorSet}); --dark-color: var(--dark-${colorSet})`}>
     <slot />
 </div>
 
 <style>
   .textCard {
-    background-color: hwb(214 70% 20% / 0.223);
-    height: fit-content;
-    padding: 2.5rem;
+    background-color: var(--main-lgrey);
+    background-color: var(--main-lav);
+    background-color: var(--light-color);
+    padding: 0rem 2rem 0rem 2rem;
     border-radius: 15px;
-    border: 0rem solid var(--border-color);
+    border: 0.05rem solid #0000003d;
+    border: 0.02rem solid var(--border-color);
+    border: 0.00rem solid black;
     text-align: justify;
-    margin: 3rem 3rem 3rem 3rem;
+    transition: box-shadow 0.6s ease;
+  }
+  .textCard:hover {
+    box-shadow: 0 13px 33px rgba(0, 0, 0, 0.60);
+    text-align: justify;
+    transition: box-shadow 0.6s ease;
+  }
+  .textCard:hover {
+    box-shadow: 0 13px 33px rgba(0, 0, 0, 0.60);
+    transition: box-shadow 0.6s ease;
   }
 
-  .textCard :global(p) {
+  .textCard :global(p), .textCard :global(li){
     color: #000b00;
-    font-size: 1.1rem;
+    color: var(--main-darkgreen);
+    color: var(--dark-lav);
+    color: var(--dark-color);
+    font-weight: 500;
+    font-size: 1.4rem;
   }
+
+  .textCard :global(ul) {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+
   .textCard :global(h1) {
-    color: #002e04;
+    color: var(--main-darkgreen);
+    color: var(--dark-lav);
+    color: var(--dark-color);
     text-align: center;
     font-size: 3rem;
     padding-bottom: 0.3rem;
-    padding-top: 1.8rem;
+    padding-top: 2rem;
   }
+
   .textCard :global(h2) {
     color: #002e04;
+    color: var(--main-darkgreen);
     font-size: 2rem;
     padding-top: 1rem;
-    padding-bottom: -0.1rem;
+    padding-bottom: 1rem;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 0.08em;

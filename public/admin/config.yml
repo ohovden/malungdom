@@ -22,7 +22,7 @@ collections:
       - {label: "Tittel", name: "title", widget: "string"}
       - {label: "Dato", name: "date", widget: "datetime", time_format: false}
       - {label: "Lenkje", name: "slug", widget: "string", required: true}
-      - {label: "Bilete", name: "image", widget: "image"}
+      - {required: false, label: "Bilete", name: "image", widget: "image"}
       - {label: "Brødtekst", name: body, widget: "markdown"}
 
   - name: "event"
@@ -33,11 +33,31 @@ collections:
       - {label: "Tittel", name: "title", widget: "string"}
       - {label: "Dato", name: "date", widget: "datetime", time_format: false}
       - {label: "Stad", name: "place", widget: "string"}
-      - {label: "Bilete", name: "image", widget: "image"}
-      - {label: "Brødtekst", name: body, widget: "markdown"}
+      - {required: false, label: "Bilete", name: "image", widget: "image"}
+      - {required: false, label: "Brødtekst", name: body, widget: "markdown"}
+
+  - name: "lokallag"
+    label: "Lokallag"
+    folder: "src/content/lokallag"
+    create: true
+    fields:
+      - {label: "Namn", name: "name", widget: "string"}
+      - {label: "Stad", name: "place", widget: "string"}
+      - {required: false, label: "Leiar", name: "leader", widget: "string"}
+      - {required: false, label: "Kontakt", name: "contact", widget: "string"}
+      - {required: false, label: "Facebook", name: "facebook", widget: "string"}
+      - {required: false, label: "Instagram", name: "instagram", widget: "string"}
+      - {required: false, label: "Tiktok", name: "tiktok", widget: "string"}
+      - {required: false, label: "Dato skipa", name: "date", widget: "datetime", time_format: false}
+      - {required: false, label: "Bilete", name: "image", widget: "image"}
+      - {required: false, label: "Lagtype", name: "lagtype", widget: "select", options: ['Studentlag', 'Elevlag', 'Anna']}
+      - {required: false, label: "Aktiv", name: "active", widget: "select", options: ['Ja', 'Nei']}
+
+
 
 local_backend: true
 
 backend:
-  name: git-gateway
+  name: github
+  repo: ohovden/malungdom
   branch: main

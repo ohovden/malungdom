@@ -13,4 +13,8 @@ const hendingar = defineCollection({
 	loader: glob({ pattern: "*.md", base: "./src/content/hendingar"}),
 });
 
-export const collections = { fraasegner, artiklar, hendingar };
+const lokallag = defineCollection({
+	loader: glob({ pattern: "*.md", base: "./src/content/hendingar"}),
+});
+
+export const collections = { fraasegner, artiklar, hendingar, lokallag };

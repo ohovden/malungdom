@@ -1,12 +1,10 @@
 ---
-const { colorVar, path, text, width, classes } = Astro.props;
+const { colorSet, path, text, width, classes } = Astro.props;
 ---
 
 <a href={path} class='w-full'>
-<div class={`button w-full ${classes}`} style={`--button-color: var(--${colorVar}); --button-width: ${width}`}>
-    <p>
-        { text }
-    </p>
+<div class={`button w-full ${classes}`} style={`--button-color: var(--main-${colorSet}); --button-width: ${width}`}>
+    <slot />
 </div>
 </a>
 
@@ -20,13 +18,15 @@ const { colorVar, path, text, width, classes } = Astro.props;
         padding-top: 12px;
         border-radius: 4px;
         box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        transition: box-shadow 0.6s ease, transform 0.6s ease;
     }
     .button:hover {
         transform: scale(1.04);
         box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        transition: box-shadow 0.6s ease, transform 0.6s ease;
     }
 
-    .button p {
+    .button :global(p) {
         font-family: 'Plus Jakarta Sans', sans-serif;
         text-align: center;
         color: #fff;

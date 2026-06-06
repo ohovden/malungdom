@@ -28,17 +28,14 @@ import Menu from './menu.jsx';
 ---
 
 <div class='outerContainer'>
+	<div id='prefetcher' class='hidden'>
+        {pages.map(page => (<a href={page.path} data-astro-prefetch/>))}
+	</div>
     <div class='imgContainer'>
         <a href='/'><img src='/nmu-logo.svg' alt='Logo til Norsk Målungdom' class='pl-2'></a>
     </div>
     <div class='pagesContainer md:pr-15'>
         <Menu pages = {pages} activePage = {pagePath} client:idle/>
-        <div class='hidden md:block'>
-            <Button path='https://nettbutikk.solidus.no/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar' 
-                    colorVar ='main-lav' 
-                    text='Meld deg inn!' 
-                    width='15rem'/>
-        </div>
     </div>
 </div>
 
@@ -55,7 +52,6 @@ import Menu from './menu.jsx';
         background-color: var(--main-blue);
         padding-top: 5px;
         padding-bottom: 5px;
-        box-shadow: 0 15px 24px rgba(0, 0, 0, 0.14);
         z-index: 100;
     }
 
