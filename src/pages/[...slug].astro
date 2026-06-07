@@ -5,9 +5,10 @@ import Card from '../components/shared/card.astro';
 import '../styles/globals.css';
 
 export async function getStaticPaths() {
-    const articles = await getCollection('artiklar');
+    const [articles, hendingar] = await Promise.all([getCollection('artiklar'), getCollection('hendingar')]);
+    const allItems = [...articles, ...hendingar];
 
-    return articles.map(article => ({
+    return allItems.map(article => ({
         params: { slug: article.data.slug.toString() },
         props: { article }
     }))
@@ -18,9 +19,10 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 
-const articles = await getCollection('artiklar');
+const [articles, hendingar] = await Promise.all([getCollection('artiklar'), getCollection('hendingar')]);
+const allItems = [...articles, ...hendingar];
 const thisSlug = article.data.slug.toString();
-let subpages = articles
+let subpages = allItems
     .filter((page) => page.data.slug.toString().startsWith(thisSlug) && page.data.slug.toString() != thisSlug)
     .map((page) => ({ title: page.data.title as string, slug: page.data.slug as string }))
 
@@ -36,7 +38,7 @@ let subpages = articles
     </Card>
     )}
 
-    <div class='px-2 w-full max-w-7xl py-2 flex m-auto justify-center'>
+    <div class='px-2 w-full max-w-4xl py-2 flex m-auto justify-center'>
         <Card>
             <div class='content'>
                 <Content/>
@@ -51,6 +53,7 @@ let subpages = articles
     .content p{
         padding-bottom: 2rem;
         line-height: 2.5rem;
+        font-size: 1.5rem;
     }
     .content a {
         @apply inline-block transition-all duration-150 hover:translate-x-1;

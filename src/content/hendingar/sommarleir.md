@@ -3,6 +3,7 @@ title: Sommarleir
 date: 2026-07-08
 enddate: 2026-06-12
 place: Nordvestlandet Folkehøgskole
+slug: sommarleir-2026
 image: /src/assets/images/sumarleir50.jpg
 ---
 
