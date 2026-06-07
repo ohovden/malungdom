@@ -27,8 +27,6 @@ Du treng ikkje vera medlem for å delta på sommarleir. Du treng berre vera inte
 
 - Føredrag frå Erlend Mørch om språk
 
-![](/src/assets/images/erlendaasen.png)
-
 - Svenska Finlands Folkting om stoda til finlandssvensk
 - Kurs i lokaldans, nordmørsspringar
 - Innleiing frå Natur og Ungdom om miljø- og målrørsla i EU-kampen
