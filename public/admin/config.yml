@@ -34,6 +34,7 @@ collections:
       - {label: "Startdato", name: "date", widget: "datetime", time_format: false}
       - {required: false, label: "Sluttdato", name: "enddate", widget: "datetime", time_format: false}
       - {label: "Stad", name: "place", widget: "string"}
+      - {label: "Lenkje", name: "slug", widget: "string", required: true}
       - {required: false, label: "Bilete", name: "image", widget: "image"}
       - {required: false, label: "Brødtekst", name: body, widget: "markdown"}
 
