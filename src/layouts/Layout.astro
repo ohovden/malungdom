@@ -1,7 +1,7 @@
 ---
 import '../styles/globals.css'
 
-const { currentPage } = Astro.props;
+const { currentPage, class: className } = Astro.props;
 import Banner from '../components/banner/banner.astro'
 ---
 
@@ -35,7 +35,9 @@ import Banner from '../components/banner/banner.astro'
 			<Banner pagePath={currentPage} />
 		</div>
 		<div class='bannerH'/>
-		<slot />
+		<div id='master-div' class={`w-full ${className}`}>
+			<slot />
+		</div>
 	</body>
 </html>
 
@@ -49,6 +51,12 @@ import Banner from '../components/banner/banner.astro'
 	}
 	
 	.bannerH {
-		height: 6rem;
+		height: var(--banner-h-desktop);
+	}
+
+	@media(max-width: 768px) {
+		.bannerH {
+			height: var(--banner-h-mobile);
+		}
 	}
 </style>

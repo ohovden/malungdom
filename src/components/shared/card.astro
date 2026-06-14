@@ -2,34 +2,8 @@
 const { borderColor = 'main-green', colorSet = 'grey', class: className = "" } = Astro.props;
 //<div class={`textCard ${className} `} style={`--border-color: var(--${borderColor})`}>
 import '../../styles/globals.css';
----
 
-<div class={`textCard ${className}`} style={`--border-color: var(--${borderColor}); --main-color: var(--main-${colorSet}); --light-color: var(--light-${colorSet}); --dark-color: var(--dark-${colorSet})`}>
-    <slot />
-</div>
-
-<style>
-  .textCard {
-    background-color: var(--main-lgrey);
-    background-color: var(--main-lav);
-    background-color: var(--light-color);
-    padding: 0rem 2rem 0rem 2rem;
-    border-radius: 5px;
-    border: 0.05rem solid #0000003d;
-    border: 0.02rem solid var(--border-color);
-    border: 0.00rem solid black;
-    text-align: justify;
-    transition: box-shadow 0.6s ease;
-  }
-  .textCard:hover {
-    box-shadow: 0 13px 33px rgba(0, 0, 0, 0.60);
-    text-align: justify;
-    transition: box-shadow 0.6s ease;
-  }
-  .textCard:hover {
-    box-shadow: 0 13px 33px rgba(0, 0, 0, 0.60);
-    transition: box-shadow 0.6s ease;
-  }
+/*
 
   .textCard :global(p), .textCard :global(li){
     color: #000b00;
@@ -64,7 +38,6 @@ import '../../styles/globals.css';
     font-weight: 300;
     letter-spacing: 0.08em;
   }
-
   @media(max-width: 768px) {
     .textCard {
       text-align: left;
@@ -80,4 +53,38 @@ import '../../styles/globals.css';
       padding-bottom: 1.5rem;
     }
   }
+<div class={`textCard ${className}`} style={`--border-color: var(--${borderColor}); --main-color: var(--main-${colorSet}); --light-color: var(--light-${colorSet}); --dark-color: var(--dark-${colorSet})`}>
+*/
+
+---
+
+<div class={`textCard ${className}`} style={`--bg-color: ${colorSet}`}>
+    <slot />
+</div>
+
+<style>
+  .textCard {
+    background-color: var(--main-lgrey);
+    background-color: var(--main-lav);
+    background-color: var(--light-color);
+    background-color: var(--main-color);
+    background-color: var(--bg-color);
+    border: 0.05rem solid #0000003d;
+    border: 0.00rem solid black;
+    text-align: justify;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.4);
+    transition: box-shadow 0.6s ease;
+  }
+  .textCard:hover {
+    box-shadow: 0 10px 33px rgba(0, 0, 0, 0.90);
+    transition: box-shadow 0.3s ease;
+  }
+
+  :global(h1) {
+
+  }
+  :global(p) {
+
+  }
+
 </style>

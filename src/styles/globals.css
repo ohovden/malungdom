@@ -43,6 +43,9 @@
     --main-dgray: #6ba978;
     --main-dgray: #40BF9A;
 
+    --banner-h-desktop: 6rem;
+    --banner-h-mobile: 4rem;
+
   }
 
   .dark {
