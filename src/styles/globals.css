@@ -2,8 +2,8 @@
 @import "tailwindcss";
 
 @layer base {
-  html {
-    font-size: clamp(18px, 1.8vw, 16px);
+  p {
+    font-size: clamp(18px, 1.8vw, 24px);
   }
 
   :root {
@@ -137,7 +137,7 @@
 	}
 }
 .text-link {
-  @apply inline-block transition-all duration-150 hover:translate-x-1;
+  @apply inline-block transition-all duration-150 hover:translate-x-1 font-bold;
   color: var(--text-lav);
 }
 

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Internasjonalt program"
 date: 
 slug: politikk/program/internasjonalt-program
 image: 

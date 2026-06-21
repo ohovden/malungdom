@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Arbeidsprogram 2025-2026"
 date: 
 slug: politikk/program/arbeidsprogram/2025-2026
 image: 

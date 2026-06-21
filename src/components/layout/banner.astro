@@ -1,0 +1,202 @@
+---
+const pages = [
+    {
+        name: 'Om NMU',
+        path: '/omnmu'
+    },
+    {
+        name: 'Politikk',
+        path: '/politikk'
+    },
+    {
+        name: 'Krambua',
+        path: '/krambua'
+    },
+    {
+        name: 'Undersider',
+        path: '/undersider'
+    }
+];
+
+const { pagePath } = Astro.props;
+import '../../styles/globals.css';
+import Button from '../shared/button.astro'
+
+
+//{pages.map((page) => <a href={page.path} data-text={page.name} class:list={['link', {'activepage': pagePath == page.path}]}>{page.name}</a>)}
+---
+
+<div class='outerContainer'>
+	<div id='prefetcher' class='hidden'>
+        {pages.map(page => (<a href={page.path} data-astro-prefetch/>))}
+	</div>
+    <div class='h-full'>
+        <a id='mobile-logo-a' href='/' class='absolute h-full visible md:invisible'>
+            <div id='div-to-center-mobile-logo' class='flex h-full items-center '>
+                <img src='/nmu-logo.svg' alt='Logo til Norsk Målungdom' class='h-5/6'>
+            </div>
+        </a>
+        <a id='desktop-logo-a' href='/' class='h-full invisible md:visible'>
+            <img src='/nmu-logo.svg' alt='Logo til Norsk Målungdom' class='pl-2 h-full'>
+        </a>
+    </div>
+    <div class='hidden md:flex md:pr-15 md:gap-10 items-center'>
+        <!--Menu pages = {pages} activePage = {pagePath} client:idle/-->
+        <nav class='flex flex-row gap-10'>
+            {pages.map((page) => (
+                <a href={page.path} class='link'>{page.name}</a>
+            ))}
+        </nav>
+        <div id='banner-button' class='cta-hidden flex flex-row gap-10'>
+            <Button colorSet='lav'><p>Meld deg inn!</p></Button>
+        </div>
+    </div>
+    <div class='md:hidden'>
+        <div class='hidden md:flex md:flex-row gap-7'>
+            {pages.map(page => <a
+                href={page.path}
+                class={`link ${pagePath === page.path ? 'activepage' : ''}`}
+                data-text={page.name}>
+                    {page.name}
+            </a>)}
+        </div>    
+        <div class={`h-full md:hidden flex flex-col justify-start p-0 pr-7`} >
+            <!--div onClick={() => {setMenuOpen(!menuOpen)}}>☰</div-->
+            <button id='hamburger-icon' class='h-full items-center align-center text-white text-2xl'>☰</button>
+            <div id='dropdown-menu' class={`md:hidden fixed flex flex-col right-0 z-100 pr-0 pt-0`}>
+                {pages.map((page, i) => <a
+                    href={page.path}
+                    class='link'
+                    data-text={page.name}>
+                        <div class='bg-black z-150'>
+                            {page.name}
+                        </div>
+                </a>)}
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<style>
+    body {
+        margin: 0;
+    }
+
+    #banner-button {
+        width: 15rem;
+        overflow: hidden;
+        transition: width 0.5s;
+    }
+    #banner-button.cta-hidden {
+        width: 0rem;
+        overflow: hidden;
+        transition: width 0.5s;
+        pointer-events: none;
+    }
+
+    #dropdown-menu.menu-shown {
+        position: fixed;
+        top: var(--banner-h-mobile);
+        height: 15rem;    
+        transition: height 0.5s;
+        overflow: hidden;
+    }
+    #dropdown-menu {
+        height: 0rem;    
+        top: var(--banner-h-mobile);
+        transition: height 0.5s;
+        overflow: hidden;
+        pointer-events: none;
+
+    }
+
+    #hamburger-icon {
+        rotate: 0deg;
+        transition: rotate 0.5s;
+    }
+    #hamburger-icon.rotated {
+        rotate: 90deg;
+        transition: rotate 0.5s;
+    }
+
+    .outerContainer {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        height: var(--banner-h-desktop);
+        background-color: var(--main-blue);
+        padding-top: 0px;
+        padding-bottom: 0px;
+        z-index: 100;
+    }
+
+    .imgContainer {
+        padding-left: 30px;
+        box-sizing: border-box;
+        height: 100%;
+    }
+
+    .imgContainer a img {
+        height: 100%;
+        width: auto;
+        display: block;
+    }
+
+    .pagesContainer {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 2.5rem;
+    }
+
+    .link {
+        color: #fff;
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        font-size: 1.7rem;
+        font-weight: 500;
+        text-decoration: none;
+        transform: translate(0px);
+        transition: transform 0.2s;
+    }
+
+    .link:hover {
+        color: #ddd;
+        transform: translate(10px);
+        transition: transform 0.2s;
+    }
+
+    .activecont {
+    }
+
+    .activepage {
+        color: #fff;
+        -webkit-text-stroke: 0.2px #fff;
+        border-bottom: 2px solid #eee ;
+        margin-bottom: -2px;
+    }
+
+    @media(max-width: 768px) {
+        .outerContainer {
+            height: var(--banner-h-mobile);
+        }
+    }
+</style>
+
+<script>
+    let burgerClosed = true;
+
+    document.querySelector('#banner-button')?.classList.remove('cta-hidden');
+    document.getElementById('hamburger-icon')?.classList.remove('rotated');
+    document.getElementById('dropdown-menu')?.classList.remove('menu-shown');
+
+    document.querySelector('#hamburger-icon')?.addEventListener('click', () => {
+            console.log('burgermeny trykt');
+            burgerClosed = !burgerClosed;
+            console.log('burgerClosed = ', burgerClosed);
+            document.getElementById('dropdown-menu')?.classList.toggle('menu-shown');
+            document.getElementById('hamburger-icon')?.classList.toggle('rotated');
+        }   
+    )
+
+</script>

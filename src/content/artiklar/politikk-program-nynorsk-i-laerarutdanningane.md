@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Nynorsk i lærar\u00ADutdanningane"
 date: 
 slug: politikk/program/nynorsk-i-laerarutdanningane
 image: 

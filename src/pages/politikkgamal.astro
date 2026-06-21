@@ -1,0 +1,101 @@
+---
+import Welcome from '../components/Welcome.astro';
+import Layout from '../layouts/Layout.astro';
+import Button from '../components/shared/button.astro'
+import Card from '../components/shared/card.astro';
+import FraasegnModal from '../components/politikk/fraasegner';
+
+import { getCollection } from 'astro:content';
+
+const fraasegner = await getCollection('fraasegner');
+
+const politiskProgram = [
+	{
+		title: 'Arbeidsprogram',
+		path: '/politikk/program/arbeidsprogram'
+	},
+	{
+		title: 'Internasjonalt Program',
+		path: '/politikk/program/internasjonalt-program'
+	},
+	{
+		title: 'Program for Noreg som fleirspråkleg samfunn',
+		path: '/politikk/program/noreg-som-fleirsprakleg-samfunn'
+	},
+	{
+		title: 'Nynorsk i lærarutdanningane',
+		path: '/politikk/program/nynorsk-i-laerarutdanningane'
+	},
+	{
+		title: 'Språk i akademia og høgare utdanning',
+		path: '/politikk/program/sprak-i-akademia-og-høgare-utdanning'
+	},
+	{
+		title: 'Språk i skulen',
+		path: '/politikk/program/sprak-i-skulen'
+	},
+	{
+		title: 'Språk i ein digital kvardag',
+		path: '/politikk/program/sprak-i-ein-digital-kvardag'
+	},
+	{
+		title: 'Talemålet og nynorsken',
+		path: '/politikk/program/talemalet-og-nynorsken'
+	},
+]
+---
+<html>
+	<body>
+		<Layout currentPage='/politikk'/>
+		<div>
+			<main>
+				<FraasegnModal fraasegner = {fraasegner} client:load/>
+				<div class='grid grid-cols-1 md:grid-cols-2'>
+					<img src='/marentalar.jpg' />
+					<div class='flex flex-col items-center justify-between p-35'>
+						<h1 class='text-7xl'>Den politiske verksemda vår</h1>
+						<p>Norsk Målungdom verjar og fremjar interessene til nynorsk og dialektane og samarbeider aktivt med Noregs Mållag for å få politiske gjennomslag for nynorsk.
+						<br/>
+						<br/>
+						NMU utformar sin eigen politikk og arbeidsprogram og skriv fråsegner om aktuelle tema som du kan lesa her.</p>
+					</div>
+				</div>
+				<div class='grid grid-cols-1 md:grid-cols-2 slide-up delay-2 p-30 gap-30'>
+					<Card> <div class='m-4'>
+						<h1>Politisk program</h1>
+						<p>Dei politiske programma legg grunnlaget for organisasjonen. Programma seier noko om kva me meiner i ulike politiske spørsmål..</p>
+						{politiskProgram.map(({title, path}) => (
+							<div class="my-4 rounded-md bg-[var(--main-lgrey)] border-1 border-[var(--main-lav)]">
+								<a href = {path}>
+								<p class='p-2 text-2xl inline-block transition-all duration-150 hover:translate-x-1 w-full'>
+									{title} >
+								</p>
+								</a>
+							</div>
+
+						))
+
+						}
+					</div></Card>
+					<Card> <div class='m-4'>
+						<h1>Les fråsegnene våre</h1>
+						<p> Landsmøta og landsstyret vedtek kvart år fråsegner om aktuelle målpolitiske tema. Me legg dei ut på nettsida etter kvart som dei blir reinskrivne.</p>
+						<br/>
+							{fraasegner.map((post, i) => (
+								<div id=`stmt-${i}` class="my-4 rounded-md bg-[var(--main-lgrey)] border-1 border-[var(--main-lav)]">
+									<p class='p-2 text-2xl inline-block transition-all duration-150 hover:translate-x-1 w-full'>
+										{post.data.title} >
+									</p>
+								</div>
+							))}
+					</div></Card>
+				</div>
+			</main>
+		</div>
+		</Layout>
+	</body>
+</html>
+
+<script>
+
+</script>

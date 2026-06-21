@@ -14,22 +14,21 @@ export async function getStaticPaths() {
     }))
 }
 
-
-
 const { article } = Astro.props;
 const { Content } = await render(article);
 
 const [articles, hendingar] = await Promise.all([getCollection('artiklar'), getCollection('hendingar')]);
 const allItems = [...articles, ...hendingar];
 const thisSlug = article.data.slug.toString();
+
 let subpages = allItems
     .filter((page) => page.data.slug.toString().startsWith(thisSlug) && page.data.slug.toString() != thisSlug)
     .map((page) => ({ title: page.data.title as string, slug: page.data.slug as string }))
 
----
+/*
 
 <Layout>
-    <h1 class='mt-15 text-5x text-center'>{article.data.title}</h1>
+    <h1 class='my-15 text-7xl text-center'>{article.data.title}</h1>
     {subpages.length > 0 && ( 
     <Card>
         <div class='content'>
@@ -38,22 +37,70 @@ let subpages = allItems
     </Card>
     )}
 
-    <div class='px-2 w-full max-w-4xl py-2 flex m-auto justify-center'>
-        <Card>
+    {article.data.image ? (<img src={article.data.image} >) : <div/>}
+
+    <div class='px-2 w-full max-w-7xl py-2 m-auto'>
+        <Card colorSet='var(--light-grey)' class='p-10 rounded-2xl'>
             <div class='content'>
                 <Content/>
             </div>
         </Card>
     </div>
 </Layout>
+*/
+---
+
+<Layout>
+    <div class='w-full max-w-4xl mx-10 md:m-auto text-center md:gap-20 pt-20 grid grid-cols-1'>
+        <h1 class='text-9xl'>{article.data.title}</h1>
+        {article.data.image ? <img src={article.data.image} class='w-full'> : <div/>}
+        <div class='content'>
+            <Content />
+        </div>
+    </div>
+</Layout>
 
 <style is:global>
     @reference '../styles/globals.css';
 
-    .content p{
-        padding-bottom: 2rem;
+    .content {
+        text-align: left;
+        display: grid;
+        gap: 3rem;
+    }
+
+    .content p, .content ul, .content ol {
         line-height: 2.5rem;
         font-size: 1.5rem;
+    }
+
+    .content ul > li {
+        text-indent: -5px;
+    }
+    .content ul > li:before {
+        content: '—';
+        padding-right: 1rem;
+        text-indent: -5px;
+    }
+    .content ol {
+        list-style-type: decimal;
+        list-style-position: inside;
+        
+    }
+
+    .content h1 {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 3rem;
+    }
+    .content h2 {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 2.5rem;
+        font-weight: 200;
+    }
+    .content small {
+        font-size: 1.5rem;
+        font-style: italic;
+        font-weight: 200;
     }
     .content a {
         @apply inline-block transition-all duration-150 hover:translate-x-1;

@@ -11,7 +11,7 @@ export default function( {pages, activePage} ) {
 
     return (
         <div className='relative w-full'>
-            <div className='hidden md:flex gap-7'>
+            <div className='hidden md:flex md:flex-row gap-7'>
                 {pagesArray.map(page => <a
                     href={page.path}
                     className={`${styles.link} ${activePage === page.path ? styles.activepage : ''}`}

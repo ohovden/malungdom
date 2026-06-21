@@ -11,7 +11,17 @@ export default defineConfig({
   },
 
   vite: {
-      plugins: [tailwindcss()],
+      plugins: [tailwindcss(),
+        {
+          name: 'fix-ordinals',
+          transform(code, id) {
+            if (id.endsWith('.md')) {
+              //return code.replace(/^(\d{1,2})\.(\s)/gm, '$1\\.$2')
+              return code.replace('har', 'hev')
+            }
+          }
+        }
+      ],
       server: {
         watch: {
           usePolling: true,

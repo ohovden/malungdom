@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Språk i ein digital kvardag"
 date: 
 slug: politikk/program/sprak-i-ein-digital-kvardag
 image: 

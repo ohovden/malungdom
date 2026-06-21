@@ -1,9 +1,11 @@
 ---
 import Layout from '@layouts/Layout.astro';
 import CTAcard from '@components/index/CTAcard.astro';
+
+const { id: divId } = Astro.props;
 ---
 
-<div>
+<div id={divId}>
     <div class='slide-up delay-2 w-full h-auto'>
     		<div id='hero-gradient' class='absolute inset-0 w-full h-full bg-linear-to-t from-(--main-lav)/30 via-white/5 to-black/50'/>
             <div id='hero-foreground' class='absolute w-full h-full flex flex-col justify-between'>

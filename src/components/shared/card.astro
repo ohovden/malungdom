@@ -1,5 +1,5 @@
 ---
-const { borderColor = 'main-green', colorSet = 'grey', class: className = "" } = Astro.props;
+const { borderColor = 'main-green', borderwidth  = '0px', colorSet = 'grey', class: className = "" } = Astro.props;
 //<div class={`textCard ${className} `} style={`--border-color: var(--${borderColor})`}>
 import '../../styles/globals.css';
 
@@ -58,7 +58,7 @@ import '../../styles/globals.css';
 
 ---
 
-<div class={`textCard ${className}`} style={`--bg-color: ${colorSet}`}>
+<div class={`textCard ${className}`} style={`--bg-color: ${colorSet}; --border-width: ${borderwidth}`}>
     <slot />
 </div>
 
@@ -69,8 +69,8 @@ import '../../styles/globals.css';
     background-color: var(--light-color);
     background-color: var(--main-color);
     background-color: var(--bg-color);
-    border: 0.05rem solid #0000003d;
     border: 0.00rem solid black;
+    border: var(--border-width) solid var(--main-green);
     text-align: justify;
     box-shadow: 0 5px 10px rgba(0,0,0,0.4);
     transition: box-shadow 0.6s ease;

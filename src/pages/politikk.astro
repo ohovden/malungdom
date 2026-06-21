@@ -11,90 +11,90 @@ const fraasegner = await getCollection('fraasegner');
 
 const politiskProgram = [
 	{
-		title: 'Arbeidsprogram',
-		path: '/politikk/program/arbeidsprogram'
+		title: 'Arbeids\u00ADprogram',
+		path: '/politikk/program/arbeidsprogram/2025-2026',
+		image: '/politikk/kalender.png'
 	},
 	{
-		title: 'Internasjonalt Program',
-		path: '/politikk/program/internasjonalt-program'
+		title: 'Inter\u00ADnasjonalt Program',
+		path: '/politikk/program/internasjonalt-program',
+		image: '/politikk/mangeflag.png'
 	},
 	{
-		title: 'Program for Noreg som fleirspråkleg samfunn',
-		path: '/politikk/program/noreg-som-fleirsprakleg-samfunn'
+		title: 'Program for Noreg som fleir\u00ADspråkleg samfunn',
+		path: '/politikk/program/noreg-som-fleirsprakleg-samfunn',
+		image: '/politikk/samisk.png'
 	},
 	{
-		title: 'Nynorsk i lærarutdanningane',
-		path: '/politikk/program/nynorsk-i-laerarutdanningane'
+		title: 'Nynorsk i lærar\u00ADutdanning',
+		path: '/politikk/program/nynorsk-i-laerarutdanningane',
+		image: '/politikk/kalender.png'
+
 	},
 	{
 		title: 'Språk i akademia og høgare utdanning',
-		path: '/politikk/program/sprak-i-akademia-og-høgare-utdanning'
+		path: '/politikk/program/sprak-i-akademia-og-høgare-utdanning',
+		image: '/politikk/kalender.png'
+
 	},
 	{
 		title: 'Språk i skulen',
-		path: '/politikk/program/sprak-i-skulen'
+		path: '/politikk/program/sprak-i-skulen',
+		image: '/politikk/kalender.png'
+
 	},
 	{
 		title: 'Språk i ein digital kvardag',
-		path: '/politikk/program/sprak-i-ein-digital-kvardag'
+		path: '/politikk/program/sprak-i-ein-digital-kvardag',
+		image: '/politikk/kalender.png'
+
 	},
 	{
 		title: 'Talemålet og nynorsken',
-		path: '/politikk/program/talemalet-og-nynorsken'
+		path: '/politikk/program/talemalet-og-nynorsken',
+		image: '/politikk/kalender.png'
+
 	},
 ]
 ---
-<html>
-	<body>
-		<Layout currentPage='/politikk'/>
-		<div>
-			<main>
-				<FraasegnModal fraasegner = {fraasegner} client:load/>
-				<div class='grid grid-cols-1 md:grid-cols-2'>
-					<img src='/marentalar.jpg' />
-					<div class='flex flex-col items-center justify-between p-35'>
-						<h1 class='text-7xl'>Den politiske verksemda vår</h1>
-						<p>Norsk Målungdom verjar og fremjar interessene til nynorsk og dialektane og samarbeider aktivt med Noregs Mållag for å få politiske gjennomslag for nynorsk.
-						<br/>
-						<br/>
-						NMU utformar sin eigen politikk og arbeidsprogram og skriv fråsegner om aktuelle tema som du kan lesa her.</p>
-					</div>
-				</div>
-				<div class='grid grid-cols-1 md:grid-cols-2 slide-up delay-2 p-30 gap-30'>
-					<Card> <div class='m-4'>
-						<h1>Politisk program</h1>
-						<p>Dei politiske programma legg grunnlaget for organisasjonen. Programma seier noko om kva me meiner i ulike politiske spørsmål..</p>
-						{politiskProgram.map(({title, path}) => (
-							<div class="my-4 rounded-md bg-[var(--main-lgrey)] border-1 border-[var(--main-lav)]">
-								<a href = {path}>
-								<p class='p-2 text-2xl inline-block transition-all duration-150 hover:translate-x-1 w-full'>
-									{title} >
-								</p>
-								</a>
-							</div>
 
-						))
-
-						}
-					</div></Card>
-					<Card> <div class='m-4'>
-						<h1>Les fråsegnene våre</h1>
-						<p> Landsmøta og landsstyret vedtek kvart år fråsegner om aktuelle målpolitiske tema. Me legg dei ut på nettsida etter kvart som dei blir reinskrivne.</p>
-						<br/>
-							{fraasegner.map((post, i) => (
-								<div id=`stmt-${i}` class="my-4 rounded-md bg-[var(--main-lgrey)] border-1 border-[var(--main-lav)]">
-									<p class='p-2 text-2xl inline-block transition-all duration-150 hover:translate-x-1 w-full'>
-										{post.data.title} >
-									</p>
-								</div>
-							))}
-					</div></Card>
-				</div>
-			</main>
+<Layout currentPage='/politikk'>
+	<!--Hero-seksjon -->
+	<div class='grid grid-cols-1 md:grid-cols-2 bg-[var(--light-grey)]'>
+		<img src='/marentalar.jpg' />
+		<div class='flex justify-center mx-10 md:mx-auto my-10 md:my-auto text-left md:text-justify italic '>
+			<div class='flex flex-col w-full max-w-3xl gap-10'>
+				<h1 class='text-left md:text-center text-5xl md:text-7xl not-italic'>Den politiske verksemda vår</h1>
+				<p>Norsk Målungdom verjar og fremjar interessene til nynorsk og dialektane og samarbeider aktivt med Noregs Mållag for å få politiske gjennomslag for nynorsk.</p>
+				<p>NMU utformar sin eigen politikk og arbeidsprogram og skriv fråsegner om aktuelle tema som du kan lesa her.
+				</p>
+			</div>
 		</div>
-		</Layout>
-	</body>
-</html>
+	</div>
+	<!--Vanleg seksjon-->
+	<div class='flex flex-col text-center gap-20 md:py-20 w-full max-w-[1400px] m-auto'>
+		<!--Element for arbeidsprogram-->
+		<div class='w-fit m-auto'><h1 class='text-7xl px-8 py-5'>Politiske program</h1></div>
+		<Card colorSet='var(--light-grey)' borderwidth='3px' class='grid grid-cols-1 md:grid-cols-2 rounded-2xl w-2/3 mx-auto'>
+			<div class='p-5 text-left'>
+				<p class='italic'>NMU vedtar ulike politiske program som legg grunnlag for organisajonen. Dei politiske programma er tankegrunnlaget til dei politiske standpunkta våre.</p>
+			</div>
+			<img src=''/>
+		</Card>
+		<nav class='grid grid-cols-1 md:grid-cols-3 gap-5 md:gap-10 mx-5'>
+				{politiskProgram.map((program) => ( 
+					<a href={program.path} class='w-full aspect-2/1 md:aspect-square ease-in-out isolate'>
+						<Card colorSet='var(--main-blue)' class='h-full w-full rounded-3xl grid items-center overflow-clip relative'>
+							<img class='h-full object-cover z-0' src={program.image} />
+							<div class='absolute inset-0 flex items-center justify-center pt-0 z-10'>
+								<p class='text-white bg-[var(--main-green)] opacity-98 w-full mx-5 rounded-2xl p-5 font-bold text-4xl text-center'>{program.title}</p>
+							</div>
+						</Card>
+					</a>
+				))}
+		</nav>
+	</div>
+</Layout>
 
 <script>
 

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Språk i akademia"
 date: 
 slug: politikk/program/sprak-i-akademia
 image: 

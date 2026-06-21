@@ -1,9 +1,9 @@
 ---
-const { colorSet, path, text, width, classes } = Astro.props;
+const { colorSet, path, text, width, class: className } = Astro.props;
 ---
 
 <a href={path} class='w-full'>
-<div class={`button w-full ${classes}`} style={`--button-color: var(--main-${colorSet}); --button-width: ${width}`}>
+<div class={`button w-full ${className}`} style={`--button-color: var(--main-${colorSet}); --button-width: ${width}`}>
     <slot />
 </div>
 </a>
@@ -19,6 +19,7 @@ const { colorSet, path, text, width, classes } = Astro.props;
         border-radius: 4px;
         box-shadow: 0 1px 3px rgba(0,0,0,0.2);
         transition: box-shadow 0.6s ease, transform 0.6s ease;
+        white-space: nowrap;
     }
     .button:hover {
         transform: scale(1.04);

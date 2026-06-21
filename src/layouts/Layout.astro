@@ -2,7 +2,8 @@
 import '../styles/globals.css'
 
 const { currentPage, class: className } = Astro.props;
-import Banner from '../components/banner/banner.astro'
+import Banner from '@components/layout/banner.astro';
+import Footer from '@components/layout/footer.astro';
 ---
 
 <!doctype html>
@@ -38,6 +39,7 @@ import Banner from '../components/banner/banner.astro'
 		<div id='master-div' class={`w-full ${className}`}>
 			<slot />
 		</div>
+		<Footer />
 	</body>
 </html>
 

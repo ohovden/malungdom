@@ -27,8 +27,8 @@ const goalCards = [
 
 <Layout currentPage='/' class=''>
     <Hero id='hero-section'/>
-    <div id='margined-master' class='flex flex-col text-center gap-20 py-20 px-5 md:px-30'>
-        <h1 class='text-7xl'>Kva kjempar me for?</h1>
+    <div id='margined-master' class='flex flex-col text-center gap-20 md:py-20 w-full max-w-[1400px] m-auto'>
+        <h1 class='text-5xl md:text-7xl'>Kva kjempar me for?</h1>
         <div id='goal-cards' class='h-fit grid grid-cols-1 md:grid-cols-3 gap-15'>
             {goalCards.map( ({ head, image, link }) => (
                 <Card colorSet='var(--main-blue)' class='grid grid-rows-[1fr_auto_auto] gap-10 md:gap-20 py-10 px-10 rounded-2xl '>
@@ -41,9 +41,26 @@ const goalCards = [
             ))}
         </div>
         <div id='hending-section' class='grid grid-cols-1 md:grid-cols-3 gap-20'>
-            <h1 class='text-left text-6xl col-span-1'>Kvissleis skjer fram&shy;over?</h1>
-            <Hendingar class='col-span-2' />
+            <h1 class='text-center mx-auto md:text-left text-5xl md:text-6xl md:pt-8 md:col-span-1'>Kvissleis skjer fram&shy;over?</h1>
+            <Hendingar class='md:col-span-2' />
         </div>
     </div>
-
 </Layout>
+
+<script>
+    const hero = document.getElementById('hero-section');
+    const cta = document.getElementById('banner-button');
+
+    console.log('Hallo, verd!')
+    console.log('cta:', cta)
+    console.log('hero:', hero)
+
+    const observer = new IntersectionObserver(
+        ([entry]) => {
+            cta?.classList.toggle('cta-hidden', entry.isIntersecting);
+        },
+        { threshold: 0.1}
+    )
+
+    if (hero) observer.observe(hero);
+</script>

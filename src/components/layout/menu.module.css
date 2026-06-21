@@ -4,6 +4,7 @@
     font-size: 1.7rem;
     font-weight: 500;
     text-decoration: none;
+    white-space: nowrap;
 }
 
 .link:hover {

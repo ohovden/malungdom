@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Talemålet og nynorsken"
 date: 
 slug: politikk/program/talemalet-og-nynorsken
 image: 

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Noreg som fleirspråkleg samfunn"
 date: 
 slug: politikk/program/noreg-som-fleirsprakleg-samfunn
 image: 
