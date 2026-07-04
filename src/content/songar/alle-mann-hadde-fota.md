@@ -16,6 +16,7 @@ likso vel som ein annan mann.
 
 Alle mann hadde fota.
 
+
 Alle mann hadde arma',min mann hadde ingen,
 
 tok eg meg eit par tarma', og gjorde min mann arma'.
