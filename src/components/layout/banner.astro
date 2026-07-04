@@ -12,10 +12,6 @@ const pages = [
         name: 'Krambua',
         path: '/krambua'
     },
-    {
-        name: 'Undersider',
-        path: '/undersider'
-    }
 ];
 
 const { pagePath } = Astro.props;
@@ -44,10 +40,10 @@ import Button from '../shared/button.astro'
         <!--Menu pages = {pages} activePage = {pagePath} client:idle/-->
         <nav class='flex flex-row gap-10'>
             {pages.map((page) => (
-                <a href={page.path} class='link'>{page.name}</a>
+                <a href={page.path} class='link link-ver'>{page.name}</a>
             ))}
         </nav>
-        <div id='banner-button' class='cta-hidden flex flex-row gap-10'>
+        <div id='banner-button' class='banner-button cta-hidden no-transition flex flex-row gap-10'>
             <Button colorSet='lav'><p>Meld deg inn!</p></Button>
         </div>
     </div>
@@ -61,12 +57,11 @@ import Button from '../shared/button.astro'
             </a>)}
         </div>    
         <div class={`h-full md:hidden flex flex-col justify-start p-0 pr-7`} >
-            <!--div onClick={() => {setMenuOpen(!menuOpen)}}>☰</div-->
             <button id='hamburger-icon' class='h-full items-center align-center text-white text-2xl'>☰</button>
             <div id='dropdown-menu' class={`md:hidden fixed flex flex-col right-0 z-100 pr-0 pt-0`}>
                 {pages.map((page, i) => <a
                     href={page.path}
-                    class='link'
+                    class='link link-ver'
                     data-text={page.name}>
                         <div class='bg-black z-150'>
                             {page.name}
@@ -83,16 +78,19 @@ import Button from '../shared/button.astro'
         margin: 0;
     }
 
-    #banner-button {
+    .banner-button {
         width: 15rem;
         overflow: hidden;
         transition: width 0.5s;
     }
-    #banner-button.cta-hidden {
+    .cta-hidden {
         width: 0rem;
         overflow: hidden;
         transition: width 0.5s;
         pointer-events: none;
+    }
+    .no-transition {
+        transition: none;
     }
 
     #dropdown-menu.menu-shown {
@@ -156,13 +154,19 @@ import Button from '../shared/button.astro'
         font-size: 1.7rem;
         font-weight: 500;
         text-decoration: none;
-        transform: translate(0px);
+        transform: translate(0px, 0px);
         transition: transform 0.2s;
     }
 
     .link:hover {
         color: #ddd;
         transform: translate(10px);
+        transition: transform 0.2s;
+    }
+
+    .link-ver:hover {
+        color: #ddd;
+        transform: translate(0px, -5px);
         transition: transform 0.2s;
     }
 
@@ -186,7 +190,7 @@ import Button from '../shared/button.astro'
 <script>
     let burgerClosed = true;
 
-    document.querySelector('#banner-button')?.classList.remove('cta-hidden');
+    document.getElementById('banner-button')?.classList.remove('cta-hidden');
     document.getElementById('hamburger-icon')?.classList.remove('rotated');
     document.getElementById('dropdown-menu')?.classList.remove('menu-shown');
 
@@ -198,5 +202,10 @@ import Button from '../shared/button.astro'
             document.getElementById('hamburger-icon')?.classList.toggle('rotated');
         }   
     )
-
+    
+    window.addEventListener('load', () => {
+        const btn = document.querySelector('#banner-button');
+        btn?.classList.remove('no-transition');
+        console.log('event listened');
+    });
 </script>

@@ -25,35 +25,41 @@ const goalCards = [
 ]
 ---
 
-<Layout currentPage='/' class=''>
+<Layout currentPage='/' class='flex flex-col text-center gap-[var(--global-gap)]'>
     <Hero id='hero-section'/>
-    <div id='margined-master' class='flex flex-col text-center gap-20 md:py-20 w-full max-w-[1400px] m-auto'>
-        <h1 class='text-5xl md:text-7xl'>Kva kjempar me for?</h1>
-        <div id='goal-cards' class='h-fit grid grid-cols-1 md:grid-cols-3 gap-15'>
+    <section id='goal-cards' class='margined grid gap-[var(--hl-con-gap)]'>
+        <h1 class='text-5xl md:text-7xl col-span-full'>Kva kjempar me for?</h1>
+        <div class='h-fit grid grid-cols-1 md:grid-cols-3 gap-10'>
             {goalCards.map( ({ head, image, link }) => (
-                <Card colorSet='var(--main-blue)' class='grid grid-rows-[1fr_auto_auto] gap-10 md:gap-20 py-10 px-10 rounded-2xl '>
-                    <h1 class='text-white text-3xl md:text-5xl text-center'>{head}</h1>
-                    <img src={image} class='h-full mx-auto items-center'>
+                <Card colorSet='var(--main-blue)' class='h-full grid grid-rows-[1fr_auto_auto] gap-10 md:gap-20 py-10 px-10 rounded-2xl '>
+                    <h1 class='text-white text-3xl md:text-5xl text-center leading-15'>{head}</h1>
+                    <img src={image} class='h-4/5 mx-auto items-center'>
                     <a href={link} class='flex flex-row m-auto gap-2 text-center text-3xl text-white font-bold'>
                             <p class='hover:translate-x-2 transition duration-300'>Les meir ></p>
                     </a>
                 </Card>
             ))}
         </div>
-        <div id='hending-section' class='grid grid-cols-1 md:grid-cols-3 gap-20'>
-            <h1 class='text-center mx-auto md:text-left text-5xl md:text-6xl md:pt-8 md:col-span-1'>Kvissleis skjer fram&shy;over?</h1>
+    </section>
+    <section id='hending-section' class='bg-[var(--light-blue)] py-20'>
+        <div class='margined grid grid-cols-1 md:grid-cols-3 gap-20'>
+            <h1 class='text-center mx-auto md:text-left text-5xl md:text-6xl md:pt-8 md:col-span-1 text-black'>Kvissleis skjer fram&shy;over?</h1>
             <Hendingar class='md:col-span-2' />
         </div>
-    </div>
+    </section>
+    <section class='margined py-10 gap-10 grid grid-cols-1 md:grid-cols-2'>
+            <p class='text-4xl font-light italic leading-16 text-left'>
+			    «Det språklege mangfaldet i verda er umisteleg, av di kvart språk har sin unike måte å tolka røynda på. Norske dialektar, skriftspråk og mindretalsspråk er Noregs bidrag til det globale språkmangfaldet. Det er vår oppgåve å tryggja og byggja vidare på dette bidraget.»
+			</p>
+            <h1 class='text-6xl'>
+                —Tufta til Norsk Målungdom
+            </h1>
+    </section>
 </Layout>
 
 <script>
-    const hero = document.getElementById('hero-section');
+    const smallButton = document.getElementById('hero-CTAbutton');
     const cta = document.getElementById('banner-button');
-
-    console.log('Hallo, verd!')
-    console.log('cta:', cta)
-    console.log('hero:', hero)
 
     const observer = new IntersectionObserver(
         ([entry]) => {
@@ -62,5 +68,10 @@ const goalCards = [
         { threshold: 0.1}
     )
 
-    if (hero) observer.observe(hero);
+    if (smallButton) observer.observe(smallButton);
 </script>
+
+<style>
+
+
+</style>

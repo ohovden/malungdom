@@ -36,10 +36,10 @@ import Footer from '@components/layout/footer.astro';
 			<Banner pagePath={currentPage} />
 		</div>
 		<div class='bannerH'/>
-		<div id='master-div' class={`w-full ${className}`}>
+		<div id='master-div' class={`w-full flex flex-col gap-[var(--global-gap)] ${className}`}>
 			<slot />
 		</div>
-		<Footer />
+		<Footer class='mt-20'/>
 	</body>
 </html>
 

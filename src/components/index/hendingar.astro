@@ -23,7 +23,7 @@ const dateOptions: object = {
 
 <div class={`w-full grid grid-cols-1 gap-10 ${className}`}>
     {hendingar.map((hending) => (
-        <Card colorSet='var(--light-grey)' borderwidth='2px' class='rounded-3xl shadow-2xl grid md:grid-cols-2 overflow-clip'>
+        <Card colorSet='var(--light-grey)' borderwidth='0px' class='rounded-3xl shadow-2xl grid md:grid-cols-2 overflow-clip'>
             <div id={`card-text-${hending.data.title}`} class='px-5 py-8 md:px-10 grid grid-cols-[auto_1fr] gap-5'>
                 <h1 class='text-left text-3xl md:text-4xl font-bold col-span-2'>{hending.data.title}</h1>
                 <img class='-translate-y-1 md:translate-y-0' src={CalendarIcon.src} /> 

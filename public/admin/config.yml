@@ -55,6 +55,16 @@ collections:
       - {required: false, label: "Lagtype", name: "lagtype", widget: "select", options: ['Studentlag', 'Elevlag', 'Anna']}
       - {required: false, label: "Aktiv", name: "active", widget: "select", options: ['Ja', 'Nei']}
 
+  - name: 'song'
+    label: "Song i songhefte"
+    folder: "src/content/songar"
+    create: true
+    fields:
+      - {label: "Tittel", name: 'title', widget: "string"}
+      - {label: "Tekstforfattar", name: 'author', widget: "string"}
+      - {required: false, label: "Tone", name: 'tone', widget: "string"}
+      - {label: "Songtekst", name: body, widget: "markdown"}
+
 
 
 local_backend: true

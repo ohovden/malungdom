@@ -60,7 +60,7 @@ const politiskProgram = [
 
 <Layout currentPage='/politikk'>
 	<!--Hero-seksjon -->
-	<div class='grid grid-cols-1 md:grid-cols-2 bg-[var(--light-grey)]'>
+	<section class='grid grid-cols-1 md:grid-cols-2 bg-[var(--main-grey)]'>
 		<img src='/marentalar.jpg' />
 		<div class='flex justify-center mx-10 md:mx-auto my-10 md:my-auto text-left md:text-justify italic '>
 			<div class='flex flex-col w-full max-w-3xl gap-10'>
@@ -70,30 +70,40 @@ const politiskProgram = [
 				</p>
 			</div>
 		</div>
-	</div>
+	</section>
 	<!--Vanleg seksjon-->
-	<div class='flex flex-col text-center gap-20 md:py-20 w-full max-w-[1400px] m-auto'>
+	<section class='flex flex-col text-center gap-[var(--global-gap)] margined'>
 		<!--Element for arbeidsprogram-->
-		<div class='w-fit m-auto'><h1 class='text-7xl px-8 py-5'>Politiske program</h1></div>
-		<Card colorSet='var(--light-grey)' borderwidth='3px' class='grid grid-cols-1 md:grid-cols-2 rounded-2xl w-2/3 mx-auto'>
-			<div class='p-5 text-left'>
+		<div class='grid grid-cols-1 md:grid-cols-3'>
+			<div class='w-fit m-auto'>
+				<h1 class='text-7xl px-8 py-5'>Politiske program</h1>
+			</div>
+			<div class='p-5 text-left md:col-span-2 h-full items-center align-center'>
 				<p class='italic'>NMU vedtar ulike politiske program som legg grunnlag for organisajonen. Dei politiske programma er tankegrunnlaget til dei politiske standpunkta våre.</p>
 			</div>
-			<img src=''/>
-		</Card>
-		<nav class='grid grid-cols-1 md:grid-cols-3 gap-5 md:gap-10 mx-5'>
+		</div>
+		<nav class='grid grid-cols-1 md:grid-cols-2 gap-5 md:gap-5 mx-5'>
 				{politiskProgram.map((program) => ( 
-					<a href={program.path} class='w-full aspect-2/1 md:aspect-square ease-in-out isolate'>
-						<Card colorSet='var(--main-blue)' class='h-full w-full rounded-3xl grid items-center overflow-clip relative'>
-							<img class='h-full object-cover z-0' src={program.image} />
-							<div class='absolute inset-0 flex items-center justify-center pt-0 z-10'>
-								<p class='text-white bg-[var(--main-green)] opacity-98 w-full mx-5 rounded-2xl p-5 font-bold text-4xl text-center'>{program.title}</p>
-							</div>
+					<a href={program.path} class='w-full ease-in-out isolate'>
+						<Card colorSet='var(--light-blue)' class='p-10'>
+							<p class='text-center text-2xl'>{program.title}</p>
 						</Card>
 					</a>
 				))}
 		</nav>
-	</div>
+	</section>
+	<!--Fråsegner-->
+	<section class='margined flex flex-col text-center gap-[var(--global-gap)]'>
+		<div class='grid grid-cols-1 md:grid-cols-3'>
+			<div class='p-5 text-left md:col-span-2 h-full items-center align-center'>
+				<p class='italic'>Les våre utrop om aktuelle tema</p>
+			</div>
+			<div class='w-fit m-auto'>
+				<h1 class='text-7xl px-8 py-5'>Fråsegner</h1>
+			</div>
+		</div>
+
+	</section>
 </Layout>
 
 <script>
