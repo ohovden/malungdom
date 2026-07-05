@@ -1,0 +1,37 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Card from "@components/shared/card.astro";
+
+import '@styles/globals.css';
+
+import { getCollection } from "astro:content";
+
+const songar = await getCollection('songar')
+---
+
+<Layout>
+    <h1 class='text-7xl text-center pt-20'>Songheftet til Norsk Målungdom</h1>
+    <section class='bg-[var(--light-blue)] py-10'>
+        <div class='margined grid text-center items-center gap-[var(--hl-con-gap)]'>
+            <Card colorSet='var(--light-grey)' class='grid grid-cols-1 md:grid-cols-5 rounded-2xl p-10'>
+                {songar.map((song, i) => ( 
+                    <button id={`song-${i}`} class='border-2 m-2 h-15'>
+                        <p class='text-[17px]'>
+                            {song.data.title}
+                        </p>
+                    </button>
+                ))}
+            </Card>
+        </div>
+    </section>
+</Layout>
+
+<style>
+    .selected {
+        
+    }
+</style>
+
+<script>
+
+</script>

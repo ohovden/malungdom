@@ -17,4 +17,8 @@ const lokallag = defineCollection({
 	loader: glob({ pattern: "*.md", base: "./src/content/hendingar"}),
 });
 
-export const collections = { fraasegner, artiklar, hendingar, lokallag };
+const songar = defineCollection({
+	loader: glob({ pattern: "*.md", base: "./src/content/songar"}),
+});
+
+export const collections = { fraasegner, artiklar, hendingar, lokallag, songar };
