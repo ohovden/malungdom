@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 
 import react from '@astrojs/react';
+import remarkBreaks from 'remark-breaks';
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,6 +29,10 @@ export default defineConfig({
           interval: 300
         }
       }
+  },
+
+  markdown: {
+    remarkPlugins: [remarkBreaks],
   },
 
   integrations: [react()]

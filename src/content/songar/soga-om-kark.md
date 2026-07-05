@@ -13,7 +13,8 @@ Vår lagnad den vert lik.
 For vi to vart fødd i same natt og saman skal vi døy.
 Ein træl vert ikkje fri
 om han drep sin jarl for å tene ein annan mann.
-For stormenn er like feig og falsk og umoralsk, så svik du meg, så svik vel kongen deg.
+For stormenn er like feig og falsk og umoralsk, 
+så svik du meg, så svik vel kongen deg.
 
 Men bøndene vart arg
 og hærpil blei sendt ut,

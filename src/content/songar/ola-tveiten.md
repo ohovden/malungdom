@@ -50,10 +50,10 @@ og held sin takketale
 for den stolte kontraktør.
 Så ropar dei alle høgt hurra!
 – Sudelida, sudelidei!
-Og får bilete sitt i bla`.
+Og får bilete sitt i bla.
 – Sudelida, sudelidei!
 Men du finn nok ikkje oss
-blant alle dei fine folk i floss`
+blant alle dei fine folk i floss
 nei, du kan be dei dra til Moss!
 – Sudelida, sudelidei!
 Tra la lalala la.
