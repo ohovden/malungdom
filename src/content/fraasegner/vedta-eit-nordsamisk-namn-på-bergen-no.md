@@ -1,0 +1,16 @@
+---
+title: Vedta eit nordsamisk namn på Bergen no!
+date: 2025-11-09
+signatory: Landsstyret
+image: ''
+---
+
+Frå august 2025 har Oslo kommune samiske namn! Kommunen heiter Osloven tjïelte på sørsamisk, Oslo suohkan på lulesamisk og anten Oslo suohkan eller Oslo gielda på nordsamisk. Drivkrafta for dette var at Oslo bystyre vedtok Oslove som sørsamisk namn på byen i 2023. At dei som snakkar eit samisk språk, no har ein offisielt godkjend måte å omtale hovudstaden i landet dei bur i, skulle berre mangle. Landsstyret i Norsk Målungdom rosar derfor Oslo for at dei gjer samisk sin sjølvsagde posisjon i Noreg litt meir synleg gjennom denne handlinga.
+
+Det same året som Oslo bystyre vedtok sørsamisk namn på byen, altså i 2023, kom eit liknande forslag opp i Bergen bystyre. Der var det snakk om å vedta eit nordsamisk namn på byen. Det skulle vere Birgon, ei form som er dokumentert brukt uoffisielt i nordsamisk skriving. I tillegg vart det med i forslaget at Bergen skulle vedta namnet Peruna på kvensk og Bærna-fåron på romani. Da bystyret stemte, var det SV, Raudt, MDG og Pensjonistpartiet som stemte for forslaget. Resten av partia stemte imot, og det vart ikkje fleirtal.
+
+At Oslo vedtok eit sørsamisk namn, var ikkje ei sjølvfølgje. Oslo ligg nemleg langt utanfor Sápmi, området der folk som snakkar samisk og tradisjonelt har budd fast og drive næring. Dermed hadde byen ikkje noko krav på seg om å vedta eigne samiske namn etter stadnamnlova. Likevel gjorde dei nettopp det, noko som både gjer det synleg at det no bur mange samar i Oslo, og at samar, som er urfolk i Noreg, føler like stor tilhøyrsle og eigarskap til hovudstaden sin som resten av befolkninga. At hovudstaden sjølv ønskjer å synleggjere det samiske, er ei stor endring frå den lange historia Noreg har der samisk har vorte forsøkt usynleggjort.
+
+Dei same argumenta som vart lagde vekt på for at Oslo skulle vedta samiske namn, gjeld også for Bergen. Talet på busette i Bergen som står i samemanntalet har meir en firdobla seg mellom 2009 og 2025. Dessutan har Bergen vore ein relevant by for samane i langt lengre tid enn Oslo har vore. Nord-Noreg var del av Bergenhus stiftamt fram til 1685, som innebar at biskopen i Bergen også var myndig over Nord-Noreg. Bergen spelte ei viktig rolle i fornorskinga av samane, og det var til dømes Bergen sin offisielle avrettar som avretta Aslak Hætta og Mons Somby for at dei hadde leia det samiske Kautokeino-opprøret i 1852. Denne argumentasjonen kom Eira Martinsen Garrido (SV) med da ho la fram forslaget i bystyret. Bergen er derfor ein by som absolutt er relevant å omtale for dei som snakkar samisk. Når Oslo har vedtatt eit samisk namn, men Bergen ikkje har gjort det, har Bergen på eit vis kommunisert at dei ikkje er ein like viktig by i Noreg som Oslo er.
+
+Det er på tide at Bergen tar dette viktige steget for å løfte fram det samiske, heller enn å trykke det ned. Når Oslo har gjort det, kan Bergen også gjere det. Landsstyret i Norsk Målungdom meiner at denne kampen er langt ifrå ferdig berre fordi det vart nei i 2023. Vi har tru på at Bergen kan gjere det riktige på andre forsøk.
