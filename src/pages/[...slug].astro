@@ -54,7 +54,7 @@ let subpages = allItems
     <div class='w-full max-w-4xl mx-10 md:m-auto text-center md:gap-20 pt-20 grid grid-cols-1'>
         <h1 class='text-9xl'>{article.data.title}</h1>
         {article.data.image ? <img src={article.data.image} class='w-full'> : <div/>}
-        <div class='content'>
+        <div class='content pb-20 '>
             <Content />
         </div>
     </div>
@@ -102,8 +102,8 @@ let subpages = allItems
         font-style: italic;
         font-weight: 200;
     }
-    .content a {
+    .content p a {
         @apply inline-block transition-all duration-150 hover:translate-x-1;
-        color: var(--dark-lav);
+        color: var(--text-lav);
     }
 </style>

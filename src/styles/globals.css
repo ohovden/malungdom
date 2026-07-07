@@ -7,7 +7,7 @@
   }
 
   :root {
-    --global-gap: 150px;
+    --global-gap: 100px;
     --hl-con-gap: 75px;
 
     --main-blue: theme('colors.blue.300');
@@ -24,8 +24,10 @@
     --main-green: #b4d3a7;
     --main-green: #40bf9a;
     --main-darkgreen: #081713;
-    --dark-green: #2b5f18;
+    --dark-green: #112908;
+    --dark-green: #000000;
     --light-green: #b4d3a7;
+    --light-green: #9dd893;
 
     --main-grey: #e8e6e6;
     --light-grey: #eef0f4;
@@ -137,6 +139,7 @@
 @media(max-width: 768px) {
   :root {
     --global-gap: 50px;
+    --hl-con-gap: 25px;
   }
 
 	.mainText {

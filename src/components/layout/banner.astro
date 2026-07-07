@@ -58,7 +58,7 @@ import Button from '../shared/button.astro'
         </div>    
         <div class={`h-full md:hidden flex flex-col justify-start p-0 pr-7`} >
             <button id='hamburger-icon' class='h-full items-center align-center text-white text-2xl'>☰</button>
-            <div id='dropdown-menu' class={`md:hidden fixed flex flex-col right-0 z-100 pr-0 pt-0`}>
+            <div id='dropdown-menu' class='md:hidden fixed flex flex-col right-0 z-100 pr-0 pt-0'>
                 {pages.map((page, i) => <a
                     href={page.path}
                     class='link link-ver'
@@ -99,6 +99,7 @@ import Button from '../shared/button.astro'
         height: 15rem;    
         transition: height 0.5s;
         overflow: hidden;
+        pointer-events: auto;
     }
     #dropdown-menu {
         height: 0rem;    

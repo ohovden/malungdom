@@ -1,0 +1,53 @@
+---
+import '@styles/globals.css';
+import { getCollection } from 'astro:content';
+
+const fraasegner = await getCollection('fraasegner');
+
+const testetekst = fraasegner[0].body;
+---
+
+<section class='shown'>
+    <!--Blurred bg-->
+    <div id='blocker' class='fixed inset-0 w-screen h-screen backdrop-blur-[4px] z-100'>.</div>
+    <!--Text box itself-->
+    <div class='default'>
+        <div class=''>
+            <div class='bg-[var(--light-grey)] border-2 rounded-2xl p-10 h-full max-h-full'>
+                <button class='absolute inset-0'>
+                    X
+                </button>
+                <h1 id='fraasegn-headline'></h1>
+                <p id='fraasegn-headline'>{testetekst}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    @reference "tailwindcss";
+
+    .shown {
+        position: fixed;
+        transform: translate(0, 0svh);
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .default {
+        @apply fixed
+            top-[calc(var(--banner-h-mobile)+var(--hl-con-gap))] 
+            md:top-[calc(var(--banner-h-desktop)+var(--hl-con-gap))] 
+            left-[50svw]
+            w-[95svw] 
+            max-w-[1500px] 
+            h-[calc(100svh-var(--banner-h-mobile)-2*var(--hl-con-gap))] 
+            md:h-[calc(100svh-var(--banner-h-desktop)-2*var(--hl-con-gap))]
+            z-101;
+        transform: translate(-50%, 0svh);
+    }
+
+    .stowed {
+        transform: translate(0, 100svh);
+        transition: transform 0.5s ease-in-out;
+    }
+</style>
